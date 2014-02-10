@@ -1,0 +1,35 @@
+{
+   "app": {
+      "launch": {
+         "local_path": "app.html"
+      }
+   },
+   "background": {
+      "page": "bg.html"
+   },
+   "content_scripts": [ {
+      "js": [ "js/menu.js" ],
+      "matches": [ "http://*/*", "https://*/*" ],
+      "run_at": "document_start"
+   }, {
+      "js": [ "js/jquery-1.7.1.min.js" ],
+      "matches": [ "http://*/*", "https://*/*" ],
+      "run_at": "document_end"
+   } ],
+   "content_security_policy": "script-src 'self' https://ssl.google-analytics.com https://cdn.extensionanalytics.com/; object-src 'self'",
+   "default_locale": "en_US",
+   "description": "__MSG_description__",
+   "icons": {
+      "128": "icon128.png",
+      "16": "icon16.png",
+      "48": "icon48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDLeuQci4Qp/gGnAdlhrjJQ6lIIkO9LWgiANjPKNtr0xdBflfMSDbm6UnAedV1UG/mYghz1t9uP47Ui/QAXGgSeuLs+DrM6kanLkfIweRe5HSjgVEp2U7XDQyWYGDkhATUSDEFwhDnS37VVTNNtzlsQAGtHybDZWbnEMEEKz8AsgwIDAQAB",
+   "manifest_version": 2,
+   "name": "Quick Note",
+   "offline_enabled": true,
+   "permissions": [ "webRequest", "webRequestBlocking", "webNavigation", "idle", "tabs", "http://*/*", "https://*/*", "contextMenus", "unlimitedStorage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.6.4",
+   "web_accessible_resources": [ "note.html" ]
+}

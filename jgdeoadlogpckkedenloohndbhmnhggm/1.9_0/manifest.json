@@ -1,0 +1,18 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://www.mydoctorgames.com/"
+      },
+      "urls": [ "http://www.mydoctorgames.com/virtual-braces/" ]
+   },
+   "description": "My Doctor Games include many subcategories. Kids and medicine students can play these both educational and enjoyful games. ",
+   "icons": {
+      "128": "icon_128.png",
+      "16": "icon_16.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCUrng6HEodcfEB/9MhJFCNL/A8ZjBWdRij+Y2o0A+/QU/6/mYLlljcWM9DXAtm9Ya274aIuhh2jHeXJUjtrxjAIhO+AmqWVwm5FQ0VBeBnSP/AynsMJEQaKOh+WqqSUCIrmeskk7X0iR3crhzXRgppzlkxFaWLWHS+A17ddU8ceQIDAQAB",
+   "manifest_version": 2,
+   "name": "Doctor Games",
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "1.9"
+}

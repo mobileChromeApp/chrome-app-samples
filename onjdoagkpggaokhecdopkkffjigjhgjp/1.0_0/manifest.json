@@ -1,0 +1,18 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://www.shootemall.net/category/sniper-games/"
+      },
+      "urls": [ "http://www.shootemall.net/category/sniper-games/" ]
+   },
+   "description": "Best sniper games are collected in this category for the action game lovers. Shoot all the terrorists or other kinds of enemies.",
+   "icons": {
+      "128": "icon_128.png",
+      "16": "icon_16.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCiz+JSpO4+6Z4v4gE5iHTdC+GdjWU5BlctivMXebrVk6WbCNeRsG+r521mUZutZbbrKyJq6atctnRAzY1dFkbGh5O3hWkNc9Rpr2vNVtF6WgiXBvCIqHqrSiy51sx5c4SWjFyINHQxJHrVYInnQoPBvgplJsCJ7CFriyhhAb6qGwIDAQAB",
+   "manifest_version": 2,
+   "name": "Sniper Games",
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "1.0"
+}
