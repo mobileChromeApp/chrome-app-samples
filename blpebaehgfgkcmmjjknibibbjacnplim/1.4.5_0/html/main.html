@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Pasjans/Solitaire</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <link rel="stylesheet" href="/css/main.css" type="text/css" media="screen" />
+        <script src="/compressed/ga.js" ></script>
+        <script src="/compressed/init.js"></script>
+        <script src="/compressed/vendor-chrome.js"></script>
+        <script src="/compressed/solitaire.js"></script>
+        <script src="/compressed/start.js" ></script>
+    </head>
+    <body>
+        <div id="ind_container" class="shadow">
+            <img src="/images/ind.gif" alt="Loading ..." />
+        </div>
+        <div id="main">
+            <div id="stack_section">
+                <div class="blank" id="stack"></div>
+            </div>
+            <div id="dock_section"></div>
+            <div id="board_section"></div>
+        </div>
+        <a id="menu_button" href="#">Menu</a>
+        <div id="menu_content">
+            <a href="#" class="menu_new_game menu_action">New game</a>
+            <a href="#" class="menu_restart_game menu_action">Retry game</a>
+            <a href="#" class="menu_select_game menu_action">Select game</a>
+            <a href="#" class="menu_multiplayer menu_action">Multiplayer</a>
+            <a href="#" class="menu_option menu_action">Options</a>
+            <a href="#" class="menu_skin menu_action">Themes</a>
+            <a href="#" class="menu_info menu_action">?</a>
+            <img id="event_widget" src="/images/christmas.png" alt="Merry Christmas :)" title="Merry Christmas :)" style="display: none" />
+        </div>
+        <div id="game_status">
+            <a href="#" id="game_action_undo" class="inactive"><img src="/images/undo.png" />&nbsp;&nbsp;Undo</a>
+            <a href="#" id="game_action_globalstats">Stats</a>
+            <a href="#" id="game_action_auth">Login</a>
+        </div>
+        <div id="game_labels" style="display: none">
+            <div id="bg_label"></div>
+            <div id="bg_btn_label">
+                <span id="label_time" style="display: none">Time: 00:00</span>
+                <span id="label_score" style="display: none">Score: 0</span>
+                <span id="label_moves" style="display: none">Moves: 0</span>
+            </div>
+        </div>
+        <div id="footer_menu_left" style="display: none;">
+            <div class="menu_wrapper_action menu_wrapper_action_sound">
+                <a href="#" data-lang-id="menu-bottom.sound" class="menu_toggle_sound menu_action" >
+                    <img src="/images/sound.png" alt="" />
+                </a>
+                <span class="footer_separator"> | </span>
+            </div>
+            <div class="menu_wrapper_action menu_wrapper_action_pause">
+                <a href="#" data-lang-id="menu-bottom.pause" class="menu_toggle_pause menu_action" >
+                    <img src="/images/pause_off.png" alt="" />
+                </a>
+                <span class="footer_separator"> | </span>
+            </div>
+            <div class="menu_wrapper_action menu_wrapper_action_card_variant">
+                <a href="#" data-lang-id="menu-bottom.card-variant" class="menu_toggle_card_variant menu_action" >
+                    <img src="/images/card_variant.png" alt="" />
+                </a>
+                <span class="footer_separator"> | </span>
+            </div>
+            <div class="menu_wrapper_action menu_wrapper_action_fullscreen" style="display: none">
+                <a href="#" data-lang-id="menu-bottom.fullscreen" class="menu_toggle_fullscreen menu_action" >
+                    <img src="/images/fullscreen_off.png" alt="" />
+                </a>
+                <span class="footer_separator"> | </span>
+            </div>
+            <div class="menu_wrapper_action menu_wrapper_action_rules">
+                <a href="#" data-lang-id="menu-bottom.rules" class="menu_toggle_rules menu_action" >
+                    <img src="/images/bottom_info.png" alt="" />
+                </a>
+                <span class="footer_separator_last"> | </span>
+            </div>
+        </div>
+        <div id="footer_theme_author" style="display: none"></div>
+        <div id="footer_multiplayer" style="display: none"></div>
+        <div id="social_addons"></div>
+        <script type="text/javascript" src="/compressed/social-addons.js" ></script>
+    </body>
+</html>

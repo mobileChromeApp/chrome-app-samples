@@ -1,0 +1,79 @@
+#main {
+    display: block;
+    margin: auto;
+    width: 960px;
+    height: 100%;
+    overflow: hidden;
+}
+#stack {
+    display: block;
+    margin-top: 45px;
+    margin-left: 5px;
+}
+#stack_section, #dock_section {
+    height: 185px;
+    display: block;
+    float: left;
+    padding-bottom: 15px;
+}
+#stack_section {
+    width: 230px;
+}
+#dock_section {
+    padding-left: 0px;
+    width: 730px;
+}
+#dock_section .blank_foundation, #board_section .blank_tableau {
+    margin-left: 1px;
+}
+#dock_section .blank_foundation {
+    margin-top: 45px;
+}
+#board_section {
+    display: block;
+    float: left;
+    width: 100%;
+    height: 100%;
+    clear: both;
+}
+#board_section .blank_tableau {
+    opacity: 0.15;
+    filter: alpha(opacity=15);
+    margin-top: 85px;
+    z-index: 0;
+}
+#board_section .blank_tableau_first {
+    margin-left: 53px;
+}
+
+.blank, .card {
+    width: 88px;
+    height: 117px;
+    -moz-border-radius: 10px 10px 10px 10px;
+    border-radius: 10px 10px 10px 10px;
+    -webkit-border-radius: 10px 10px 10px 10px;
+}
+.blank {
+    background-attachment: scroll;
+    background-color: #000;
+    background-position: top left;
+    background-repeat: no-repeat;
+    background-image: none !important;
+    opacity: 0.15;
+    filter: alpha(opacity=15);
+    float: left;
+}
+.card {
+    position: absolute;
+    top: -200px;
+    left: -100px;
+    cursor: pointer;
+    -moz-border-radius: 10px 10px 10px 10px;
+    border-radius: 10px 10px 10px 10px;
+    -webkit-border-radius: 10px 10px 10px 10px;
+}
+
+
+._css-loader {
+    height: 3px;
+}

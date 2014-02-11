@@ -1,0 +1,107 @@
+.select_theme .card, .select_advanced_theme .card, .select_advanced_theme img.back_card {
+    height: 144px;
+    width: 109px;
+    display: inline;
+}
+
+.lbx_win {
+    width: 500px;
+    height: 534px;
+    background-color: #D7E4EA;
+    overflow: hidden;
+    border-radius: 20px 20px 0 0;
+    -webkit-border-radius: 20px 20px 0 0;
+    -moz-border-radius: 20px 20px 0 0;
+    box-shadow: 0px 0px 25px #000;
+    -webkit-box-shadow: 0px 0px 25px #000;
+    -moz-box-shadow: 0px 0px 25px #000;
+}
+.lbx_win table {
+    background-color: #DDDDDD;
+    border: 1px solid #CCCCCC;
+    margin: auto;
+    width: 464px;
+    padding: 9px 18px 9px 18px;
+    border-radius: 5px 5px 0 0;
+    -webkit-border-radius: 5px 5px 0 0;
+    -moz-border-radius: 5px 5px 0 0;
+}
+.lbx_win td {
+    font-size: 21px;
+    color: #222222;
+    padding: 3px 0;
+}
+.lbx_win .win_buttons {
+    width: 100%;
+    text-align: center;
+}
+.lbx_win input {
+    margin: 4px 15px 15px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    display: inline;
+    float: none;
+}
+.lbx_win input.new_game {
+    margin-left: 0px;
+}
+.select_theme {
+    height: 120px;
+}
+.select_theme div.label_bg {
+    font-size: 21px;
+    height: 37px;
+    opacity: 0.5;
+    padding-left: 15px;
+    padding-top: 10px;
+    top: -75px;
+}
+.skin_item div.label_bg .skin_item_default {
+    height: 21px;
+    padding: 5px 1px 1px;
+}
+#bg_label {
+    height: 37px;
+}
+.option_item .option_item_entry .game_preview {
+    display: block !important;
+}
+.games_window {
+    height: 100%;
+}
+.games_wrapper {
+    height: 65%;
+}
+
+.dashboard_details ul li {
+    padding: 5px 0 5px 0;
+}
+.info_desc {
+    margin-bottom: 3px;
+}
+.dashboard_cont .welcome_player {
+    margin-top: 7px;
+    margin-bottom: 9px;
+}
+.dashboard_cont .row {
+    font-size: 13px;
+    margin: 3px;
+}
+.stats_table_cont {
+    height: 345px;
+}
+.stats_info {
+    font-size: 11px;
+}
+.stats_results table {
+    font-size: 12px;
+}
+.stats_results .filter {
+    font-size: 11px;
+}
+
+
+
+._css-loader-navi {
+    height: 11px;
+}

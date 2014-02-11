@@ -1,0 +1,11 @@
+body {
+    background-attachment: scroll;
+    background-color: transparent;
+    background-image: url("/images/backgrounds/classic_old/background.jpg");
+    background-position: center top;
+    background-repeat: no-repeat;
+    font-family: Tahoma;
+    overflow: hidden;
+}
+#no_support_mask {display: block !important;}
+#no_support_box {display: block !important;}

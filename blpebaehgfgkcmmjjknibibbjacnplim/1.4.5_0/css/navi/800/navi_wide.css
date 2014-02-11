@@ -1,0 +1,24 @@
+.lbx_games {
+    width: 720px;
+    height: 428px;
+}
+.games_window {
+    height: 228px;
+}
+
+._css-loader-navi-wide {
+    height: 10px;
+}
+
+
+
+
+
+
+
+
+
+.game_labels {
+    bottom: 0px !important;
+    top: auto !important;
+}

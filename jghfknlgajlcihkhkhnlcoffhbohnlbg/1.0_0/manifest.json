@@ -1,0 +1,20 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://mybrowserpage.com/"
+      },
+      "urls": [ "http://mybrowserpage.com/" ]
+   },
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "icons": {
+      "128": "128.png",
+      "24": "24.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC+Utlk2gKwebVtMaQ+BVyvCa/hcf7hSqz7+ttZ98fzrMHbaOjnE1oZv5WI5iO8Yg6aU4avo3vxZD+E9LSO8WdUpvDgrm64+IOeTa2ZLfc9ZY2Z5tM2JQ8VLcxX1p+XtDUw4Fvo5cYM8AqbgjZXsySjU5XdUiRwFdgPHB3HVNc5XQIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_appName__",
+   "permissions": [ "unlimitedStorage", "notifications" ],
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "1.0"
+}

@@ -1,0 +1,74 @@
+#main {
+    display: block;
+    margin: auto;
+    width: 560px;
+    height: 100%;
+    overflow: hidden;
+}
+#stack {
+    display: block;
+    margin-top: 25px;
+    margin-left: 0px;
+}
+#stack_section, #dock_section {
+    height: 125px;
+    display: block;
+    float: left;
+    padding-bottom: 15px;
+}
+#stack_section {
+    width: 70px;
+}
+#dock_section {
+    padding-left: 40px;
+    width: 448px;
+}
+#dock_section .blank_foundation, #board_section .blank_tableau {
+    margin-left: 1px;
+}
+#dock_section .blank_foundation {
+    margin-top: 25px;
+}
+#board_section {
+    display: block;
+    float: left;
+    width: 100%;
+    height: 100%;
+    clear: both;
+}
+#board_section .blank_tableau {
+    opacity: 0.15;
+    filter: alpha(opacity=15);
+    margin-top: 25px;
+    z-index: 0;
+}
+#board_section .blank_tableau_first {
+    margin-left: 0px;
+}
+
+.blank, .card {
+    width: 55px;
+    height: 73px;
+    -moz-border-radius: 10px 10px 10px 10px;
+    border-radius: 10px 10px 10px 10px;
+    -webkit-border-radius: 10px 10px 10px 10px;
+}
+.blank {
+    background-attachment: scroll;
+    background-color: #000;
+    background-position: top left;
+    background-repeat: no-repeat;
+    background-image: none !important;
+    opacity: 0.15;
+    filter: alpha(opacity=15);
+    float: left;
+}
+.card {
+    position: absolute;
+    cursor: pointer;
+}
+
+
+._css-loader {
+    height: 3px;
+}

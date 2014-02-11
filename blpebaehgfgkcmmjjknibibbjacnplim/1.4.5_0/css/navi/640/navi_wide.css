@@ -1,0 +1,22 @@
+.lbx_games {
+    width: 520px !important;
+    height: 306px !important;
+}
+.games_window {
+    height: 177px !important;
+}
+.lbx_games .ads, .option_item .game_preview, 
+    .lbx_games .option_item_entry span.stars {
+    display: none !important;
+}
+.lbx_games .option_item .option_item_entry {
+    height: 16px !important;
+    font-size: 12px !important;
+}
+p.game_desc {
+    display: none !important;
+}
+
+._css-loader-navi-wide {
+    height: 10px;
+}

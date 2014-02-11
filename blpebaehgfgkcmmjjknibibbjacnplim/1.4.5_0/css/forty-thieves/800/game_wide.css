@@ -1,0 +1,14 @@
+#stack_section, #dock_section {
+    height: 130px;
+    display: block;
+    float: left;
+    padding-bottom: 15px;
+}
+#board_section .blank_tableau {
+    margin-top: 5px !important;
+}
+
+
+._css-loader {
+    height: 3px;
+}

@@ -1,0 +1,24 @@
+{
+   "app": {
+      "background": {
+         "scripts": [ "main.js" ]
+      }
+   },
+   "description": "Get the most accurate local current conditions, forecast, Doppler radar and the fastest severe weather alerts. Know Before\u2122",
+   "icons": {
+      "128": "images/icon128.png",
+      "16": "images/icon16.png",
+      "48": "images/icon48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC/3uoxClanCV2SiCURz1ta5ndeeB1GIBhnuobKueH04miOnn+t32Rvj4ATd4CfrbsdacF99hsKVBecNJyMjjVL/9rPsOgQI6N7mYah+FNhSi1qRRaKHMWT2SFmSrWFoCy2sQ+JLmwvVEF7ZuxItyGYyPJhtXpsX4ZSXW5n9EwHswIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "27",
+   "name": "WeatherBug",
+   "offline_enabled": true,
+   "permissions": [ "http://*.weatherbug.com/*", "http://*.googleapis.com/*", "https://*.googleapis.com/*", "https://*.gstatic.com/", "https://static.addtoany.com/*", "http://wwc.instacam.com/*", "geolocation", "webview", "storage", "unlimitedStorage" ],
+   "sandbox": {
+      "pages": [ "embedded_ga_host.html", "map_sandbox.html", "social_sandbox.html" ]
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.2.7"
+}

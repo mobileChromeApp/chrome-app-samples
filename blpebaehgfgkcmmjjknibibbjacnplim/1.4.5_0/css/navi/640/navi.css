@@ -1,0 +1,117 @@
+#social_addons {
+    display: none !important;
+}
+.lbx_games {
+    width: 520px !important;
+    height: 392px;
+}
+.games_window {
+    height: 257px;
+}
+.lbx_games .ads, .option_item .game_preview, 
+    .lbx_games .option_item_entry span.stars {
+    display: none !important;
+}
+.lbx_games .option_item .option_item_entry {
+    height: 16px !important;
+    font-size: 12px !important;
+}
+p.game_desc {
+    display: none !important;
+}
+#game_action_auth {
+    bottom: 0px;
+    border-radius: 0 !important;
+    -moz-border-radius: 0 !important;
+    -webkit-border-radius: 0 !important;
+    margin-left: 0px;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+    position: fixed;
+    right: 0px;
+    width: 156px !important;
+}
+#game_action_auth.logged {
+    border-radius: 25px 0 0 0 !important;
+    -moz-border-radius: 25px 0 0 0 !important;
+    -webkit-border-radius: 25px 0 0 0 !important;
+    width: 230px !important;
+}
+#game_action_globalstats {
+    bottom: 0px;
+    border-radius: 25px 0 0 0 !important;
+    -moz-border-radius: 25px 0 0 0 !important;
+    -webkit-border-radius: 25px 0 0 0 !important;
+    position: fixed;
+    right: 157px;
+}
+.lbx_auth_dashboard, .lbx_ranking {
+    height: 490px !important;
+    width: 560px !important;
+}
+.multiplayer .lbx_auth_dashboard, .lbx_ranking {
+    height: 265px !important;
+}
+.dashboard_details ul li {
+    padding: 5px 0 5px 0;
+}
+.info_desc {
+    margin-bottom: 3px;
+}
+.dashboard_cont .welcome_player {
+    margin-top: 7px;
+    margin-bottom: 9px;
+}
+.lbx_auth_dashboard .tab_contents {
+    height: 418px;
+}
+.multiplayer .lbx_auth_dashboard .tab_contents {
+    height: 190px !important;
+}
+.dashboard_cont .row {
+    font-size: 11px;
+    margin: 3px;
+}
+.dashboard_details ul li {
+    padding: 4px 0;
+}
+.rules_cont, .lbx_cont_row .rows, .dashboard_cont .rows {
+    padding: 3px;    
+}
+.stats_table_cont {
+    height: 345px;
+}
+.stats_info {
+    font-size: 11px;
+}
+.stats_results table {
+    font-size: 12px;
+}
+.stats_results .filter {
+    font-size: 11px;
+}
+.tab_buttons a {
+    font-size: 13px;
+    width: 157px;
+}
+.medium_label {
+    font-size: 12px;
+}
+.lbx_ranking .stats_table_cont {
+    height: 382px;
+}
+.lbx_ranking .stats_table_cont.global_stats_ads {
+    height: 323px !important;
+}
+.lbx_ranking .tab_contents {
+    height: 456px;
+}
+.lbx_win .ads {
+    margin-left: 16px;
+    margin-right: 16px;
+}
+
+
+._css-loader-navi {
+    height: 11px;
+}

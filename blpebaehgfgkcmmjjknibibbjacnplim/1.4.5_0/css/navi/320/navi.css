@@ -1,0 +1,60 @@
+#game_labels, #beta_text, #social_addons, #footer_menu_left {
+    display: none !important;
+}
+
+.lbx_games {
+    width: 300px !important;
+    height: 360px;
+}
+.games_window {
+    height: 257px;
+}
+.lbx_games .show_on_start, .lbx_games .ads, .option_item .game_preview, 
+    .lbx_games .option_item_entry span.stars, #game_action_auth, #game_action_globalstats {
+    display: none !important;
+}
+.lbx_games .option_item .option_item_entry {
+    height: 16px !important;
+    font-size: 12px !important;
+}
+p.game_desc {
+    display: none !important;
+}
+
+#menu_content {
+    left: 50px;
+    top: -180px;
+}
+#menu_button, #game_status a {
+    width: 50px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+#menu_content a {
+    clear: both;
+    width: 120px !important;
+    padding: 6px 3px;
+    margin-bottom: 1px;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+}
+#game_status {
+    left: 82px;
+}
+#game_status img {
+    display: none !important;
+}
+#game_status a#game_action_undo {
+    width: 50px;
+    padding-right: 7px;
+}
+.lbx_win .ads {
+    margin-left: 16px;
+    margin-right: 16px;
+}
+
+
+._css-loader-navi {
+    height: 11px;
+}

@@ -1,0 +1,17 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://bejeweled.popcap.com/html5/"
+      },
+      "urls": [ "http://bejeweled.popcap.com/html5/" ]
+   },
+   "description": "PopCap's classic game of gem-swapping is back, bigger and better than ever, with amazing new graphics and effects!",
+   "icons": {
+      "128": "icon_128.png",
+      "24": "icon_24.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCwjeA8uw1moapgY4HFuVCtvCgX1/k/gstRrabfvuXKmeTNLvMlJWH6ptPjCyk0z0m6LyhJlgFL65qQqaZqV0v/QejiGGN50IDn+sjXm0hsEtMut1MAIZ0fOIUW6SAzxFDFJzxSSuIVcdjJV/KASB36FBzuVtv2PAdApJOhtp/N6wIDAQAB",
+   "name": "Bejeweled",
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "2"
+}

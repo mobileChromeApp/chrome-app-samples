@@ -1,0 +1,80 @@
+#menu_content a {
+    width: 92px
+}
+.select_theme .card, .select_advanced_theme .card, .select_advanced_theme img.back_card {
+    height: 144px;
+    width: 109px;
+    display: inline;
+}
+
+.lbx_win table {
+    padding: 15px;
+    width: 80%;
+}
+.lbx_win td {
+    font-size: 21px;
+}
+.lbx_win .win_buttons {
+    width: 100%;
+    text-align: center;
+}
+.lbx_win input {
+    margin: 15px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    display: inline;
+    float: none;
+}
+.lbx_win input.new_game {
+    margin-left: 0px;
+}
+.select_theme {
+    height: 100px;
+    width: 100%;
+}
+.select_theme div.label_bg {
+    font-size: 19px;
+    height: 30px;
+    opacity: 0.5;
+    padding-left: 15px;
+    padding-top: 5px;
+    top: -70px;
+}
+.skin_item div.label_bg .skin_item_default {
+    height: 17px;
+    padding: 3px 1px 4px;
+}
+.select_theme img, .select_theme .card {
+    height: 131px;
+    width: 99px;
+}
+#bg_label {
+    height: 37px;
+}
+.games_window {
+    height: 100%;
+}
+.games_wrapper {
+    height: 65%;
+}
+.lbx_games .ads, .lbx_games .show_on_start, .option_item .game_preview, 
+    .lbx_games .option_item_entry span.stars, p.game_desc, a#game_action_auth {
+    display: none !important;
+}
+.lbx_games .option_item .option_item_entry {
+    height: 16px !important;
+    font-size: 12px !important;
+}
+.lbx_win .ads {
+    height: 0px !important;
+    display: none !important;
+}
+#game_action_globalstats {
+    display: none !important;
+}
+
+
+
+._css-loader-navi {
+    height: 11px;
+}

@@ -1,0 +1,89 @@
+.games_window {
+    height: 282px !important;
+}
+.lbx_games {
+    height: 488px !important;
+}
+.lbx_games.lbx_ads_big {
+    height: 514px !important;
+}
+.lbx_auth_dashboard, .lbx_ranking {
+    height: 490px !important;
+}
+.lbx_ranking.lbx_ads_big .tab_contents {
+    height: 494px !important;
+}
+.lbx_auth_dashboard {
+    height: 500px !important;
+}
+.dashboard_details ul li {
+    padding: 5px 0 5px 0;
+}
+.info_desc {
+    margin-bottom: 3px;
+}
+.dashboard_cont .welcome_player {
+    margin-top: 7px;
+    margin-bottom: 9px;
+}
+.lbx_auth_dashboard .tab_contents {
+    height: 418px;
+}
+.multiplayer .lbx_auth_dashboard .tab_contents {
+    height: 185px;
+}
+.dashboard_cont .row {
+    margin: 3px;
+}
+.dashboard_cont .rows {
+    font-size: 13px;
+}
+.stats_table_cont {
+    height: 345px;
+}
+.lbx_ranking .stats_table_cont {
+    height: 382px;
+}
+.lbx_ranking .tab_contents {
+    height: 466px;
+}
+.stats_ok_filtr_button {
+    margin-top: 13px;
+    margin-bottom: 5px;
+}
+.lbx_ranking .stats_table_cont.global_stats_ads {
+    height: 320px;
+}
+.lbx_win {
+    height: 495px !important;
+}
+.lbx_win .tab_contents {
+    height: 460px !important;
+}
+.lbx_win.lbx_ads_big .tab_contents {
+    height: 475px !important;
+}
+.lbx_win.no-ads {
+    height: 420px !important;
+}
+.lbx_win.no-ads .tab_contents {
+    height: 385px !important;
+}
+
+.lbx_multiplayer_win {
+    height: 492px !important;
+}
+.lbx_multiplayer_win .tab_contents {
+    height: 457px !important;
+}
+.lbx_multiplayer_win.no-ads {
+    height: 432px !important;
+}
+.lbx_multiplayer_win.no-ads .tab_contents {
+    height: 397px !important;
+}
+
+
+._css-loader-navi-wide {
+    height: 10px;
+}

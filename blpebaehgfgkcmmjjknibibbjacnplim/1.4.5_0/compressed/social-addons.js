@@ -1,0 +1,3 @@
+document.writeln('<script type="text/javascript" src="https://apis.google.com/js/plusone.js"><\/script>');
+document.writeln('<g:plusone size="tall" href="http://pasjans-online.pl"></g:plusone>');
+document.writeln('<iframe id="fb_plugin" src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FPasjans%2F204988122864230&amp;layout=button_count&amp;show_faces=false&amp;width=70&amp;action=like&amp;font&amp;colorscheme=light&amp;height=65" scrolling="no" frameborder="0" allowTransparency="true"></iframe>');

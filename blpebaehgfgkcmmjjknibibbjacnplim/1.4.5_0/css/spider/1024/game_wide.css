@@ -1,0 +1,11 @@
+#stack, #dock_section .blank_foundation {
+    margin-top: 25px;
+}
+#board_section .blank_tableau {
+    margin-top: 10px;
+    z-index: 0;
+}
+
+._css-loader {
+    height: 3px;
+}

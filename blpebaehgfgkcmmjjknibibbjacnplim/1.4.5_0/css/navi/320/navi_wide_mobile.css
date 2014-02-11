@@ -1,0 +1,22 @@
+.games_wrapper {
+    height: 45% !important;
+}
+.lbx_win table.ads {
+    height: 0px !important;
+    display: none !important;
+}
+.tab_buttons a, .tab_buttons a.tab_selected {
+    padding-bottom: 3px;
+    padding-top: 3px;
+}
+.lbx_games .option_item .option_item_entry {
+    height: 6px !important;
+}
+.option_item .option_item_entry {
+    padding-top: 4px !important;
+}
+
+
+._css-loader-navi-wide {
+    height: 10px;
+}

@@ -1,0 +1,35 @@
+
+/* menu */
+#menu_content a.menu_info {
+    padding-bottom: 2px;
+}
+
+.lbx_win {
+    width: 770px;
+    height: 525px;
+}
+.lbx_win .lbx_container {
+    width: 770px;
+}
+.lbx_win .tab_contents {
+    height: 490px;
+}
+.lbx_win table {
+    width: 734px;
+    padding-left: 325px;
+    background: #DDD url('/images/winner_bg_cup.jpg') top left no-repeat scroll;
+}
+.lbx_win td.td_player {
+    padding-bottom: 10px;
+    padding-top: 13px;
+}
+.lbx_win.no-ads {
+    height: 420px !important;
+}
+.lbx_win.no-ads .tab_contents {
+    height: 385px !important;
+}
+
+._css-loader-navi {
+    height: 11px;
+}

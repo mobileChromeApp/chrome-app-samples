@@ -1,0 +1,224 @@
+._css-loader {
+    height: 3px;
+}
+
+* {
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+body {
+/*    -webkit-transform: translate3d(0,0,0);*/
+}
+
+.lbx_window {
+    width: 100%;
+    height: 100%;
+    box-shadow: none;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    
+    opacity: 1;
+    -moz-transition: none;
+    -webkit-transition: none;
+    -o-transition: none;
+    -moz-transform: none;
+    -webkit-transform: none;
+    -o-transform: none;
+}
+.lbx_showed {
+    -moz-transform: none;
+    -webkit-transform: none;
+    -o-transform: none;
+}
+.lbx_content {
+    background-color: #EEE;
+    height: 100%;
+}
+.lbx_container {
+    width: 100%;
+    height: 100%;
+}
+.lbx_header {
+    -moz-border-radius: 0;
+    border-radius: 0;
+    font-size: 25px;
+    height: 35px;
+    padding: 10px 5px 4px 14px;
+}
+.lbx_win .lbx_container, .lbx_pause .lbx_container {
+    width: 100%;
+}
+.lbx_container #exit {
+    right: 15px;
+    top: 14px;
+}
+.lbx_pause {
+    width: auto;
+    height: 256px;
+}
+.lbx_pause .lbx_container {
+    width: 500px;
+}
+#ind_container {
+/*    z-index: 1;*/
+}
+
+.options_window {
+    height: 100%;
+}
+#menu_button {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    left: 0px;
+}
+#menu_content a {
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+#game_status a, a#game_action_auth {
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+#bg_btn_label span {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#menu_content a.menu_info {
+    padding: 8px;
+}
+.cards_content {
+    margin-top: 80px;
+}
+.card {
+    -moz-border-radius: 0px !important;
+    -webkit-border-radius: 0px !important;
+    border-radius: 0px !important;
+    
+    -webkit-backface-visibility: hidden;
+    -webkit-transform: translate3d(0, 0, 0);
+    -webkit-perspective: 1000;
+}
+#android-lte-2 .card {
+    -webkit-transform: none !important;
+    -webkit-backface-visibility: visible !important;
+    -webkit-perspective: none !important;
+}
+
+.lbx_win .tab_contents {
+    height: 100%;
+}
+.tab_buttons {
+    padding-top: 17px;
+}
+.tab_buttons a {
+    font-size: 19px;
+    padding-bottom: 8px;
+    padding-top: 8px;
+    -moz-box-shadow: none;
+    box-shadow: none;
+    -webkit-box-shadow: none;
+}
+.tab_contents {
+    height: 100%;
+}
+.option_item .option_item_entry {
+    padding-bottom: 15px !important;
+    padding-top: 15px !important;
+}
+.stats_filter .option_item .option_item_entry {
+    padding-bottom: 5px !important;
+    padding-top: 5px !important;    
+}
+.games .option_item .option_item_entry {
+    height: auto;
+}
+.option_item .option_item_entry .game_preview, .option_item .option_item_entry .caption {
+    display: none !important;
+}
+.select_theme {
+    overflow: hidden;
+    float: left;
+    width: 50%;
+}
+.select_theme div.label_bg {
+    font-size: 25px;
+    height: 43px;
+    opacity: 0.5;
+    padding-left: 15px;
+    padding-top: 10px;
+    top: -27px;
+}
+.select_theme .back_card {
+    -moz-box-shadow: none;
+    box-shadow: none;
+    -webkit-box-shadow: none;
+}
+
+.lbx_win table {
+    padding: 0px;
+    padding-left: 7px;
+    padding-right: 7px;
+    width: 100%;
+}
+.lbx_win td {
+    font-size: 17px;
+}
+.lbx_win .win_buttons {
+    width: 100%;
+    text-align: center;
+}
+.lbx_win input {
+    margin: 5px;
+    display: inline;
+    float: none;
+}
+.lbx_win input.new_game {
+    margin-left: 0px;
+}
+
+.skin_item div.label_bg .skin_item_default {
+    background-color: #CCCCCC;
+    border-radius: 5px 5px 5px 5px;
+    -webkit-border-radius: 5px 5px 5px 5px;
+    -moz-border-radius: 5px 5px 5px 5px;
+    color: #000000;
+    float: right;
+    font-size: 15px;
+    height: 25px;
+    margin-right: 10px;
+    margin-top: 0;
+    padding: 6px 1px 1px;
+    text-align: center;
+    width: 180px;
+}
+.select_theme .label_bg {
+    padding-right: 10px;
+}
+.select_theme.selected {
+    -moz-box-shadow: none;
+    box-shadow: none;
+    -webkit-box-shadow: none;
+}
+
+.games_window .option_item {
+    overflow: auto;
+}
+
+#event_widget {
+    display: none !important;
+}
+.option_item .option_item_entry select, .option_item select.option_item_entry {
+    padding-bottom: 0px !important;
+    padding-top: 0px !important;
+}
+.lbx_auth_dashboard .tab_contents {
+    height: 100%;
+}
+.lbx_auth_dashboard .dashboard_cont {
+    height: 80%;
+}
+
+#cookie-info {
+    width: 88%;
+    height: auto;
+}

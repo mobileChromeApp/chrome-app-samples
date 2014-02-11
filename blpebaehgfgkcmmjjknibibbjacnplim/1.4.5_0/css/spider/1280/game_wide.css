@@ -1,0 +1,25 @@
+#stack {
+    margin-top: 45px;
+    margin-left: 5px;
+}
+#dock_section {
+    padding-left: 98px;
+    width: 872px;
+}
+#dock_section .blank_foundation {
+    margin-top: 45px;
+    margin-left: 0px;
+}
+#board_section .blank_tableau {
+    margin-top: 45px;
+    margin-left: 0px;
+    z-index: 0;
+}
+#board_section .blank_tableau_first {
+    margin-left: 0px;
+}
+
+
+._css-loader {
+    height: 3px;
+}
