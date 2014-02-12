@@ -1,0 +1,140 @@
+{
+   "OK": {
+      "message": "OK"
+   },
+   "aboutdiigo": {
+      "message": "About Diigo:"
+   },
+   "aboutdiigo_1": {
+      "message": "bookmark, archive and annotate webpages, "
+   },
+   "aboutdiigo_2": {
+      "message": "save notes, images and screenshots,"
+   },
+   "aboutdiigo_3": {
+      "message": "search, organize, and share your data in a variety of ways,"
+   },
+   "aboutdiigo_4": {
+      "message": "access anywhere using Diigo apps on Android, iPhone and iPad"
+   },
+   "aboutdiigo_d": {
+      "message": "Diigo is a free,  all-purpose collecting tool that enables you to"
+   },
+   "archive": {
+      "message": "Archive"
+   },
+   "cancel": {
+      "message": "Cancel"
+   },
+   "close": {
+      "message": "Close"
+   },
+   "delete": {
+      "message": "Delete"
+   },
+   "description": {
+      "message": "Save pages to read later -- online or offline, and fast! Avoid too many tabs and make your browsing a blast!"
+   },
+   "googleaccount": {
+      "message": "Google account"
+   },
+   "havediigo": {
+      "message": "Already have a Diigo account?"
+   },
+   "itemarchive": {
+      "message": " item archived"
+   },
+   "itemsarchive": {
+      "message": " items archived"
+   },
+   "lastsync": {
+      "message": "Last synced at "
+   },
+   "learnmore": {
+      "message": "Learn more \u003E\u003E"
+   },
+   "linksave": {
+      "message": "Link Saved"
+   },
+   "local": {
+      "message": "en_US"
+   },
+   "morelink": {
+      "message": "See all items in your Diigo library \u003E\u003E"
+   },
+   "networkerror": {
+      "message": "Network Error"
+   },
+   "newdiigo": {
+      "message": "New to Diigo? Connect to Diigo.com via"
+   },
+   "newtab": {
+      "message": "open in new tab"
+   },
+   "noselected": {
+      "message": "No items selected."
+   },
+   "original": {
+      "message": "Original"
+   },
+   "pagesave": {
+      "message": "Page Saved"
+   },
+   "password": {
+      "message": "password"
+   },
+   "preferences": {
+      "message": "Preferences"
+   },
+   "saveclosetab": {
+      "message": "Close the tab after the page is marked for read-later"
+   },
+   "saveonline": {
+      "message": "Save Online:"
+   },
+   "saveonline_d": {
+      "message": "Read Later Fast currently uses Diigo.com to provide cloud-based storage so your webpages can be accessed from any computer or phone."
+   },
+   "shortcuts": {
+      "message": "Keyboard Shortcut for read-later"
+   },
+   "sigining": {
+      "message": "Signing in..."
+   },
+   "signerror": {
+      "message": "Invalid Username/Email and Password combination"
+   },
+   "signin": {
+      "message": "Sign In"
+   },
+   "sonline": {
+      "message": "Save Online"
+   },
+   "stop": {
+      "message": "Stop sync"
+   },
+   "stopsync": {
+      "message": "Stop syncing with Diigo?"
+   },
+   "syncing": {
+      "message": "Syncing..."
+   },
+   "synconline": {
+      "message": "Sync online"
+   },
+   "textview": {
+      "message": "Text View"
+   },
+   "unread": {
+      "message": "Unread"
+   },
+   "updatepage": {
+      "message": "This page was already saved earlier.  Update it?"
+   },
+   "username_email": {
+      "message": "Username or Email"
+   },
+   "yes": {
+      "message": "Yes"
+   }
+}

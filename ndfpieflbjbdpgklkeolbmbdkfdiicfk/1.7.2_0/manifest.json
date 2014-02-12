@@ -1,0 +1,16 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://www.nplay.com/BeGone"
+      },
+      "urls": [ "http://www.nplay.com/BeGone" ]
+   },
+   "description": "Browser based online multi-player first/third person shooter.",
+   "icons": {
+      "128": "icon_128.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCm6+4z9snBESs7bbGE3emC37cOZdecTSVLtA9iiHcnELPzzrd29s1v3qFrMi5NcrFnAaKmD8+LdPVGgvR0aWXPa1ENtNyvyOXc1YEMAr62rj0tIt69P/lyfqivHZRwAVFrqGonkhtzuZbuV0WXAG5KGgKDk9bI1TuSj6rMpkpjEwIDAQAB",
+   "name": "BeGone",
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "1.7.2"
+}

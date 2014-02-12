@@ -1,0 +1,28 @@
+{
+   "app": {
+      "background": {
+         "scripts": [ "js/main.js" ]
+      }
+   },
+   "description": "You\u2019ve been stranded on a mysterious island \u2014 what bad luck! Build a base and survive the island. Take the stand, hero!",
+   "icons": {
+      "128": "128.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCpoF/8SaBLS0zfN4WcW0/0PSge0dUEY7AsQXyYLuF92Wh4cVhSKt1oflzrcwUDDD5Qi9+54P7kFJ23ZF16PNaNTE8o38+NJv0A61+/OJfuJ+OOm+mBtWdl0cCprF8sH54PeCui7Ip8HvIP8vbWanrrq5v+XV1elb1Luz0EbHgWQQIDAQAB",
+   "kiosk_enabled": true,
+   "manifest_version": 2,
+   "name": "Polycraft",
+   "oauth2": {
+      "client_id": "772926336376.apps.googleusercontent.com",
+      "scopes": [ "https://www.googleapis.com/auth/userinfo.email", "https://www.googleapis.com/auth/userinfo.profile" ]
+   },
+   "offline_enabled": true,
+   "permissions": [ "fullscreen", "pointerLock", "identity", "storage", "notifications" ],
+   "requirements": {
+      "3D": {
+         "features": [ "webgl" ]
+      }
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.0.16"
+}

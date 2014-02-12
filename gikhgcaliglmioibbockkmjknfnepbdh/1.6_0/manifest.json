@@ -1,0 +1,19 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://dictionary.com/shortclick/c4fh96?clkdest=dictionary.reference.com"
+      },
+      "urls": [ "*://dictionary.com/", "*://dictionary.reference.com/" ]
+   },
+   "description": "World's favorite free online English dictionary with definitions, synonyms, antonyms, idioms, legal & medical terms & more!",
+   "icons": {
+      "128": "dictionary.png",
+      "16": "dictionary.png",
+      "48": "dictionary.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDfZOYEGd5d0HlAj3OM4MCUhaYPLZh0yHIbJjtQv1c91N7spWo2gPMbfGhmv2co6WhApcuWz1Y5dy5d7tPdYfL9bJppWtQY6iDHWYD2iGBmo694XrXs96QLdRK8jPozoWdD2rjTRfTbAZXaG9JMYfLkeGQ79312GglNLK2u7jq0CQIDAQAB",
+   "name": "Dictionary by Dictionary.com",
+   "permissions": [ "unlimitedStorage", "notifications", "background" ],
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "1.6"
+}

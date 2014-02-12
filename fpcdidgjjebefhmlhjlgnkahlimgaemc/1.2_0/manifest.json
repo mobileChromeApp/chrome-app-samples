@@ -1,0 +1,16 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://www.edmodo.com/?chrome_app=1"
+      },
+      "urls": [ "http://*.edmodo.com/", "https://*.edmodo.com/" ]
+   },
+   "description": "Secure social learning network for teachers and students",
+   "icons": {
+      "128": "128.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDRqFEREjlUvRLrkiA0Rw1I31iNPoD2z4BsgOryzMgPtjpXD9xJGS8kzmJOMWVABY7TwQZmSPHPKB7hoB27Of9mAzpXYU+gPoXgJyih3C8dcRERY+bCnYeTfjHYPSOvc01BEpzTGIxpPCulJZjTaFLdyzb7wSmjrb5s60/prabEmQIDAQAB",
+   "name": "Edmodo",
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "1.2"
+}

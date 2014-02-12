@@ -1,0 +1,20 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://www.puxgames.com/game/crash-bandicoot-10"
+      },
+      "urls": [ "http://www.puxgames.com/game/crash-bandicoot-10" ]
+   },
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "icons": {
+      "128": "128.png",
+      "24": "24.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCloxztwbiU47wGLWUaWI2V8lMnirbtV6R/hVlEF7rhLSH0Jo0Tl2z2uuM1TEsArdek2IZN7rqJJZv2mVJF7IvSPFVuoWHV+TYiv/S9CFW8LFBmN36rPjZajAhdqfhrfa/pXOkdxlsBTqUG0BC6PKidby1lxp6KHnAilNBuWNgLdwIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_appName__",
+   "permissions": [ "unlimitedStorage", "notifications" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0"
+}

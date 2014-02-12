@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <!--[if lt IE 9]><script type="text/javascript" src="bin/flashcanvas.js"></script><![endif]-->
+    <meta name="viewport" content="width=device-width, maximum-scale=1.0, user-scalable=no" />
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="HandheldFriendly" content="true">
+	<meta name="MobileOptimized" content="width">
+	
+	<meta name="description" content="Play free online Mahjong solitaire HTML5">
+    <title>Mahjong solitaire. iPad friendly HTML5 mahjong. Mah mahjong</title>
+	<meta name="keywords" content="mah mahjong, mahjongg, mahjong game, html5 mahjong, html5 game, ipad html5 mahjong, HTML5" />
+	<link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+    <link rel="stylesheet" href="css/modal.css" type="text/css" media="screen" title="no title" charset="utf-8" />
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+
+
+	
+	
+
+	<script src="js/jquery.min.js" type="text/javascript"></script>
+	
+
+
+ 
+	
+	
+	
+	
+</head>
+
+
+
+
+
+
+
+    
+
+
+
+<div id="wrap">
+    <ul id="toolbar"><!-- TOOLBAR -->
+        <li id="game-name"></li>
+        <li id="pairs">0 pair remaining</li>
+        <li id="game-time">00:00:00</li>
+        <li>
+            <input type="button" id="restart" class="button left" value="New game"><input type="button" id="shuffle" class="button right" value="Shuffle">
+        </li>
+        <li>
+            <input type="button" id="undo" class="button" value="Undo"><input type="button" id="options-button" class="button" value="Maps">
+        </li>
+        <br>
+<center><a href="https://chrome.google.com/webstore/detail/solitaire-games-world-col/kpmleklkkbobaonglkhkedkjofilkfjk" target="_blank"><div id="banner"></div></a></center>
+
+       
+    </ul><!-- END TOOLBAR -->
+
+<div id="game-wrap">
+        <canvas id="canvas"></canvas>
+    </div>
+</div>
+
+<!-- MODAL WINDOW -->
+<div class="hide" id="overlay"></div>
+<div id="modal" class="modal hide">
+    <div id="modal-msg"></div>
+    <a href="#" class="modal-button" id="close-modal">Close</a>
+</div>
+
+<!-- OPTIONS -->
+<script id="options" type="text/tmpl">
+
+
+<h2>Select a map</h2>
+<ul id="maps">
+	<li><img data-map="pyramid" src="images/pyramid.png"></li>
+    <li><img data-map="space" src="images/space.png"></li>
+    <li><img data-map="heart" src="images/heart.png"></li>
+    <li><img data-map="default" src="images/default.png"></li>
+    <li><img data-map="square" src="images/square.png"></li>
+	<li><img data-map="animal" src="images/animal.png"></li>
+	<li><img data-map="bug" src="images/bug.png"></li>
+	<li><img data-map="vicas" src="images/vicas.png"></li>
+	<li><img data-map="arrow" src="images/arrow.png"></li>
+	<li><img data-map="chaos" src="images/chaos.png"></li>
+	<li><img data-map="grass" src="images/grass.png"></li>
+	<li><img data-map="wings" src="images/wings.png"></li>
+	<li><img data-map="15" src="images/15.png"></li>
+	<li><img data-map="16" src="images/16.png"></li>
+	<li><img data-map="17" src="images/17.png"></li>
+	
+	
+
+</ul>
+<label> Style:
+<select id="tile-style" value="images/flowers.png">
+<option value="images/classic.png">Classic</options>
+<option value="images/halloween.png">Halloween</options>
+<option value="images/patrick.png">Saint Patrick's Day</options>
+    <option value="images/symbols.png">Symbols</options>
+	<option value="images/pinup.png">Pin-up</options>
+    <option value="images/letters.png">Wood</option>
+    <option value="images/flowers.png">Flowers</options>	
+	<option value="images/poker.png">Poker</options>
+</select>
+</script>
+
+<!-- CONGRATULATIONS -->
+<script id="congrat" type="text/tmpl">
+<h1>Congratulations</h1>
+<h2>You solved it in</h2>
+<h3>{time}</h3>
+</script>
+
+<!-- GAMEOVER -->
+<script id="gameover" type="text/tmpl">
+<h1>GAME OVER</h1>
+<h2>what do you want to do?</h2>
+<button class="modal-button shuffle">Shuffle</button>
+<button class="modal-button restart">Play again</button>
+<p class="clear"><small>Shuffling tiles adds a 60-second penalty to your time</small></p>
+</script>
+
+
+
+
+<script src="js/canvas-event.min.js" type="text/javascript"  charset="utf-8" ></script>
+<script src="js/mahjong.min.js" type="text/javascript"  charset="utf-8" ></script>
+<script src="js/defaultmap.js" type="text/javascript"  charset="utf-8" ></script>
+<iframe src="ga.html" width="1px" height="1px"></iframe>
+
+</body>
+</html>

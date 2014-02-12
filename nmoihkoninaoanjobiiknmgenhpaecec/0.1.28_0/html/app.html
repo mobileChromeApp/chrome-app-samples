@@ -1,0 +1,353 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <script src='/scripts/modules/head.load-0.99.min.js'></script>
+        <script src='/scripts/main.js'></script>
+        <link rel="stylesheet" href="/css/bootstrap.no-icons.min.css"/>
+        <link rel="stylesheet" href="/css/font-awesome.css"/>
+        <link rel="stylesheet" href="/css/main.css"/>
+        <title>Memo Notepad</title>
+    </head>
+    <body>
+        <!-- Share Modal -->
+        <div id="share" class="modal hide fade" tabindex="-1" role="dialog"
+          aria-labelledby="share_label" aria-hidden="true" data-style='handwriting'>
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal"
+              aria-hidden="true">×</button>
+            <h3 id="share_label"><i class="icon icon-envelope-alt"></i>
+              Email &ldquo;<span class="title"></span>&rdquo;</h3>
+          </div>
+          <div class="modal-body">
+            <div class="row-fluid">
+              <div class="span3">
+                <div class="span2 preview">
+                    <div class="line"></div>
+                    <div class="content"></div>
+                </div>
+              </div>
+              <div class="span9">
+                <input type="text" class="emails input-block-level"
+                  placeholder="Email addresses">
+                <textarea rows="3" class="message input-block-level"
+                    placeholder="Message"></textarea>
+              </div>
+            </div>
+          </div>
+          <div class="modal-footer">
+            <div class="btn-group">
+              <a data-dismiss='modal'
+                class="copy btn-large btn-primary btn" href="#">Send</a>
+            </div>
+          </div>
+        </div>
+
+        <div class='container-fluid' id='main'>
+            <div class='row-fluid' id='existing'>
+                <div class="span3">
+                    <!--Sidebar content-->
+                    <div id='nav'>
+                      <div id="actions" class="btn-group">
+                          <button class="btn btn-large" id='action_new'>
+                            <i class='icon-pencil'></i>
+                          </button>
+                          <button role="button" id='action_share'
+                            class="btn btn-large"
+                            data-toggle="modal"><i class='icon-envelope-alt'></i>
+                          </button>
+<!--                      
+                          <button id='action_type' class="btn btn-large">
+                            <i class='icon-asterisk'></i>
+                          </button>
+-->
+                          <button class='btn btn-large' id='action_search'>
+                            <i class='icon-search'></i>
+                          </button>
+                          <button class='btn btn-large' id='action_trash'>
+                            <i class='icon-trash'></i>
+                          </button>
+                        </div>
+
+                        <form id="search">
+                          <input type="search" placeholder="Search" class="search">
+                        </form>
+
+                        <div id="paper_type">
+                          <h3 class="paper_set_name">Dark Paper</h3>
+                          <div class="row-fluid">
+                            <div class="dark_0 paper span4"><label>Grid</label></div>
+                            <div class="dark_1 paper span4"><label>Escher</label></div>
+                            <div class="dark_2 paper span4"><label>Carbon</label></div>
+                          </div>
+                          <hr class="paper_section">
+                          <label class="lock_note paper_set_option">
+                            <i class="toggle icon-check-empty"></i>
+                            <span class="paper_set_option_label">Password Protect</span>
+                          </label>
+                          <hr class="paper_section">
+                          <div class="paper_set_confirm">
+                            <span class="paper_set_remaining">0 Remaining</span>
+                            <button class="use_paper_set btn btn-inverse">
+                              Use a Paper
+                            </button>
+                          </div>
+                        </div>
+
+                        <ul id='stacks'></ul>
+                    </div>
+                </div>
+                <div class='span7' id='paper'>
+                    <!--Body content-->
+                    <div id='notes' contenteditable="true"></div>
+                </div>
+
+                <div class="span2" id="user">
+                  <form id="account" novalidate>
+                    <span id="account_register" class="button noauth">
+                      I am a new user</span>
+                    <div class="or noauth">or</div>
+                    <div class="spinner"><i class="icon-cloud"></i></div>
+                    <div id="email">
+                      <i class="icon-cog toggle_settings"></i>
+                      <input type="email" placeholder="Email" autocorrect="off" 
+                        autocapitalize="off" spellcheck="false" class="email">
+                    </div>
+                    <input type="password" placeholder="Password" class="noauth password">
+                    <button class="noauth">Login</button>
+                    <div class="settings">
+                        <label class="style">Style</label>
+                        <ul id="style" class="handwriting">
+                            <li class="handwriting option" data-type='handwriting'>
+                              Handwriting
+                              <i class="icon-ok"></i>
+                              <div class="breaker"></div>
+                            </li>
+                            <li class="standard option" data-type='standard'>
+                              Standard
+                              <i class="icon-ok"></i>
+                              <div class="breaker"></div>
+                            </li>
+                            <li class="monospace option" data-type='monospace'>
+                              Typeset
+                              <i class="icon-ok"></i>
+                              <div class="breaker"></div>
+                            </li>
+                        </ul>
+
+                        <label class="emailing">Email</label>
+                        <ul id="emailing">
+                            <li class="email_to option indeterminate">
+                                <i data-id="email" class="icon-question-sign info"></i>
+                                <i class="icon-check-empty off"></i>
+                                <i class="icon-cloud transition"></i>
+                                <i class="icon-check on"></i>
+                                Notes via Email
+                                <button class="purchase">
+                                  Purchase
+                                </button>
+                            </li>
+                            <li class="mn_android list option indeterminate" 
+                              data-id="mn_android">
+                                <i data-id="android" class="icon-question-sign info"></i>
+                                <i class="icon-check-empty off"></i>
+                                <i class="icon-cloud transition"></i>
+                                <i class="icon-check on"></i>
+                                Android News
+                            </li>
+                            <li class="mn_iphone option list indeterminate"
+                              data-id='mn_iphone'>
+                                <i data-id="iphone" class="icon-question-sign info"></i>
+                                <i class="icon-check-empty off"></i>
+                                <i class="icon-cloud transition"></i>
+                                <i class="icon-check on"></i>
+                                iPhone News
+                            </li>
+                        </ul>
+
+                        <label class="sync">Sync</label>
+                        <ul id="sync">
+                            <li class="default option">
+                                <i class="icon-check"></i>
+                                Adylitica
+                                <div class="breaker"></div>
+                            </li>
+                            <li class="google_drive remote option indeterminate">
+                                <i data-id="google" class="icon-question-sign info"></i>
+                                <i class="icon-check-empty off"></i>
+                                <i class="icon-cloud transition"></i>
+                                <i class="icon-check on"></i>
+                                GDrive
+                                <button class="purchase">Purchase</button>
+                            </li>
+                            <li class="dropbox remote option indeterminate">
+                                <i data-id="dropbox" class="icon-question-sign info"></i>
+                                <i class="icon-check-empty off"></i>
+                                <i class="icon-cloud transition"></i>
+                                <i class="icon-check on"></i>
+                                Dropbox
+                                <button class="purchase">Purchase</button>
+                            </li>
+                        </ul>
+
+                        <div id="made_by">
+                            <label class="credits">Made by Adylitica</label>
+                            <a href="mailto:web-support@adylitica.com?subject=Memo%20Notepad%20Feedback">Contact</a>
+                            <a target="_blank" href="http://account.adylitica.com/">Account</a>
+                        </div>
+                    </div>
+                    <span class="logout">Logout</span>
+                    <div class="error_message">
+                        <label></label>
+                        <div class="reset_password"></div>
+                    </div>
+                  </form>
+
+                  <div id="metadata">
+                    <div class="date section">
+                      <span class="chevron"><i class='icon-chevron-right icon'></i></span>
+                      <label class="value"></label>
+                    </div>
+
+                    <div class="publish section">
+                      <label>Publish</label>
+                      <select class="choose">
+                        <option value="none">...</option>
+                        <option value="facebook">on Facebook</option>
+                        <option value="tumblr">on Tumblr</option>
+                        <option value="wordpress">on Wordpress.com</option>
+                        <option value="buffer">on Buffer App</option>
+                        <option value="github">on Github</option>
+                      </select>
+                    </div>
+
+                    <div class="tumblr section">
+                      <label>Tumblr</label>
+
+                      <div class="btn-group actions">
+                        <a class="btn-large btn-primary btn primary"
+                          data-destination="published" href="#">
+                          Post
+                        </a>
+                        <a class="btn-large btn-primary btn dropdown-toggle"
+                          data-toggle="dropdown" href="#">
+                          <span class="caret"></span>
+                        </a>
+                        <ul class="dropdown-menu">
+                          <li><a data-destination="published" href="#">
+                            <i class="icon-globe"></i> Post now</a>
+                          </li>
+                          <li><a data-destination="queue" href="#">
+                            <i class="icon-time"></i> Add to queue</a>
+                          </li>
+                          <li><a data-destination="draft" href="#">
+                            <i class="icon-paste"></i> Save as draft</a>
+                          </li>
+                        </ul>
+                      </div>
+                    </div> <!-- end Tumblr section -->
+
+                    <div class="buffer section">
+                      <label>Buffer</label>
+
+                      <div class="btn-group actions">
+                        <a class="btn-large btn-primary btn primary"
+                          data-destination="facebook" href="#">
+                          To Facebook
+                        </a>
+                        <a class="btn-large btn-primary btn dropdown-toggle"
+                          data-toggle="dropdown" href="#">
+                          <span class="caret"></span>
+                        </a>
+                        <ul class="dropdown-menu">
+                          <li><a href="#" data-destination="facebook">
+                            <i class="icon-facebook"></i> Facebook</a>
+                          </li>
+                          <li><a data-destination="twitter" href="#">
+                            <i class="icon-twitter"></i> Twitter</a>
+                          </li>
+                          <li><a data-destination="linkedin" href="#">
+                            <i class="icon-linkedin"></i> LinkedIn</a>
+                          </li>
+                        </ul>
+                      </div>
+                    </div> <!-- end Buffer section -->
+
+                    <div class="wordpress section">
+                      <label>Wordpress</label>
+
+                      <div class="btn-group actions">
+                        <a class="btn-large btn-primary btn"
+                          data-destination="publish" href="#">
+                          Post
+                        </a>
+                        <a class="btn-large btn-primary btn dropdown-toggle"
+                          data-toggle="dropdown" href="#">
+                          <span class="caret"></span>
+                        </a>
+                        <ul class="dropdown-menu">
+                          <li><a href="#" data-destination="publish">
+                            <i class="icon-globe"></i> Post now</a>
+                          </li>
+                          <li><a data-destination="draft" href="#">
+                            <i class="icon-paste"></i> Save as draft</a>
+                          </li>
+                        </ul>
+                      </div>
+                    </div> <!-- end Wordpress section -->
+
+                    <div class="facebook section">
+                      <label>Facebook</label>
+
+                      <div class="btn-group actions">
+                        <a class="btn-large btn-primary btn"
+                          data-destination="everyone" href="#">
+                          Post
+                        </a>
+                        <a class="btn-large btn-primary btn dropdown-toggle"
+                          data-toggle="dropdown" href="#">
+                          <span class="caret"></span>
+                        </a>
+                        <ul class="dropdown-menu">
+                          <li><a href="#" data-destination="everyone">
+                            <i class="icon-globe"></i> Post publicly</a>
+                          </li>
+                          <li><a data-destination="all_friends" href="#">
+                            <i class="icon-comments"></i> Post to friends</a>
+                          </li>
+                          <li><a data-destination="self" href="#">
+                            <i class="icon-lock"></i> Post to myself</a>
+                          </li>
+                        </ul>
+                      </div>
+                    </div> <!-- end Facebook section -->
+
+                    <div class="github section">
+                      <label>Github</label>
+
+                      <div class="btn-group actions">
+                        <a class="btn-large btn-primary btn"
+                          data-destination="public" href="#">
+                          Public Gist
+                        </a>
+                        <a class="btn-large btn-primary btn dropdown-toggle"
+                          data-toggle="dropdown" href="#">
+                          <span class="caret"></span>
+                        </a>
+                        <ul class="dropdown-menu">
+                          <li><a href="#" data-destination="public">
+                            <i class="icon-globe"></i> Public gist</a>
+                          </li>
+                          <li><a data-destination="secret" href="#">
+                            <i class="icon-paste"></i> Secret gist</a>
+                          </li>
+                        </ul>
+                      </div>
+                    </div> <!-- end Github section -->
+
+                  </div>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
+​

@@ -1,0 +1,20 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://partycloud.fm/"
+      },
+      "urls": [ "http://partycloud.fm/" ]
+   },
+   "description": "Mix 20 millions songs !",
+   "icons": {
+      "128": "icon128.png",
+      "16": "icon16.png",
+      "48": "icon48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCt+rkZyVmgokJD6KI6hoHlF+3zNAspYrAGk6jqjNdKd31QQuLb1NJN5WZGJduHDIgy1l/01xwj2rGkxiMhfEfD//Ci6pyd9sXyA4qaChACm3UJBA2dTJCgB45CtWzSf2n9tg3fK1E8OEx/vxs06LutVMGmFiZ+f8hdAF5zqH0TMwIDAQAB",
+   "manifest_version": 2,
+   "name": "PartyCloud",
+   "permissions": [ "unlimitedStorage", "notifications" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "4.1"
+}

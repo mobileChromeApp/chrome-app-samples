@@ -1,0 +1,19 @@
+{
+   "app": {
+      "browse_urls": [ "https://www.google.com/accounts/" ],
+      "launch": {
+         "web_url": "http://www.nytimes.com/chrome/"
+      },
+      "urls": [ "http://www.nytimes.com/chrome/" ]
+   },
+   "description": "The New York Times App for the Chrome Web Store.",
+   "icons": {
+      "128": "128.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDFUSRSnL38kmULMT74PT/7qmHWGLqTg9YazZi1ExMeobSZwKRFovgMuUSN5Ik+ROZAs2U3EvI966rJGizdZHD2IJnzAUEqcjtOCy4K8c31pk9QymnBC0n99B6j6UScs6HBBT/6gVQXst7T7XeASCQGT4n45FPPlNKEHW/6zxvm4QIDAQAB",
+   "name": "NYTimes",
+   "offline_enabled": true,
+   "permissions": [ "unlimited_storage", "notifications" ],
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "1.2.4"
+}

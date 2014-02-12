@@ -1,0 +1,26 @@
+{
+   "app": {
+      "launch": {
+         "container": "tab",
+         "web_url": "http://www.battlefieldheroes.com/?utm_source=chrome&utm_medium=referral&utm_campaign=bfh_chrome-web-store"
+      },
+      "urls": [ "*://www.battlefieldheroes.com/" ]
+   },
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "icons": {
+      "128": "icon_128.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCVZ5XEZj8/csvJtj8EPyXsk629PUtVg3qMZEIEZV2s6Z5qeVEM37AJDx2Pr6cE7wrXUAykalRKt0B8K2yGrMKsP56GiEmQ7eoeZpdmAtE7cjleAXEFLuC2pq1omDLaDxS2SHVfkG3ORoxG2xboa7Vzzxo2ZRXb2IYEFyQLkwYyawIDAQAB",
+   "manifest_version": 2,
+   "name": "Battlefield Heroes",
+   "plugins": [ {
+      "path": "npBFHUpdater.dll",
+      "public": true
+   }, {
+      "path": "BFHUpdater.exe"
+   } ],
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "5.0.203.0",
+   "web_accessible_resources": [ "icon_128.png" ]
+}

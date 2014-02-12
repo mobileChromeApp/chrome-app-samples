@@ -1,0 +1,19 @@
+{
+   "app": {
+      "background": {
+         "scripts": [ "js/background.js" ]
+      }
+   },
+   "description": "Easily organize and share your personal media and online content on all of your devices, no matter where you are.",
+   "icons": {
+      "128": "img/chrome/icon_128.png",
+      "16": "img/chrome/icon_16.png",
+      "48": "img/chrome/icon_48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCb6iyEyA95Js10BMvUluNJgSaXmHUoiN2X9JVMzUXfrj/Dk4W6xae/Zx0/cydBe7RbiiPSS7kuvHZE/qYOWmYds97tGIECuMkB4c1GWuZP4BdbU7RsSovNY/CVhTgIamIMCNQ2brh79grlwSbJU54fJqKqZbCoqTq9ImGmOp+O1wIDAQAB",
+   "manifest_version": 2,
+   "name": "Plex",
+   "permissions": [ "https://my.plexapp.com/", "https://www.google-analytics.com/", "http://www.gravatar.com/", "storage", "fullscreen" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.2.21"
+}

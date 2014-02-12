@@ -1,0 +1,17 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://rover.ebay.com/rover/1/711-146830-30130-0/4"
+      },
+      "urls": [ "http://rover.ebay.com/rover/1/711-146830-30130-0/4" ]
+   },
+   "description": "The new eBay Chrome Web App is here to give you a great visual buying experience on eBay!",
+   "icons": {
+      "128": "ebay128.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDkJf+iQBDPoRoD42RXu2NC4gcIQlgsGUEDRISBbmhw20vooI7CoqurLi6N9mMXz9dqT1yqnC8Bp3gJP/sqBQwjJii3V0MY5yeDumloMfq0hD3zFy0wxkUxtxagKSN8E/FuunaR3p/ENTqMWMg6HLAu4wcG9Ji1qedv5zexGg8k6wIDAQAB",
+   "manifest_version": 2,
+   "name": "eBay Web App",
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "1.0.4"
+}

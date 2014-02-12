@@ -1,0 +1,16 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://worldofsolitaire.com/"
+      },
+      "urls": [ "http://worldofsolitaire.com/" ]
+   },
+   "description": "Over 50 beautiful free Solitaire games. Klondike, Spider, FreeCell and more.",
+   "icons": {
+      "128": "icon_128.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC2JQozFcsG2zj4nIpbppgu57vqnHvhTTOE+I1gAa+KxCKOxbugXyN4zQCX5hy6PrW4tichb8C4t1Oj3UczGZxqDVhxOVjB6mtw4x/AKfRB4gYpHWPFAeb94RF8zKkgG+BKmwIjIsnohYazqDAeJPY0NP91yDsnOsDEW45jMFR1CQIDAQAB",
+   "name": "World of Solitaire",
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "1.0.1"
+}

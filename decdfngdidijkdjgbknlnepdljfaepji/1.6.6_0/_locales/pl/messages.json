@@ -1,0 +1,137 @@
+{
+   "OK": {
+      "message": "OK"
+   },
+   "aboutdiigo": {
+      "message": "Informacje o Diigo:"
+   },
+   "aboutdiigo_1": {
+      "message": "bzak\u0142adek, archiwizowanie stron,  "
+   },
+   "aboutdiigo_2": {
+      "message": "zapisywanie notatek, obrazk\u00F3w i screen\u00F3w,"
+   },
+   "aboutdiigo_3": {
+      "message": "przeszukiwanie, organizowanie oraz dzielenie si\u0119 zebranymi danymi na wiele sposob\u00F3w,"
+   },
+   "aboutdiigo_4": {
+      "message": "dzi\u0119ki mobilnym aplikacjom Diigo, do naszych danych mo\u017Cemy si\u0119 dosta\u0107 wsz\u0119dzie przy pomocy iPhone'a, iPada lub telefonu z Androidem."
+   },
+   "aboutdiigo_d": {
+      "message": "Diigo jest darmow\u0105 us\u0142ug\u0105, pozwalaj\u0105c\u0105 na zbieranie"
+   },
+   "archive": {
+      "message": "Zarchiwizuj"
+   },
+   "cancel": {
+      "message": "Cancel"
+   },
+   "close": {
+      "message": "Zamknij"
+   },
+   "delete": {
+      "message": "Usu\u0144"
+   },
+   "description": {
+      "message": "Szybko zapisuj strony na p\u00F3\u017Aniej, online lub offline."
+   },
+   "googleaccount": {
+      "message": "Google account"
+   },
+   "havediigo": {
+      "message": "Ju\u017C masz konto w Diigo?"
+   },
+   "itemarchive": {
+      "message": " element\u00F3w zarchiwizowano"
+   },
+   "itemsarchive": {
+      "message": " element\u00F3w zarchiwizowano"
+   },
+   "lastsync": {
+      "message": "Ostatnia synchronizacja: "
+   },
+   "learnmore": {
+      "message": "Dowiedz si\u0119 wi\u0119cej \u003E\u003E"
+   },
+   "linksave": {
+      "message": "Link Zapisane"
+   },
+   "morelink": {
+      "message": "Wy\u015Bwietl wszystkie elementy z twojej biblioteki Diigo \u003E\u003E"
+   },
+   "networkerror": {
+      "message": "B\u0142\u0105d sieciowy"
+   },
+   "newdiigo": {
+      "message": "Nie masz konta w Diigo? Po\u0142\u0105cz si\u0119 przy pomocy konta Google"
+   },
+   "newtab": {
+      "message": "Otw\u00F3rz na nowej karcie"
+   },
+   "noselected": {
+      "message": "Nie wybrano \u017Cadnych element\u00F3w."
+   },
+   "original": {
+      "message": "Orygina\u0142"
+   },
+   "pagesave": {
+      "message": "Zapisane strony"
+   },
+   "password": {
+      "message": "Has\u0142o"
+   },
+   "preferences": {
+      "message": "Preferencje"
+   },
+   "saveclosetab": {
+      "message": "Zamknij zak\u0142adk\u0119 po oznaczeniu strony do p\u00F3\u017Aniejszego przeczytania"
+   },
+   "saveonline": {
+      "message": "Zapisz w internecie:"
+   },
+   "saveonline_d": {
+      "message": "Read Later Fast u\u017Cywa obecnie Diigo.com do przechowywania stron w chmurce, dzi\u0119ki czemu mo\u017Cesz si\u0119 do nich dosta\u0107 z dowolnego komputera."
+   },
+   "shortcuts": {
+      "message": "Skr\u00F3t klawiaturowy dla oznaczenia do p\u00F3\u017Aniejszego przeczytania"
+   },
+   "sigining": {
+      "message": "Zaloguj..."
+   },
+   "signerror": {
+      "message": "B\u0142\u0119dna nazwa u\u017Cytkownika/email lub has\u0142o"
+   },
+   "signin": {
+      "message": "Zaloguj"
+   },
+   "sonline": {
+      "message": "Zapisz w internecie"
+   },
+   "stop": {
+      "message": "Zatrzymaj synchronizacj\u0119"
+   },
+   "stopsync": {
+      "message": "Zatrzyma\u0107 synchronizacj\u0119 z Diigo?"
+   },
+   "syncing": {
+      "message": "Syncing..."
+   },
+   "synconline": {
+      "message": "Synchronizuj online"
+   },
+   "textview": {
+      "message": "Widok tekstowy"
+   },
+   "unread": {
+      "message": "Nieprzeczytane"
+   },
+   "updatepage": {
+      "message": "T\u0119 stron\u0119 ju\u017C zapisanych wcze\u015Bniej. Update?"
+   },
+   "username_email": {
+      "message": "Nazwa u\u017Cytkownika lub email"
+   },
+   "yes": {
+      "message": "Yes"
+   }
+}

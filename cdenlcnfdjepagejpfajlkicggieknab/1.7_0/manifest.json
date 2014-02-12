@@ -1,0 +1,18 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://music-app.co/"
+      },
+      "urls": [ "http://music-app.co/" ]
+   },
+   "default_locale": "en",
+   "description": "__MSG_extension_description__",
+   "icons": {
+      "128": "128.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDG7M3m+Iym3jkSPtENYSkdDxGBhRquin6SN+2QzYocsQovy6doxTIMwIKD7xLwRVy2jYtsJZ0STp2L2uFNbs/Gffdiiv/2Sl0cfDl1rdaQs1HugR3oiUptJYfSgh2jZ84tDYQ76BBGOfxcRssqJwu33bi08ZI4cftOp5qb6C1jNQIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_extension_name__",
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "1.7"
+}

@@ -1,0 +1,19 @@
+{
+   "app": {
+      "background": {
+         "scripts": [ "background.js" ]
+      }
+   },
+   "description": "Mahjong Solitaire Classic",
+   "icons": {
+      "128": "mahjong-128.png",
+      "16": "mahjong-16.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCODWHuQyByH1em2d6ovZvQw87EkiGy5UYAR2YQ8QFH0I5bFHacWEfOc+rIiFh/1r+c//4vvYRjQbRSnxSHh50UMdNiLB/QLRzpnrTu/ZWX5PTB6Fai0gXdAe6jj0SglwKLqkuWo9dYfQvYM8l6sHkH9GcuvHlR7yYiccAGm7HFWQIDAQAB",
+   "manifest_version": 2,
+   "name": "Mahjong Solitaire",
+   "offline_enabled": true,
+   "permissions": [ "https://www.google-analytics.com/", "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.46"
+}

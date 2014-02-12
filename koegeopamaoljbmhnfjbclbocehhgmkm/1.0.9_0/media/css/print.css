@@ -1,0 +1,62 @@
+.addButton, .button, #header, #share_buttons, #buttonBar, #controls, .parent > .name, #bottomLinks, #proPitchBottomRight, #getMoreSpaceButtonTopLeft, #shared_notice, .pageStar, #savedViewHUD {
+    display: none !important;
+}
+.bullet{text-indent: 0px !important;}
+#leftGradient, #rightGradient {display: none;}
+
+body{
+    padding-top:0 !important;
+}
+
+.pageContainer {
+    margin-top: 0 !important;
+}
+
+.page {
+    width:auto;
+    border:none;
+
+    /* Need to set margins with !important because they're set manually by
+       the JS. */
+    margin-left:auto !important;
+    margin-right:auto !important;
+    padding-top:0 !important;
+    min-height:10px !important;
+    box-shadow:none !important;
+}
+
+.selected{
+    border-top:none !important;
+}
+
+#site_message{
+    display:none;
+}
+
+.mainTreeRoot{
+    min-height:0px;
+    padding-bottom:25px;
+}
+
+.children{
+    border-left:none;
+}
+
+.notes > .content{
+    height:auto !important;
+    display: block !important;
+    -webkit-line-clamp: none !important;
+}
+
+.footer {
+    border-top:none;
+}
+
+.siteSlogan{
+    display:none;
+}
+
+#keyboardShortcutHelper{
+    display:none !important;
+}
+

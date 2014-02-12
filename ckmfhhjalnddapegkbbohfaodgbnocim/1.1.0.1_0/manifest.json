@@ -1,0 +1,19 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://chrome.kingdomrush.com/"
+      },
+      "urls": [ "*://chrome.kingdomrush.com/" ]
+   },
+   "description": "Defend your Kingdom against the forces of evil in this epic tower defense game!",
+   "icons": {
+      "128": "icon_128-2.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCTc3P8pMKB7pdKp8yY/XHh+IRsi3NiuWV58LBTvXd5f05Mm+4zJW/XmgsDyMcYqT9zz1wCAKVuuyH3KM+rmGhIBMhL7Qg6Hx3kgZVWs5GRzqtaNxr9ImoYjtupJtZ81hej/vDCFW0R+kToJcU4VASy3WJUwUQIrSkZJdvqbF82mwIDAQAB",
+   "manifest_version": 2,
+   "name": "Kingdom Rush",
+   "permissions": [ "unlimitedStorage", "notifications" ],
+   "short_name": "Kingdom Rush",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.1.0.1"
+}

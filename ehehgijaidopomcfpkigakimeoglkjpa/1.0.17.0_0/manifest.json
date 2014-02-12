@@ -1,0 +1,19 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://wickedgadgets.info/jewelf.htm"
+      },
+      "urls": [ "http://wickedgadgets.info/" ]
+   },
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "icons": {
+      "128": "icon_128.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDMyiTsX8GT0JwQKYaRLRVyufG3DzXlD2N6TiCRN0UvnnPI16kW/o8xRZ4HyBsG1B6YlDA62juPcKd5vJ6K7hSSkiZkjigDrkM84quQBQMJk9tzU5hC0bxSWIeXZK+MHBw9dm5G0kHFYjqywEgDzpzBhy918mWRPx4B3YxGShmRzQIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_appName__",
+   "permissions": [ "notifications" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.17.0"
+}

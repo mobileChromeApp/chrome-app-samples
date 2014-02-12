@@ -1,0 +1,10 @@
+{
+   "extDesc": {
+      "description": "Extension description",
+      "message": "Montar su patineta por las calles de la ciudad evitando obst\u00E1culos y recogiendo bonus en su camino."
+   },
+   "extName": {
+      "description": "Extension name",
+      "message": "Downhill Jam"
+   }
+}

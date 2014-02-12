@@ -1,0 +1,36 @@
+<div class="contents">
+    <div class="logo centered"></div>
+    <div class="login-container" ng-init="initialise()" ng-show="promptCreate">
+        <div>
+            <div class="intro centered">
+                Choose your Turbulenz username
+            </div>
+        </div>
+        <div class="error centered" ng-show="errorMessage">{{ errorMessage }}</div>
+        <input class="centered" ng-model="username"/>
+        <div class="debug-button centered" ng-class="{disabled: disablePlay}" ng-click="createAccount()">
+            Play as {{ username }}!
+        </div>
+        <div class="separator centered"></div>
+        <div class="centered">
+            <span class="hint" ng-click="showLinkInfo = true">
+                I already have a Turbulenz Account
+            </span>
+            or
+            <span class="hint" ng-click="play()">
+                play offline
+            </span>
+        </div>
+
+    </div>
+    <div tz-modal="showLinkInfo">
+        <div>
+            To sign in to this app using your Turbulenz account, make sure your Turbulenz email address is the same as
+            your Google account email address ({{email}}).
+        </div>
+        <div>
+            You can change it in Account Settings on <a href="{{ baseUrl }}" target="_blank">turbulenz.com</a>
+        </div>
+    </div>
+</div>
+

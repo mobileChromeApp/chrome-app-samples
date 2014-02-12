@@ -1,0 +1,34 @@
+{
+   "app": {
+      "launch": {
+         "local_path": "main.html"
+      }
+   },
+   "background": {
+      "page": "background.html"
+   },
+   "content_scripts": [ {
+      "all_frames": false,
+      "css": [ "css/cs.css" ],
+      "js": [ "js/contentScript.js" ],
+      "matches": [ "http://*/*", "https://*/*" ],
+      "run_at": "document_end"
+   } ],
+   "content_security_policy": "script-src 'self' https://ssl.google-analytics.com https://www.diigo.com https://cdn.extensionanalytics.com/; object-src 'self'",
+   "default_locale": "en_US",
+   "description": "__MSG_description__",
+   "icons": {
+      "128": "icon128.png",
+      "16": "icon16.png",
+      "48": "icon48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDogQs3V91gC8IjQzrW3nrvws7NOzgA+BLOHPkZ709kuJNSNZI7gwbQMbjV3+ghsNqiYZP9v+KGdJkYtpvJ+u0/cr5hMpgbY1Ny4VVOAohUM/tTDCz5CyJ9JKbTgB5ika4fVbfokXetZQrK9E44G4tm4hLvf/mnhmk7cv19QwKkeQIDAQAB",
+   "manifest_version": 2,
+   "name": "Read Later Fast",
+   "offline_enabled": true,
+   "options_page": "options.html",
+   "permissions": [ "webRequest", "webRequestBlocking", "webNavigation", "idle", "tabs", "http://*/*", "https://*/*", "notifications", "contextMenus", "unlimitedStorage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.6.6",
+   "web_accessible_resources": [ "blank.html" ]
+}

@@ -1,0 +1,32 @@
+/* nav */
+#nav {
+	position:fixed;
+	width:100px;
+	height:200px;
+	/* background-color:rgba(0,0,0,0.5); */
+}
+
+/* content */
+#content {
+	margin-left:120px;
+}
+/* 
+h3.itemTitle {
+	padding-left:24px;
+        font-size: 14px;
+        font-weight: normal;
+	background:transparent url(../img/item-icon.png) center left no-repeat;
+}
+h3.itemTitle a {
+	float:right; 
+	margin-left:10px;
+}
+ */
+
+.itemContent {
+	display:none;
+}
+.expanded .itemContent {
+	display:block;
+	/* background:#CCC;  */
+}

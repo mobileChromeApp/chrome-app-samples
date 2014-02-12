@@ -1,0 +1,19 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://bigfarm.goodgamestudios.com/?w=108264"
+      },
+      "urls": [ "http://bigfarm.goodgamestudios.com/" ]
+   },
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "icons": {
+      "128": "icon_128.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDyV09ZSgkBK2C+M6yd4WfYzE6DLC7dUBv7OQTZoUIaaqDLxHkqzguXVpV5UZvWKwrf+i4QdfNc5Vr2IEv3LPmZy/ZLpThl4j2I2GMRbTma/WA2NDJ+9tmfsV/a6kFNwXF7nrVMjlfYs6dU1OzE3Q76pC1zizPqFq+ioxpaDkHIEwIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_appName__",
+   "permissions": [  ],
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "4"
+}

@@ -1,0 +1,137 @@
+{
+   "OK": {
+      "message": "OK"
+   },
+   "aboutdiigo": {
+      "message": "Diigo\uC5D0 \uB300\uD574:"
+   },
+   "aboutdiigo_1": {
+      "message": "\uBD81\uB9C8\uD06C, \uC6F9\uD398\uC774\uC9C0 \uBCF4\uAD00 \uBC0F \uC124\uBA85 "
+   },
+   "aboutdiigo_2": {
+      "message": "\uB178\uD2B8, \uC774\uBBF8\uC9C0, \uC2A4\uD06C\uB9B0\uC0F7 \uC800\uC7A5"
+   },
+   "aboutdiigo_3": {
+      "message": "\uC790\uB8CC\uC758 \uAC80\uC0C9, \uAD6C\uC870\uD654 \uADF8\uB9AC\uACE0 \uB2E4\uC591\uD55C \uACF5\uC720 \uBC29\uC2DD,"
+   },
+   "aboutdiigo_4": {
+      "message": "\uC548\uB4DC\uB85C\uC774\uB4DC\uC640 \uC544\uC774\uD3F0, \uC544\uC774\uD328\uB4DC\uC6A9 Diigo \uC5B4\uD50C\uC744 \uC774\uC6A9\uD55C \uC790\uB8CC \uC811\uADFC"
+   },
+   "aboutdiigo_d": {
+      "message": "Diigo\uB294 \uBB34\uB8CC\uC774\uBA70, \uB2E4\uC74C\uACFC \uAC19\uC740 \uBAA8\uB4E0 \uC885\uB958\uC758 \uC790\uB8CC \uC218\uC9D1\uC744 \uC704\uD55C \uB3C4\uAD6C\uB97C \uC81C\uACF5\uD569\uB2C8\uB2E4"
+   },
+   "archive": {
+      "message": "\uBCF4\uAD00\uD568"
+   },
+   "cancel": {
+      "message": "Cancel"
+   },
+   "close": {
+      "message": "\uB2EB\uAE30"
+   },
+   "delete": {
+      "message": "\uC0AD\uC81C"
+   },
+   "description": {
+      "message": "\uC6F9\uD398\uC774\uC9C0\uB97C \uB098\uC911\uC5D0 \uC628\uB77C\uC778\uC774\uB098 \uC624\uD504\uB77C\uC778\uC73C\uB85C \uBE68\uB9AC \uBCFC \uC218 \uC788\uB3C4\uB85D \uC800\uC7A5\uD558\uC138\uC694! \uB108\uBB34 \uB9CE\uC740 \uD0ED\uC744 \uC5F4\uC9C0 \uB9D0\uACE0 \uBE0C\uB77C\uC6B0\uC9D5\uC744 \uC990\uAE30\uC138\uC694!"
+   },
+   "googleaccount": {
+      "message": "Google account"
+   },
+   "havediigo": {
+      "message": "\uC774\uBBF8 Diigo \uACC4\uC815\uC744 \uAC00\uC9C0\uACE0 \uC788\uC2B5\uB2C8\uAE4C?"
+   },
+   "itemarchive": {
+      "message": " \uAC1C\uC758 \uC544\uC774\uD15C"
+   },
+   "itemsarchive": {
+      "message": " \uAC1C\uC758 \uC544\uC774\uD15C"
+   },
+   "lastsync": {
+      "message": "\uB9C8\uC9C0\uB9C9 \uB3D9\uAE30\uD654  "
+   },
+   "learnmore": {
+      "message": "\uB354 \uC54C\uC544\uBCF4\uAE30 \u003E\u003E"
+   },
+   "linksave": {
+      "message": "\uB9C1\uD06C \uC800\uC7A5"
+   },
+   "morelink": {
+      "message": "\uB2F9\uC2E0\uC758 Diigo \uB77C\uC774\uBE0C\uB7EC\uB9AC\uC5D0\uC11C \uBAA8\uB4E0 \uC544\uC774\uD15C \uBCF4\uAE30 \u003E\u003E"
+   },
+   "networkerror": {
+      "message": "\uB124\uD2B8\uC6CC\uD06C \uC624\uB958"
+   },
+   "newdiigo": {
+      "message": "Diigo\uC5D0 \uCC98\uC74C\uC774\uC138\uC694? \uAD6C\uAE00 \uACC4\uC815\uC744 \uD1B5\uD574 Diigo.com\uC5D0 \uC811\uC18D\uD560 \uC218 \uC788\uC2B5\uB2C8\uB2E4."
+   },
+   "newtab": {
+      "message": "\uC0C8\uB85C\uC6B4 \uD0ED\uC73C\uB85C \uC5F4\uAE30"
+   },
+   "noselected": {
+      "message": "\uC120\uD0DD\uB41C \uD56D\uBAA9\uC774 \uC5C6\uC2B5\uB2C8\uB2E4"
+   },
+   "original": {
+      "message": "\uC6D0\uBCF8"
+   },
+   "pagesave": {
+      "message": "\uC800\uC7A5\uB41C \uD398\uC774\uC9C0"
+   },
+   "password": {
+      "message": "\uBE44\uBC00\uBC88\uD638"
+   },
+   "preferences": {
+      "message": "\uD658\uACBD\uC124\uC815"
+   },
+   "saveclosetab": {
+      "message": "\uC6F9\uD398\uC774\uC9C0\uC5D0\uC11C read-later \uC2E4\uD589 \uD6C4 \uD0ED \uB2EB\uAE30"
+   },
+   "saveonline": {
+      "message": "\uC628\uB77C\uC778\uC73C\uB85C \uC800\uC7A5:"
+   },
+   "saveonline_d": {
+      "message": "Read Later Fast\uB294 \uD604\uC7AC Diigo.com\uC744 \uD1B5\uD574 \uD074\uB77C\uC6B0\uB4DC \uAE30\uBC18\uC758 \uC800\uC7A5\uC18C\uB97C \uC81C\uACF5\uD558\uBA70, \uC5B4\uB5A4 \uCEF4\uD4E8\uD130\uB098 \uD734\uB300\uD3F0\uC5D0\uC11C\uB3C4 \uBCF4\uAD00\uB41C \uC6F9\uD398\uC774\uC9C0\uC5D0 \uC811\uADFC\uD560 \uC218 \uC788\uC2B5\uB2C8\uB2E4."
+   },
+   "shortcuts": {
+      "message": "read-later \uC2E4\uD589 \uB2E8\uCD95\uD0A4"
+   },
+   "sigining": {
+      "message": "\uB85C\uADF8\uC778..."
+   },
+   "signerror": {
+      "message": "\uC544\uC774\uB514/\uC774\uBA54\uC77C\uACFC \uBE44\uBC00\uBC88\uD638\uAC00 \uC77C\uCE58\uD558\uC9C0 \uC54A\uC2B5\uB2C8\uB2E4."
+   },
+   "signin": {
+      "message": "\uB85C\uADF8\uC778"
+   },
+   "sonline": {
+      "message": "\uC628\uB77C\uC778\uC73C\uB85C \uC800\uC7A5"
+   },
+   "stop": {
+      "message": "\uB3D9\uAE30\uD654 \uC815\uC9C0"
+   },
+   "stopsync": {
+      "message": "Diigo\uB85C\uC758 \uB3D9\uAE30\uD654\uB97C \uC911\uB2E8\uD558\uC2DC\uACA0\uC2B5\uB2C8\uAE4C?"
+   },
+   "syncing": {
+      "message": "Syncing..."
+   },
+   "synconline": {
+      "message": "\uC628\uB77C\uC778 \uB3D9\uAE30\uD654"
+   },
+   "textview": {
+      "message": "\uD14D\uC2A4\uD2B8 \uBCF4\uAE30"
+   },
+   "unread": {
+      "message": "\uC77D\uC9C0 \uC54A\uC74C"
+   },
+   "updatepage": {
+      "message": "\uC774 \uD398\uC774\uC9C0\uB294 \uC774\uBBF8 \uC774\uC804\uC5D0 \uC800\uC7A5\uB418\uC5C8\uC2B5\uB2C8\uB2E4. \uADF8\uAC83\uC744 \uC5C5\uB370\uC774\uD2B8?"
+   },
+   "username_email": {
+      "message": "\uC544\uC774\uB514 \uB610\uB294 \uC774\uBA54\uC77C"
+   },
+   "yes": {
+      "message": "Yes"
+   }
+}

@@ -1,0 +1,257 @@
+#fancybox-wrap {
+    top:0 !important;
+    padding-top:0;
+}
+#fancybox-outer {
+    border-top-right-radius:7px;
+    border-top-left-radius:7px;
+    background-color:#EFEFEF;
+    margin-top: 10px;
+}
+#fancybox-inner {
+    top:30px !important;
+    background-color:#FFF;
+}
+
+#readerHeader {
+    height: 30px;
+    line-height: 30px;
+    margin: 0px 10px;
+    /* padding: 6px 0px 5px; */ 
+    border-bottom: 1px solid #DDD;
+}
+#readerHeader table {
+    width: 100%;
+    height:100%;
+}
+#readerHeader td {
+    height:100%;
+    vertical-align:middle;
+}
+#readerClose{
+    margin-left: 5px;
+    width: 24px;
+    height: 24px;
+    background:url(../img/reader-icons.png) 0 0 no-repeat;
+}
+#readerPagination span.not(.segmentButtons){
+    margin-left: 10px;
+    width:50px;
+}
+
+
+td#readerPagination {
+    width:200px;
+}
+span#readerPrevItem {
+    float: left;
+}
+span#readerNextItem {
+    float: left;
+    margin-left: 10px;
+    background-position:-24px 0;
+}
+span#readerPrevItem:hover {
+    background-position: 0 -24px;
+}
+span#readerNextItem:hover {
+    background-position: -24px -24px;
+}
+span.noItem, span.noItem:hover {
+    background-position-y:-48px !important;
+}
+
+#readerTitle {
+    text-align: center;
+    font-weight: bold;
+    font-size:14px;
+    color:#505050;
+    white-space: nowrap;
+
+}
+#readerTitle h2 {
+    width:520px;
+    overflow: hidden;
+    font-size:14px;
+}
+#readerTitle a{
+    color: #505050;
+	text-decoration:none;
+}
+#readerTitle a:hover{
+    color:#000;
+	text-decoration:underline;
+}
+
+td#readerAction {
+    /* width:200px; */
+	/* width:160px !important; */
+    text-align:right;
+}
+span#readerClose {
+    float:right;
+    background-position:-72px 0;
+    margin-top:
+}
+span#viewToggle {
+	float:right;
+	margin-right:10px;
+	background:none;
+}
+
+a#readerOriginLink {
+    float:right;
+    margin-right:10px;
+    background-position:-48px 0;
+}
+#readerClose:hover{
+    background-position: -72px -24px;
+}
+#readerOriginLink:hover{
+    background-position: -48px -24px;
+}
+
+/*
+** move navigation to bottom
+*/
+#fancybox-title {
+	margin-bottom:-40px;
+}
+
+#readerPagination>span,#readerAction>span {
+	color:#fff;
+	line-height:24px;
+	cursor:pointer;
+	overflow:hidden;
+}
+#readerPagination>span:hover {
+	color:#FFF;
+}
+
+
+span#readerPrevItem {
+	z-index:2000;
+	position:absolute;
+	/* bottom:-30px; */
+	left:-50px;
+	top:50%;
+	margin-left:0;
+	margin-top:-30px;
+	width:40px;
+	background:none;
+	font-weight:bold;
+}
+span#readerPrevItem span {
+	float:left;
+	margin-left:0; margin-right:10px;
+	width:40px; height:60px;
+	background:url(../img/read_arrow.png) -120px 0 no-repeat;
+}
+span#readerNextItem {
+	z-index:2000;
+	position:absolute;
+	/* bottom:-30px; right:10px; */
+	right:-50px;
+	top:50%;
+	margin-left:0;
+	margin-top:-30px;
+	width:40px;
+	background:none;
+	text-align:right;
+	font-weight:bold;
+}
+span#readerNextItem span {
+	float:right;
+	margin-left:10px;
+	width:40px; height:60px;
+	background:url(../img/read_arrow.png) -40px 0 no-repeat;
+}
+
+span#readerPrevItem:not(.noItem):hover span {
+    background-position: -80px 0;
+}
+span#readerNextItem:not(.noItem):hover span {
+    background-position: 0 0px;
+}
+span.noItem span{
+    display:none;
+}
+
+
+/*  span.noItem span, span.noItem:hover span {
+    background-position-y:-48px !important;
+ }  */
+
+.text { display: none !important; }
+
+span#newtab,span#similar{
+    background:none;
+    margin-left:5px;
+    color:#000;
+    height:24px;
+    width:24px;
+}
+span#newtab a ,span#similar a{
+    color:#000;
+    text-decoration:none;
+}
+span#newtab span,span#similar span{
+    background:url(../img/reader-icons.png) 0 0 no-repeat;
+    background-position:-48px 0;
+    float:right;
+    height:24px;
+    width:24px;
+    margin-left:5px;
+}
+span#similar span{
+    background:url(../img/similar16.png) 4px 4px no-repeat;
+    opacity:0.5;
+}
+span#similar:hover span{
+    opacity:1;
+}
+span#newtab:hover a{
+    text-decoration:underline;
+    color:#000;
+}
+span#newtab:hover span{
+    background-position:-48px -24px;
+}
+
+
+
+#readerAction #archive,#readerAction #unread,#readerAction #delete   {
+    margin-left: 5px;
+    width: 24px;
+    height: 24px;
+    background:url(../img/reader-icons.png) 0 0 no-repeat;
+}
+
+#readerAction #delete,#readerAction #unread,#readerAction #archive{
+    float:right;
+}
+#readerAction #delete{
+    background-position:-24px 0;
+}
+#readerAction #delete:hover{
+    background-position:-24px -24px;
+}
+
+#readerAction #unread{
+    background-position:-96px 0;
+}
+#readerAction #unread:hover{
+    background-position:-96px -24px;
+}
+
+#readerAction #archive:hover{
+    background-position:0px -24px;
+}
+
+
+body.inbox #readerAction span#unread{
+    display:none;
+}
+body.archive #readerAction span#archive{
+    display:none;
+}

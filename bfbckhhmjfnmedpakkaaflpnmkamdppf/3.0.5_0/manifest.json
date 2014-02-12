@@ -1,0 +1,18 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://www.fotor.com/editor/index.html"
+      },
+      "urls": [ "http://www.fotor.com/" ]
+   },
+   "description": "Photo editing made simple and fun! Check out our new holiday features!",
+   "icons": {
+      "128": "icon_128.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDipzqv73FDcbnBsNsUSWQEQC9pl2FWyv9BDUSR5xMrvB6rJnRkCyDCHO3Xcdr+UIOm6RuobHiXTIdEOb6Bc2uQTydRU+Ns+z9pp9RTDg9CLxmuigjpJ/w+QKor2FQlXsurite4rcPCj/rMZAFN0qDn+bi+5ET/CUsriR0rySn38QIDAQAB",
+   "manifest_version": 2,
+   "name": "Fotor Photo Editor",
+   "permissions": [ "unlimitedStorage", "notifications" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "3.0.5"
+}

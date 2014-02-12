@@ -1,0 +1,13 @@
+{
+   "appDesc": {
+      "description": "\u30C6\u30EC\u30D3\uFF06\u30E9\u30B8\u30AA\u30AA\u30F3\u30E9\u30A4\u30F3.",
+      "message": "\u30C6\u30EC\u30D3\uFF06\u30E9\u30B8\u30AA\u30AA\u30F3\u30E9\u30A4\u30F3."
+   },
+   "appName": {
+      "description": "\u30A4\u30F3\u30BF\u30FC\u30CD\u30C3\u30C8\u30C6\u30EC\u30D3",
+      "message": "\u30A4\u30F3\u30BF\u30FC\u30CD\u30C3\u30C8\u30C6\u30EC\u30D3"
+   },
+   "appUrl": {
+      "message": "jp.online-television.net"
+   }
+}

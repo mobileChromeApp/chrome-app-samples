@@ -1,0 +1,19 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://www.numerics.info"
+      },
+      "urls": [ "http://numerics.info/", "http://www.numerics.info/" ]
+   },
+   "description": "Powerful calculator and converter for Chrome. The easiest way to calculate. Works offline",
+   "icons": {
+      "128": "caalc.png",
+      "16": "caalc_16.png",
+      "32": "caalc_32.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCwkUeb/RT+9lojd9JpwclsQNuKIy5QAkWuEbhRLdQ/wD+MGhINQXvgS2iZNHj/LBDMQ/mJBKETPukvDwcE/C0+RK0fQo4mEfNshoSlb6IKFYAA49cYEFbmvT+mV12onm8wqkS2PDTR+GMnzsj4OmY6AkSVcJTTEH2BpP82wTDK4QIDAQAB",
+   "manifest_version": 2,
+   "name": "Numerics Calculator & Converter",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "5.0.3"
+}

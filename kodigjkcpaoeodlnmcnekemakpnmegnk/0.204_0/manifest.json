@@ -1,0 +1,17 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://mix.until.am/"
+      },
+      "urls": [ "http://mix.until.am/" ]
+   },
+   "description": "Virtual turntables in your browser.",
+   "icons": {
+      "128": "logo.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDM826x/dW4VCRAz81Ww7Sm7VrFfRdHDD+/pycd1ZpeyQgfnWCvUYyHTgZu3i6ns0oKXTh0pzBSyxS/XtaGfUrxDFFA7uZmffsC88Xw3CRgUZjw9XbP6I/1tc1+rJTclhvojyO+52/Ao1pgZ1juVQmy5RPQzzDAK+/wHXgPWsKoTwIDAQAB",
+   "manifest_version": 2,
+   "name": "Until AM Web App",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.204"
+}

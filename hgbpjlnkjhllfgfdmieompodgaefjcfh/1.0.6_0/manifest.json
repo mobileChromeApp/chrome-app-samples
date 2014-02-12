@@ -1,0 +1,17 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://flixster.rottentomatoes.com/"
+      },
+      "urls": [ "http://flixster.rottentomatoes.com/", "http://api.flixster.com/" ]
+   },
+   "description": "Flixster Movies with Rotten Tomatoes. The #1 app for movie reviews, trailers, and showtimes.",
+   "icons": {
+      "128": "128.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCo2yikPKymHJQKJIE8o/qh2J6A/9fLekesMTowNcgBk64Xzsi2R7lt6bV/lA0GMCpO12VeMWX7C+ibuTwdf6QWVyWQPLGWEx2mHdcpdAmsz+Cc/AFWj7Hv6VS1aLjlUY5dU8/69/6JUlbJV7NHBtbwCFeW4Yb2p+kz9DYoXmQx6QIDAQAB",
+   "name": "Flixster",
+   "permissions": [ "geolocation" ],
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "1.0.6"
+}

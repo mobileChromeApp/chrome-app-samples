@@ -1,0 +1,19 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://online-television.net/url.php?url=__MSG_appUrl__/?from=chrome"
+      },
+      "urls": [ "http://online-television.net/url.php?url=__MSG_appUrl__/?from=chrome" ]
+   },
+   "default_locale": "ru",
+   "description": "__MSG_appDesc__",
+   "icons": {
+      "128": "128.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC2IN3VqfHa3WMndYVya4WRv3wwB+xvxsdnonJJcphMVreAIdrzLj1XaGpgBvYi5V+I8UuzyCq8+JPeyG46JfykjpB2mLYJ7A+ungVJgb8q3XdZdnD6a7sF60N3MNmzyJw3HLtJ8Gf4GMv2sD0nfnzUyHcnowIh0+jcqwPPX5XOywIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_appName__",
+   "permissions": [ "unlimitedStorage", "notifications" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.4"
+}

@@ -1,0 +1,13 @@
+{
+   "appDesc": {
+      "description": "TV og Radio på nettet.",
+	  "message": "TV og Radio på nettet."
+   },
+   "appName": {
+      "description": "TV på nettet",
+      "message": "TV på nettet"
+   },
+   "appUrl": {
+      "message": "en.online-television.net"
+   }
+}

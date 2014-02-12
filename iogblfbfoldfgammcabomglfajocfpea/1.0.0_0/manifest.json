@@ -1,0 +1,18 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://www.pinkemu.com/arcade-games/fire-boy-and-water-girl.html"
+      },
+      "urls": [ "http://www.pinkemu.com/arcade-games/fire-boy-and-water-girl.html" ]
+   },
+   "default_locale": "en",
+   "description": "__MSG_application_description__",
+   "icons": {
+      "128": "icon128.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDH7XJpIGwfofk+EATEV0xvnRCUylAsQQNhyjiGPX9Wqlzlh4JFpsYOy9F6gb4ABu1FTZX0EbSgBJ5ka0QvPCaxcCUNzxxKmBI1Mno1/1DKzBFxBYoDhnXCEpuI+Rl6va9KBz3tiGzinZb2pOY/UpJ7L2c7NLljPowCxMR/PufVpwIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_application_title__",
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "1.0.0"
+}

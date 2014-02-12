@@ -1,0 +1,40 @@
+{
+   "app": {
+      "launch": {
+         "local_path": "html/themes.html"
+      }
+   },
+   "background": {
+      "scripts": [ "common/js/analytics.js", "common/js/frameworks/jquery-1.8.2.min.js", "common/js/scheduler/includes/jsonfn.js", "common/js/scheduler/includes/underscore-min.js", "common/js/scheduler/includes/backbone-min.js", "common/js/scheduler/includes/backbone-storage.js", "common/js/scheduler/scheduler.js", "common/js/toolkit/functions/background.js", "common/js/toolkit/backend.js", "common/js/toolkit/background.js", "js/themes/storage.js", "js/themes/messaging.js", "js/themes/background.js", "js/background.js" ]
+   },
+   "content_scripts": [ {
+      "all_frames": false,
+      "js": [ "common/js/frameworks/jquery-1.8.2.min.js", "common/js/scheduler/includes/jsonfn.js", "common/js/toolkit/functions/content_scripts.js", "common/js/toolkit/content_scripts.js" ],
+      "matches": [ "http://*/*", "https://*/*" ],
+      "run_at": "document_start"
+   }, {
+      "js": [ "common/js/frameworks/jquery-1.8.2.min.js", "js/content_scripts.js" ],
+      "matches": [ "*://*.facebook.com/*" ]
+   }, {
+      "all_frames": true,
+      "js": [ "js/themes/apply.js" ],
+      "matches": [ "*://*.facebook.com/*" ],
+      "run_at": "document_start"
+   } ],
+   "content_security_policy": "default-src 'self'; style-src 'self' 'unsafe-inline'; connect-src *; frame-src 'self'; script-src 'self' https://ssl.google-analytics.com; object-src 'self'; img-src *",
+   "description": "Facebook Style Gallery App",
+   "icons": {
+      "128": "images/icon128.png",
+      "16": "images/icon16.png",
+      "32": "images/icon32.png",
+      "64": "images/icon64.png"
+   },
+   "incognito": "spanning",
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDW8X5DqTWA5VUvxg0cZr+eXRc2GGK1fhGeUvZ4GvbStkvlIU7dKfNqNxh3FGNql3OlnlB1wC/aBOvSdKhGiYTbknveIu/147QIbaB4G/RZvqMwTnWRwbV2TmZJjswcque0eI0uXexEpryMVCw3cOx1fZu7tbhLW9tk530opZGUXQIDAQAB",
+   "manifest_version": 2,
+   "name": "Facebook Themes (Facebook Style Gallery) App",
+   "options_page": "html/themes.html",
+   "permissions": [ "http://*/*", "https://*/*", "tabs", "contextMenus", "webRequest", "webRequestBlocking", "webNavigation", "unlimitedStorage", "management" ],
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "1.0.0"
+}

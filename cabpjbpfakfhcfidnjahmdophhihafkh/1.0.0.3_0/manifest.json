@@ -1,0 +1,17 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://www.123freecell.com/?chromestore=1"
+      },
+      "urls": [ "http://www.123freecell.com/?chromestore=1" ]
+   },
+   "description": "Come play all your favorite Freecell games with 123 Freecell!",
+   "icons": {
+      "128": "freecell_solitaire_icon.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDXWeh+wTO1XKfwBApEEpu0C/V7DpIRKAPNSfOrbPk8MZ+FoKknvBDUpGmTz4BWVamIP5Jg8ddoBXUZn+83qQesfqUckaAXblqjs26CB4OPtfpLwASXIC0DrgsWOn3jY1NOuQu6oqRY6rvxo9vVtU2Qv26LW75mm7TogfY43W7hqwIDAQAB",
+   "manifest_version": 2,
+   "name": "Freecell Solitaire",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.0.3"
+}

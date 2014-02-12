@@ -1,0 +1,10 @@
+{
+   "extDesc": {
+      "description": "Extension description",
+      "message": "Monter votre planche \u00E0 roulettes dans les rues de la ville en \u00E9vitant les obstacles et collecter les bonus sur votre chemin."
+   },
+   "extName": {
+      "description": "Extension name",
+      "message": "Downhill Jam"
+   }
+}

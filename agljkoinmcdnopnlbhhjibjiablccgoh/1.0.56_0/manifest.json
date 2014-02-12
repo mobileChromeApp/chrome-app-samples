@@ -1,0 +1,17 @@
+{
+   "app": {
+      "launch": {
+         "local_path": "index.html"
+      }
+   },
+   "default_locale": "en_US",
+   "description": "__MSG_radio_description__",
+   "icons": {
+      "128": "icon_128.png",
+      "16": "icon_16.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDQWycTYgNhz/RWH/kgU0y4BP3U/yXYeuFDvpnpt2NO8oc3CA/58kUlzj/0MHWIYkJnvTFgSd2EbPXeknSH0OEBuD7bM5REzEFdBrEffvebbOQW+lUagjOq1YSnxxFaibv+CIRQ3Kvxua2fN00n73T2dVNyDe8UNOqDjaNblKVBWQIDAQAB",
+   "name": "__MSG_radio_name__",
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "1.0.56"
+}

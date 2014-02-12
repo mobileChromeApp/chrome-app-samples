@@ -1,0 +1,28 @@
+{
+   "app": {
+      "launch": {
+         "local_path": "/app/main.html"
+      }
+   },
+   "background": {
+      "scripts": [ "js/background.js" ]
+   },
+   "chrome_url_overrides": {
+      "newtab": "/newtab/newtab.html"
+   },
+   "content_security_policy": "script-src 'self' https://ssl.google-analytics.com; object-src 'self'",
+   "description": "The world's most popular and authoritative source for movie, TV and celebrity content.",
+   "homepage_url": "http://imdb.com",
+   "icons": {
+      "128": "images/logo128.png",
+      "16": "images/blank16.png",
+      "48": "images/logo48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDlWWtLUFjQOJ+U2aP7ENceud+RaRJZxaFLEzYAIWQSlx9CmxxRHdgnpT/y+idFfX8PlkTzu5fF6edCM6aFS3mIdjohGpI1xIRUQDjwOIN1n4z0EiBEX2TsCY6bk3cSbFVOC0Q28iH1eporZgUc28Z4PkuGaOox1bp98h488KLiNwIDAQAB",
+   "manifest_version": 2,
+   "name": "IMDB\u2122",
+   "permissions": [ "notifications", "topSites", "management", "bookmarks" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.0.3",
+   "web_accessible_resources": [ "newtab/newtab.js" ]
+}

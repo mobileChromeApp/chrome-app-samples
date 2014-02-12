@@ -1,0 +1,56 @@
+/*this css for contentscript*/
+
+#Read_Later_Fast_notification_show{
+	margin-top:35px !important;
+	position:relative;
+}
+#Read_Later_Fast_notification{
+	height:35px;
+	background:#FFD000;
+	left:0px;right:0px;top:-35px;
+	position:absolute;
+	border-bottom: solid 1px #BF8A01;
+	font-size:14px;
+	line-height:35px;
+	color:#000;margin:0;
+	padding:0 10px;
+	z-index:999999;
+	min-width:1000px;
+}
+#Read_Later_Fast_notification span{
+	float:left;
+	margin-right:20px;
+}
+#Read_Later_Fast_notification_allow,#Read_Later_Fast_notification_nerver,#Read_Later_Fast_notification_cancle{
+	height:25px;
+	line-height:25px;
+	padding: 0px 10px;
+	background:#fff;
+	text-align:center;
+	border-radius:4px;
+	margin-top:4px; 
+	background:-webkit-gradient(linear, left top, left bottom, from(white), to(#EDEDED));
+	border: solid 1px #B7B7B7;box-shadow: 0 1px 2px rgba(0,0,0,.2);
+}
+#Read_Later_Fast_notification_allow:hover,#Read_Later_Fast_notification_nerver:hover,#Read_Later_Fast_notification_cancle:hover{cursor:pointer}
+#Read_Later_Fast_notification #learnmore{
+	position:relative; 
+	float:left;
+	margin-left:-18px;
+	text-decoration:underline;
+}
+#Read_Later_Fast_notification #learnmore #moretip{
+	position:absolute;
+	width:750px;
+	left:-200px;
+	top:35px; 
+	border:1px solid #BF8A01;
+	background:#fff;
+	z-index:99999;
+	font-size:11px;
+	text-align:center;
+	box-shadow:0 1px 2px rgba(0,0,0,.2);
+	display:none;
+}
+#Read_Later_Fast_notification #learnmore:hover{cursor:pointer;}
+#Read_Later_Fast_notification #learnmore:hover #moretip{display:block}

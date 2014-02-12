@@ -1,0 +1,13 @@
+{
+   "appDesc": {
+      "description": "互联网电视及电台广播.",
+	  "message": "互联网电视及电台广播."
+   },
+   "appName": {
+      "description": "电视在线",
+      "message": "电视在线"
+   },
+   "appUrl": {
+      "message": "cn.online-television.net"
+   }
+}

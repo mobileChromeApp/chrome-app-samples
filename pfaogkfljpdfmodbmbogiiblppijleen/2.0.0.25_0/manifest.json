@@ -1,0 +1,19 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://supermariogames.funkychromegames.com/supermariogames.htm"
+      },
+      "urls": [ "http://supermariogames.funkychromegames.com/" ]
+   },
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "icons": {
+      "128": "icon_128.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAp2ESMHjfqVx5/bqn3o6ATNkCzHxO10m4bRwMnf8Ng4ccJthoH0uMwiaLPtVZKkJty2Q6gdeQH1BVxVQftf9Zz13p/wAmFvmKWBLsNNIlW/gg53gT2QhiL0fqHncStJ4mksPKrRgD91gRhjyJ8xZSHQImKhpueFGkmxOmx97ELRp4zfEDjqYLmm6DaGBBRf6lLvzbPnxmN0aZpbESymTwtoYkVdf1SCQmTQAe4T2nBYfcutSRYWHiklZmjLa1fo2i8PilF/q7f9AHYmeIzjXS5kaFpBCwnDJ5u58yJ0WRJrWMVY1JKJxyv0iqyfANSO3U4xCW6U9Hsyq4s0/omEO5zwIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_appName__",
+   "permissions": [ "notifications" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.0.0.25"
+}

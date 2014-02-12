@@ -1,0 +1,137 @@
+{
+   "OK": {
+      "message": "OK"
+   },
+   "aboutdiigo": {
+      "message": "Diigo hakk\u0131nda:"
+   },
+   "aboutdiigo_1": {
+      "message": "web sayfalar\u0131n\u0131z\u0131 s\u0131k kullan\u0131lan listelerine eklemek, ar\u015Fivlemek ve dipnotlamak, "
+   },
+   "aboutdiigo_2": {
+      "message": "notlar\u0131n\u0131z\u0131, resimlerinizi ve ekran g\u00F6r\u00FCnt\u00FClerinizi saklamak,"
+   },
+   "aboutdiigo_3": {
+      "message": "verilerinizi \u00E7e\u015Fitli yollarla aramak, organize etmek ve payla\u015Fmak"
+   },
+   "aboutdiigo_4": {
+      "message": "Android tabanl\u0131 cihazlar, iPhone ve iPad uygulamalar\u0131 arac\u0131l\u0131\u011F\u0131 ile heryerden eri\u015Ferek kullanabilece\u011Finiz \u00E7ok ama\u00E7l\u0131 bir koleksiyon arac\u0131d\u0131r."
+   },
+   "aboutdiigo_d": {
+      "message": "Diigo,"
+   },
+   "archive": {
+      "message": "Ar\u015Fiv"
+   },
+   "cancel": {
+      "message": "Cancel"
+   },
+   "close": {
+      "message": "Yak\u0131n"
+   },
+   "delete": {
+      "message": "Sil"
+   },
+   "description": {
+      "message": "Sayfalar\u0131 daha sonra okumak i\u00E7in saklay\u0131n "
+   },
+   "googleaccount": {
+      "message": "Google account"
+   },
+   "havediigo": {
+      "message": "Halihaz\u0131rda bir Diigo hesab\u0131n\u0131z m\u0131 var?"
+   },
+   "itemarchive": {
+      "message": " \u00F6\u011Fe ar\u015Fivlendi"
+   },
+   "itemsarchive": {
+      "message": " \u00F6\u011Fe ar\u015Fivlendi"
+   },
+   "lastsync": {
+      "message": "son e\u015Fitleme saati "
+   },
+   "learnmore": {
+      "message": "Daha fazlas\u0131n\u0131 \u00F6\u011Frenin \u003E\u003E"
+   },
+   "linksave": {
+      "message": "Link Kaydedildi"
+   },
+   "morelink": {
+      "message": "Diigo k\u00FCt\u00FCphanesindeki t\u00FCm \u00F6\u011Feleri g\u00F6r \u003E\u003E"
+   },
+   "networkerror": {
+      "message": "A\u011F Hatas\u0131"
+   },
+   "newdiigo": {
+      "message": "Diigo ile yeni mi tan\u0131\u015F\u0131yorsunuz? Diigo.com'a Google hesab\u0131n\u0131z ile ba\u011Flan\u0131n."
+   },
+   "newtab": {
+      "message": "Yeni sekmede a\u00E7"
+   },
+   "noselected": {
+      "message": "Se\u00E7ili \u00F6\u011Fe yok."
+   },
+   "original": {
+      "message": "Orijinal"
+   },
+   "pagesave": {
+      "message": "Sayfa Kaydedildi"
+   },
+   "password": {
+      "message": "Parola"
+   },
+   "preferences": {
+      "message": "Tercihler"
+   },
+   "saveclosetab": {
+      "message": "\"Daha sonra oku\" listesine ekledikten sonra sekmeyi kapat"
+   },
+   "saveonline": {
+      "message": "Internet'e Kaydet:"
+   },
+   "saveonline_d": {
+      "message": "Read Later Fast, web sayfas\u0131 listenizin herhangi bir bilgisayar veya telefondan eri\u015Fimini sa\u011Flamak i\u00E7in \u015Fu anda Diigo.com'un bulut tabanl\u0131 depolama hizmetlerini kullanmaktad\u0131r."
+   },
+   "shortcuts": {
+      "message": "\"Daha sonra oku\" listesine eklemek i\u00E7in klavye k\u0131sayolu"
+   },
+   "sigining": {
+      "message": "Giri\u015F Yap..."
+   },
+   "signerror": {
+      "message": "Ge\u00E7ersiz Kullan\u0131c\u0131 Ad\u0131/E-Posta ve Parola kombinasyonu"
+   },
+   "signin": {
+      "message": "Giri\u015F Yap"
+   },
+   "sonline": {
+      "message": "Internet'e Kaydet"
+   },
+   "stop": {
+      "message": "Senkronizasyonu Durdur"
+   },
+   "stopsync": {
+      "message": "Diigo ile senkronizasyon durdurulsun mu?"
+   },
+   "syncing": {
+      "message": "Syncing..."
+   },
+   "synconline": {
+      "message": "Internet'e senkronize et"
+   },
+   "textview": {
+      "message": "Metin Olarak G\u00F6r\u00FCnt\u00FCle"
+   },
+   "unread": {
+      "message": "Okunmam\u0131\u015Flar"
+   },
+   "updatepage": {
+      "message": "Bu sayfa daha \u00F6nceki kaydedildi. O Update?"
+   },
+   "username_email": {
+      "message": "Kullan\u0131c\u0131 ad\u0131 veya E-Posta Adresi"
+   },
+   "yes": {
+      "message": "Yes"
+   }
+}

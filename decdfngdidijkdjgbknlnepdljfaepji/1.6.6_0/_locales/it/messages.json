@@ -1,0 +1,137 @@
+{
+   "OK": {
+      "message": "OK"
+   },
+   "aboutdiigo": {
+      "message": "A proposito di Diigo:"
+   },
+   "aboutdiigo_1": {
+      "message": "Aggiungere ai preferiti, archiviare e annotare pagine web "
+   },
+   "aboutdiigo_2": {
+      "message": "salvare appunti, immagini e istantanee dello schermo"
+   },
+   "aboutdiigo_3": {
+      "message": "cercare, organizzare e condividere i tuoi dati in molti modi,"
+   },
+   "aboutdiigo_4": {
+      "message": "accedere ovunque usando le applicazioni Diigo da Android, iPhone e iPad"
+   },
+   "aboutdiigo_d": {
+      "message": "Diigo \u00E8 gratuito, \u00E8 uno strumento per tutti gli scopi che ti permette di"
+   },
+   "archive": {
+      "message": "Archivia"
+   },
+   "cancel": {
+      "message": "Cancel"
+   },
+   "close": {
+      "message": "Chiudi"
+   },
+   "delete": {
+      "message": "Cancella"
+   },
+   "description": {
+      "message": "Salva pagine da leggere in seguito , online o anche offline !  Evita di aprire troppe schede a rendi la tua navigazione veloce!"
+   },
+   "googleaccount": {
+      "message": "Google account"
+   },
+   "havediigo": {
+      "message": "Hai gi\u00E0 un account Diigo?"
+   },
+   "itemarchive": {
+      "message": " elementi archiviati"
+   },
+   "itemsarchive": {
+      "message": " elementi archiviati"
+   },
+   "lastsync": {
+      "message": "Ultima sincronizzazione "
+   },
+   "learnmore": {
+      "message": "Approfondisci \u003E\u003E"
+   },
+   "linksave": {
+      "message": "Link Salvato"
+   },
+   "morelink": {
+      "message": "Guarda tutti gli elementi nella libreria Diigo \u003E\u003E"
+   },
+   "networkerror": {
+      "message": "Errore di rete"
+   },
+   "newdiigo": {
+      "message": "Nuovo a Diigo? Connettiti a Diigo.com via account di Google"
+   },
+   "newtab": {
+      "message": "Apri in una nuova scheda"
+   },
+   "noselected": {
+      "message": "No items selected."
+   },
+   "original": {
+      "message": "Originale"
+   },
+   "pagesave": {
+      "message": "Pagina salvata"
+   },
+   "password": {
+      "message": "Password"
+   },
+   "preferences": {
+      "message": "Preferenze"
+   },
+   "saveclosetab": {
+      "message": "Chiudi la scheda dopo aver segnato la pagina per \"read-later\""
+   },
+   "saveonline": {
+      "message": "Salva online:"
+   },
+   "saveonline_d": {
+      "message": "\"Read Later Fast\" attualmente utilizza Diigo.com per fornire lo spazio necessario per accedere alle segnalibri da qualsiasi computer o telefono."
+   },
+   "shortcuts": {
+      "message": "Scorciatoie tastiera"
+   },
+   "sigining": {
+      "message": "Accedi..."
+   },
+   "signerror": {
+      "message": "Combinazione nome utente e password errata"
+   },
+   "signin": {
+      "message": "Accedi"
+   },
+   "sonline": {
+      "message": "Salva online"
+   },
+   "stop": {
+      "message": "Ferma la sincronizzazione"
+   },
+   "stopsync": {
+      "message": "Ferma la sincronizzazione con Diigo ?"
+   },
+   "syncing": {
+      "message": "Syncing..."
+   },
+   "synconline": {
+      "message": "Sincronizza"
+   },
+   "textview": {
+      "message": "Testo"
+   },
+   "unread": {
+      "message": "Non letto"
+   },
+   "updatepage": {
+      "message": "Questa pagina \u00E8 stata gi\u00E0 salvata in precedenza. Aggiornarlo?"
+   },
+   "username_email": {
+      "message": "Nome Utente o Email"
+   },
+   "yes": {
+      "message": "Yes"
+   }
+}

@@ -1,0 +1,22 @@
+{
+   "app": {
+      "launch": {
+         "local_path": "index.html"
+      }
+   },
+   "description": "Calculator for Google Chrome!",
+   "homepage_url": "http://www.aidantaylor.net/",
+   "icons": {
+      "128": "128.ico",
+      "16": "16.ico",
+      "48": "48.ico"
+   },
+   "incognito": "split",
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCwG2RqkQJUc7lTRcYqW/5PY97Wy56Nfmm2wTscA2OSUre5LqteeLvxgWdLm6Cx7dwjy8WrvNC3O3MHxGnfQX1RKuFYy8aW+bNOG59/T0OdqUt8iVntFbBQqb5CmA11f9ZDTVhQtsBba+WDm2tMh9UnV/8lwsavPkW6KRWyC4H5HQIDAQAB",
+   "manifest_version": 2,
+   "name": "Calculator",
+   "offline_enabled": true,
+   "permissions": [ "unlimitedStorage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "3.5.6"
+}

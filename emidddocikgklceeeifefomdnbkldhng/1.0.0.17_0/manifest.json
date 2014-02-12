@@ -1,0 +1,19 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://funkyphotos.info/widgets/tetris2f.htm"
+      },
+      "urls": [ "http://funkyphotos.info/widgets/" ]
+   },
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "icons": {
+      "128": "icon_128.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDGA04j1FbHoXBpFkCHfqcAFQlpAvX6MsiYYFT4sPQzmcgO8X3FyqSStrgQuBDrhRTsGsMPyShuSNmjrNEjAfGoww4C8PQ9Qp2F4RfhISlu9+DVPEAKsPzpp98ea+qMRdT+jK3hbfiiusZTXKpQfvQsl/lacft8oF+gB5bwfAVVuQIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_appName__",
+   "permissions": [ "notifications" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.0.17"
+}

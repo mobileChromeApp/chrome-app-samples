@@ -1,0 +1,142 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>install Searcho</title>
+	<link rel="stylesheet" href="css/text.css" />
+	<style>
+		*{
+			padding: 0;
+			margin: 0;
+		}
+		body{
+			background:url(../img/bg.png);
+			/*background: #fff;*/
+			font-size: 14px;
+			color: gray;
+		}
+		body a{
+			color: #3366cc;
+			text-decoration: none;
+		}
+		body a:hover{
+			text-decoration: underline;
+		}
+		#wrap{
+			width: 1000px;
+			margin: 70px auto;
+			overflow: hidden;
+			background: #f5f5f5;
+			border-radius: 5px;
+			box-shadow: 0 1px 5px rgba(0,0,0,.2);
+			padding:20px;
+		}
+		#wrap #title{
+			font-weight: normal;
+			/*padding-top: 10px;*/
+			line-height: 24px;
+		}
+		#maincontent{
+			margin:0px 0px;
+			line-height: 24px;
+		}
+		#maincontent img{
+			max-width: 440px;
+			float: left;
+			margin-right: 20px;
+			margin-top: 0px;
+			border-radius: 3px;
+			/*box-shadow: 0 1px 5px rgba(0,0,0,.2);*/
+		}
+		#maincontent .rlf{
+			/*color: red;*/
+			/*font-style: normal;*/
+			font-weight: bold;
+		}
+		#maincontent .rlflogo{
+			width:16px;height: 16px;
+			/*float: left;*/
+			background: url('icon16.png') no-repeat;
+			
+		}
+		#main{
+			margin-top: 18px;
+		}
+		#install{
+			margin-top: 18px;
+		}
+		#install span{
+			float: left;
+			padding:1px 10px;
+			border-radius:3px;
+			font-weight: bold;
+			background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#008dfa), to(#0059a2));
+			color:#fff;
+			border:1px solid #004680;
+			cursor: pointer;
+		}
+		#install span:hover{
+			background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#0593ff), to(#005fad));
+		}
+		#install span:active{
+			background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#0059a2), to(#008dfa));
+		}
+		#other{
+			/*clear: both;*/
+			font-weight: normal;
+			font-size: 12px;
+			/*margin-top:30px;*/
+		}
+		#other .o_t{
+			margin-top: 20px;
+		}
+		#other ul{
+			list-style: none;
+		}
+		#other ul li{
+			list-style: none;
+			/*margin-left: 10px;*/
+		}
+	</style>
+</head>
+<body>
+	<div id="wrap">
+		
+		<div id="maincontent">
+			<img src="../img/searcho.png" />
+			<div id="title">
+				Your Chrome app <cite class="rlf">"Read Later Fast"</cite> has been updated with some bug fixes.<br /> 
+				In the meantime, we would also like to introduce a brand-new Chrome extension,<b>SearchO</b>, by the Diigo team.
+			</div>
+			<div id="main">
+				<b>SearchO</b> makes it super-easy to switch among the most widely used search options, so that searching the same terms on different search engines is just one-click away.  (customization of search engines coming soon)
+				<br /><br />
+				SearchO is a perfect complement to Chrome's Omnibox, and can really speed up your search process
+				See <a href="https://chrome.google.com/webstore/detail/eekjldapjblgadclklmgolijbagmdnfk">more details.</a>
+			</div>
+			<div id="install"><span id="installbutton">Install Now </span></div>
+		</div>
+		<div style="clear: both;"></div>
+		<div id="other">
+			<div class="o_t">The Diigo team has developed some of most popular and highest rated Chrome apps/extensions.  Check them out!</div>
+			<ul>
+				<li><a href="https://chrome.google.com/webstore/detail/oojbgadfejifecebmdnhhkbhdjaphole">Diigo Highlighter</a></li>
+				<li><a href="https://chrome.google.com/webstore/detail/alelhddbbhepgpmgidjdcjakblofbmce">Awesome Screenshot</a></li>
+				<li><a href="https://chrome.google.com/webstore/detail/mijlebbfndhelmdpmllgcfadlkankhok">Quick Note</a></li>
+			</ul>
+		</div>
+	</div>
+	
+</body>
+<script>
+    //var SearchOURL = 'https://clients2.google.com/service/update2/crx?response=redirect&x=id%3Deekjldapjblgadclklmgolijbagmdnfk%26uc';
+    var SearchOURL = 'https://chrome.google.com/webstore/detail/eekjldapjblgadclklmgolijbagmdnfk';
+    function install(e){
+        //window.open(SearchOURL);
+	window.location.href = SearchOURL;
+        //chrome.tabs.create({url:SearchOURL}, function(tab){})
+    }
+
+    document.getElementById('installbutton').addEventListener('click',install,false)
+</script>
+</html>

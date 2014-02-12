@@ -1,0 +1,15 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://www.online-mahjongg.com/?chromestore=1"
+      },
+      "urls": [ "http://www.online-mahjongg.com/?chromestore=1" ]
+   },
+   "icons": {
+      "128": "mahjong_chrome_app_icon.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDRmSHwq0XqRZf94Gtq19AAKxdSVj6ZzQ8IcqibDa+lkN1DS62rcJkXg6dPk/3HbGMXnCprjpgs2Fll0b2VKYLrm3lVXsZYxGrwqJasXtOUgY3pVvGk9Ui57OvpraDc4RW062kDa+/CGwHobXQktTOYZyiO1ZWXuo0hxZVXur0gXwIDAQAB",
+   "name": "Mahjongg",
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "1.0.0.2"
+}

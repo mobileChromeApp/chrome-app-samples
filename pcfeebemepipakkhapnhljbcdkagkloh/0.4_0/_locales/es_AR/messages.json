@@ -1,0 +1,13 @@
+{
+   "appDesc": {
+      "description": "Televisión y Radio en línea.",
+	  "message": "Televisión y Radio en línea."
+   },
+   "appName": {
+      "description": "TV en directo",
+      "message": "TV en directo"
+   },
+   "appUrl": {
+      "message": "es.online-television.net"
+   }
+}

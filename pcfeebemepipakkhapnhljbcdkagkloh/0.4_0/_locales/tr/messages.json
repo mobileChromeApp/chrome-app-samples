@@ -1,0 +1,13 @@
+{
+   "appDesc": {
+      "description": "Televizyon ve Radyo online.",
+      "message": "Televizyon ve Radyo online."
+   },
+   "appName": {
+      "description": "TV Online",
+      "message": "TV Online"
+   },
+   "appUrl": {
+      "message": "tr.online-television.net"
+   }
+}

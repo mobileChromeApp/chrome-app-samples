@@ -1,0 +1,140 @@
+{
+   "OK": {
+      "message": "\u786E\u5B9A"
+   },
+   "aboutdiigo": {
+      "message": "\u5173\u4E8EDiigo:"
+   },
+   "aboutdiigo_1": {
+      "message": ""
+   },
+   "aboutdiigo_2": {
+      "message": ""
+   },
+   "aboutdiigo_3": {
+      "message": ""
+   },
+   "aboutdiigo_4": {
+      "message": ""
+   },
+   "aboutdiigo_d": {
+      "message": "Diigo \u5E2E\u52A9\u7528\u6237\u4ECE\u8BA1\u7B97\u673A\uFF0C\u624B\u673A\uFF0C\u6D4F\u89C8\u5668\u91CC\u9762\u6536\u96C6\u5404\u79CD\u91CD\u8981\u4FE1\u606F\uFF0C\u5E76\u901A\u8FC7\u591A\u79CD\u9014\u5F84\u8BBF\u95EE\u4ED6\u4EEC\u3002"
+   },
+   "archive": {
+      "message": "\u5B58\u6863"
+   },
+   "cancel": {
+      "message": "\u53D6\u6D88"
+   },
+   "close": {
+      "message": "\u5173\u95ED"
+   },
+   "delete": {
+      "message": "\u5220\u9664"
+   },
+   "description": {
+      "message": "\u4FDD\u5B58\u9875\u9762\u7A0D\u5019\u9605\u8BFB -- \u79BB\u7EBF\u6216\u8005\u5728\u7EBF\u7684, \u5FEB\u901F\u7684! \u907F\u514D\u592A\u591A\u7684\u6807\u7B7E\u4F7F\u4F60\u7684\u6D4F\u89C8\u5668\u7206\u70B8!"
+   },
+   "googleaccount": {
+      "message": "Google account"
+   },
+   "havediigo": {
+      "message": "\u5DF2\u7ECF\u62E5\u6709Diigo\u8D26\u53F7\uFF1F"
+   },
+   "itemarchive": {
+      "message": "\u6761\u5DF2\u5B58\u6863"
+   },
+   "itemsarchive": {
+      "message": "\u6761\u5DF2\u5B58\u6863"
+   },
+   "lastsync": {
+      "message": "\u4E0A\u6B21\u540C\u6B65\u5728"
+   },
+   "learnmore": {
+      "message": "\u4E86\u89E3\u66F4\u591A\u003E\u003E"
+   },
+   "linksave": {
+      "message": "\u94FE\u63A5\u5DF2\u4FDD\u5B58"
+   },
+   "local": {
+      "message": "zh_CN"
+   },
+   "morelink": {
+      "message": "\u67E5\u770B\u6240\u6709\u4E66\u7B7E \u003E\u003E"
+   },
+   "networkerror": {
+      "message": "\u7F51\u7EDC\u9519\u8BEF"
+   },
+   "newdiigo": {
+      "message": "\u6CA1\u6709Diigo\u8D26\u53F7\uFF1F\u8FDE\u63A5\u5230Diigo.com\u901A\u8FC7"
+   },
+   "newtab": {
+      "message": "\u5728\u65B0\u6807\u7B7E\u4E2D\u6253\u5F00"
+   },
+   "noselected": {
+      "message": "\u672A\u9009\u4E2D\u4EFB\u4F55\u6761\u76EE"
+   },
+   "original": {
+      "message": "\u539F\u9875\u9762"
+   },
+   "pagesave": {
+      "message": "\u9875\u9762\u5DF2\u4FDD\u5B58"
+   },
+   "password": {
+      "message": "\u5BC6\u7801"
+   },
+   "preferences": {
+      "message": "\u9996\u9009\u9879"
+   },
+   "saveclosetab": {
+      "message": "\u4FDD\u5B58\u540E\u5173\u95ED\u9875\u9762"
+   },
+   "saveonline": {
+      "message": "\u5728\u7EBF\u4FDD\u5B58:"
+   },
+   "saveonline_d": {
+      "message": "Read Later Fast\u76EE\u524D\u4F7F\u7528Diigo.com\u63D0\u4F9B\u7684\u4E91\u50A8\u5B58\u670D\u52A1\uFF0C\u4F60\u53EF\u4EE5\u4ECE\u4EFB\u4F55\u4E00\u53F0\u7535\u8111\u6216\u667A\u80FD\u624B\u673A\u8BBF\u95EE\u4F60\u7684\u4E66\u7B7E"
+   },
+   "shortcuts": {
+      "message": "\u5FEB\u6377\u952E"
+   },
+   "sigining": {
+      "message": "\u6B63\u5728\u767B\u9646..."
+   },
+   "signerror": {
+      "message": "\u7528\u6237\u540D\u6216\u5BC6\u7801\u9519\u8BEF"
+   },
+   "signin": {
+      "message": "\u767B\u9646"
+   },
+   "sonline": {
+      "message": "\u4FDD\u5B58\u81F3\u7F51\u7EDC"
+   },
+   "stop": {
+      "message": "\u505C\u6B62\u540C\u6B65"
+   },
+   "stopsync": {
+      "message": "\u548CDiigo\u505C\u6B62\u540C\u6B65\uFF1F"
+   },
+   "syncing": {
+      "message": "\u6B63\u5728\u540C\u6B65..."
+   },
+   "synconline": {
+      "message": "\u540C\u6B65"
+   },
+   "textview": {
+      "message": "\u6587\u5B57\u6A21\u5F0F"
+   },
+   "unread": {
+      "message": "\u672A\u8BFB"
+   },
+   "updatepage": {
+      "message": "\u8FD9\u4E2A\u9875\u9762\u5DF2\u7ECF\u4FDD\u5B58\uFF0C\u66F4\u65B0\uFF1F"
+   },
+   "username_email": {
+      "message": "\u7528\u6237\u540D/\u7535\u5B50\u90AE\u7BB1\u5730\u5740"
+   },
+   "yes": {
+      "message": "\u786E\u5B9A"
+   }
+}

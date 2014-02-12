@@ -1,0 +1,18 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://games4future.com/?p=350"
+      },
+      "urls": [ "http://games4future.com/?p=350" ]
+   },
+   "default_locale": "en",
+   "description": "__MSG_application_description__",
+   "icons": {
+      "128": "128.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCTDPm2nH5EeqaFLEvqhfTGA8mcR1oFcuPG9xowj0/s8PBMbkDpJOkJWGNCIoqbb0UsWHjM24LYTnm/+nnrGhXHce8a66AMXA2BPYZBsyncFxSO4hYUR8t7QZDuBY77hjlfu2D9MjEk7sEs1de0gP3Eg0nhCU2opbxeDPpB1U+TGQIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_application_title__",
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "2.1.2"
+}

@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>Read Later Fast</title>
+        <link rel="stylesheet" href="css/reset.css" />
+        <link rel="stylesheet" href="css/text.css" />
+        <link rel="stylesheet" href="css/jquery.fancybox-1.3.1.css" />
+        <link rel="stylesheet" href="css/read.css" />
+        <link rel="stylesheet" href="css/reader.css" />
+        <link rel="stylesheet" href="css/application.css" />
+        <script src="js/jquery-1.7.1.min.js"></script>
+        <script src="js/jquery-ui-1.8.9.custom.min.js"></script>
+        <script src="js/jquery.fancybox-1.3.1.pack.js" type="text/javascript"></script>
+		
+		<script src="js/settext.js"></script>
+        <script src="js/splitter.js"></script>
+        <script src="js/mainDB.js" type="text/javascript"></script>
+        <script src="js/app_controller.js"></script>
+    </head>
+    <body id="column">
+				<!-- recommend to put analytic here -->
+        <div id="leftColumn">
+            <nav>
+		<section id="navOptions">
+		    <ul>
+			<!-- <li><span>Add</span></li> -->
+			<li><span>Settings</span><span class="setupsync">Save Online<span></li>
+			<li><span>Sync</span></li>
+		    </ul>
+		</section> 
+		
+		
+                <section id="systemLists">
+                    <ul>
+                        <li class="current list" id="inbox"><span href="#"><b></b><cite>Unread</cite><span class="unreadItemNum"></span></span></li>
+                        <li class="list" id="archive"><span href="#"><b></b><cite>Archive</cite><span class="unreadItemNum"></span></span></li>
+                    </ul>
+                </section>
+		
+		<!--<div class="extension">
+		    <span></span><p><img src="../img/extension.png" />Install Read Later fast extension, so you can save any webpage to read later with one click. </p>
+		</div>-->
+	
+                <!-- <section id="customLists">
+	      <div class="sectionTitle">lists</div>
+	      <ul>
+	        <li class="list"><span href="#">Tech</span></li>
+	        <li class="list"><span href="#">Fun</span></li>
+	        <li class="list"><span href="#">Design</span></li>
+	      </ul>
+	      </section>-->
+	    
+	      
+
+            </nav>
+        </div><!--leftColumn-->
+        <div id="rightColumn">
+            <div id="main">
+                <!--<header>
+                    <table>
+                        <tr>
+                            <td id="headerLeft"></td>
+                            <td id="headerMiddle">1 unread of 99</td>
+                            <td id="headerRight"><!-- <input id="searchBox" type="search" /> </td>
+                        </tr>
+                    </table>
+                </header> -->
+		
+		<div id="top"></div>
+		<div id="items_f">
+		    <section id="items">
+			<ul>
+			    <!-- 		   			<li class="item">35 Inspiring Design and Development Related Event Websites | Inspiration</li>
+					    <li class="item">The Complete Android Guide - Complete Guides</li>
+					    <li class="item">Are Twitter Followers Better Than Facebook Fans? - eMarketer</li>
+					    <li class="item">35 Amazing Photoshop Text Effect Tutorials | Vandelay Design Blog</li>
+					    <li class="item">Ten Health Concerns Resulting from Internet Usage</li>
+					    <li class="item">Google Web App Store<span class="note">- code.google.com/chrome/webstore, code.google.com/chrome/apps...</span></li>
+			    -->
+			</ul>
+			<div class="moreLink"><a href="" class="normalLink" target="_blank">See all items in your Diigo library &raquo;</a></div>
+		    </section>
+		</div>
+                <!-- <footer>
+		    	<table>
+		    	    <tr>
+		    	    	<td id="footerLeft">
+		    	    		<span class="actionButton" id="btnNewTask">
+		    	    			<span class="icon"></span>Archive
+		    	    		</span>
+		    	    		<span class="actionButton" id="btnEditTask">
+		    	    			<span class="icon"></span>Delete
+		    	    		</span>
+		    	    	</td>
+		    	    	<td id="footerMiddle"></td>
+		    	    	<td id="footerRight"></td>
+		    	    </tr>
+		    	</table>
+		    </footer> -->
+            </div><!--Main-->
+        </div><!--rightColumn-->
+        
+	<div id="options">
+	    <ul>
+		<li><a href="#option_2"><div></div><div>Sync online</div></a></li>
+		<li><a href="#option_1"><div></div><div>Preferences</div></a></li>
+	    </ul>
+	    <div id="option_1">
+		<table>
+		    <tr>
+				<td><input type="checkbox" name="shortcuts" id="shortcuts"/></td>
+				<td width="300"><label for="shortcuts">Keyboard Shortcut for read-later</label></td>
+				<td class='shortcuts'>Ctrl+Shift+</td>
+		    </tr>
+		    <tr>
+				<td><input type="checkbox" name="saveclosetab" id="saveclosetab"/></td>
+				<td  colspan="2"><label for="saveclosetab">Close the tab after the page is marked for read-later</label></td>
+		    </tr>
+		    <tr>
+				<td><input type="checkbox" name="superfish" id="superfish"/></td>
+				<td  colspan="2"><label for="superfish">Enable similar product search powered by Superfish <a href="product.html" target="_blank">Learn more &raquo;</a></label></td>
+		    </tr>
+		</table>
+		
+		
+	    </div>
+	    <div id="option_2">
+		<div class="unauth">
+		    <ul>
+			<li><span></span>Diigo.com</li>
+		    </ul>
+		    <div id="sync_1">
+			<table>
+			    <tr>
+				<td><p>New to Diigo? Connect to Diigo.com via</p>
+				    <p><span class="optionbutton googleaccount"><span></span><a href="" target="_blank">Google account</a></span></p>
+				</td>
+				<td>
+				    <p>Already have a Diigo account?</p>
+				    <input type="text" name="diigo_user" placeholder="Username or Email"/>
+				    <!-- <p>password</p> -->
+				    <input type="password" name="diigo_pwd" placeholder="password" class="password"/>
+				    <p><span class="bluebutton">Sign In</span>　<span class="error">Invalid username or password</span></p>
+				</td>
+			    </tr>
+			</table>
+		    </div>
+		</div>
+		
+		<div class="auth"></div>
+		
+		<div class="aboutdiigo">
+		    <h2>Save Online:</h2>
+		    <p>Read Later Fast currently uses Diigo.com to provide cloud-based storage so your webpages can be accessed from any computer or phone.</p>
+		    <h2>About Diigo:</h2>
+		    <p>Diigo is a free,  all-purpose collecting tool that enables you to</p>
+		    <ul>
+		    	<li>bookmark, archive and annotate webpages, </li>
+		    	<li>save notes, images and screenshots, </li>
+		    	<li>search, organize, and share your data in a variety of ways,</li>
+		    	<li>access anywhere using Diigo apps on Android, iPhone and iPad </li>
+			<li><a href="http://www.diigo.com" target="_blank">Learn more &raquo;</a></li>
+		    </ul>
+		    
+		
+		</div>
+	    </div>
+	    
+	    
+	    <div class="option_bottom">
+		<span class="optionbutton" href="#">Close</span><div class="clear"></div>
+	    </div>    
+	</div>
+	
+	<div id="cover"></div>
+	<div id="cover_2"></div>
+	<div id="StopSyncdialog">Stop syncing with Diigo?</div>
+	<div id="autherrordialog">Authorized Failure</div>
+	<div id="neterrordialog">Network Error</div>
+				<script type="text/javascript" src="js/cga.js"></script>
+	
+    </body>
+</html>​

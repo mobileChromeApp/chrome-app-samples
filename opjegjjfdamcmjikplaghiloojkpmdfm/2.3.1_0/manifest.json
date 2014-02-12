@@ -1,0 +1,20 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://mikigames.com/downhill-jam/"
+      },
+      "urls": [ "http://mikigames.com/downhill-jam/" ]
+   },
+   "default_locale": "en",
+   "description": "__MSG_extDesc__",
+   "icons": {
+      "128": "128.png",
+      "16": "16.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC3HD8h8c6tKBH+eElrgEKxG6vpGnuvcYWTZ5kCY/m7+ahZ7mgn5tPZ2tz5RTdDGo1mxb1SczBKThjcQAxq75KWYYXTBB2cZrLAWxOWfpmDTOq8FYxGV0vZWttqesHmW0lTvyTNtXqBFOVwUvRxeOUH8Y0DX6hJ1LsllHQ7gG2WZQIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_extName__",
+   "permissions": [ "unlimitedStorage", "notifications" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.3.1"
+}

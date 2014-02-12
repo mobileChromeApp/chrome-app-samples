@@ -1,0 +1,20 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://pigomi.net/game/461/Despicable-Me-2---MI"
+      },
+      "urls": [ "http://pigomi.net/game/461/Despicable-Me-2---MI" ]
+   },
+   "default_locale": "en",
+   "description": "__MSG_extDesc__",
+   "icons": {
+      "128": "128.png",
+      "16": "16.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvJJYRfzTBEbtaCKokUoT9rcRsDhw/dm9GpNakzWHmOWSeebxDZ03RSR2i/dSGpQ2aTPkkkW4S6fTSGkuac7Qm4j/fqBoOf/RDDLfowmv+jZ4o/3bZ8PpnViyDAESWXTjoQlt4tcx+7Ylx7m7zE/1RbiDEPvHNNL3nCRZyVgS+05trw0kYgfHZAMoyix6482iD1O8Y7wvGYJcCFkm3RhhvdLGgdwmkGzZmhJSBFNU1wZFYnfLfkvaEkWYZ1/xtW+ltCY8niDm4Av3AyiSg82d91xnOKVR6MOepP9qnYe98eI/EMClVyGS4qTrKyl3kVCsgNS+zAe1yheIpKcM4Py0LwIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_extName__",
+   "permissions": [ "unlimitedStorage", "notifications" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.3.1"
+}

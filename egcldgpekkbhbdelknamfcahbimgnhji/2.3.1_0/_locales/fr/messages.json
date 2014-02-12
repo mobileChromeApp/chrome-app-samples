@@ -1,0 +1,10 @@
+{
+   "extDesc": {
+      "description": "Extension description",
+      "message": "Dans ce jeu vous jouerez un des bons serviteurs du film Despicable Me 2."
+   },
+   "extName": {
+      "description": "Extension name",
+      "message": "Despicable Me 2 - Mission Impopsible"
+   }
+}

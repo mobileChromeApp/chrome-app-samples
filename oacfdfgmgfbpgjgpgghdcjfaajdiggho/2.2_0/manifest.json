@@ -1,0 +1,21 @@
+{
+   "app": {
+      "launch": {
+         "container": "tab",
+         "web_url": "http://instagram.ec-links.net/"
+      },
+      "web_content": {
+         "enabled": true,
+         "origin": "http://www.ec-links.net"
+      }
+   },
+   "description": "Nothing Fancy About This App, It's Just A Shortcut.",
+   "icons": {
+      "128": "128.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAkKqQmoqhF8hI/qJN8QTtOR0puXsRklXMBSRM3Jln8UnqFnDiMIrZB/KoRDvB0mMh0tbwhroeHf/J9xhs0aNA1JfFgW1CEwsYtN5dWWBqPsbypiRvSyajSSJF500BV8D0/rbvnW7kX9ourq+qYCfWMyS4ogBbXLhqeEO2o0ox10ccQ907PF8AIT/nXKeEwuIhdZVsCVumC0EOPLRMKXGH+0aPDUvRGwF/5OXkqy4B6XDtvsVfG8rnmQ6rcK9Hk5GKM8x1XmsS4VRCJdrwDzAIIQVoir8onA8j/Ni3+YXlEiZc2mzqbrbvhM6G1B/KBm6qH/6oSkvO7ptRdmFqgB4aVwIDAQAB",
+   "manifest_version": 2,
+   "name": "Instagram",
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "2.2"
+}

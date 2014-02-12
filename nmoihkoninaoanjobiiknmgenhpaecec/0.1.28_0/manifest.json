@@ -1,0 +1,25 @@
+{
+   "app": {
+      "launch": {
+         "local_path": "html/app.html"
+      }
+   },
+   "background": {
+      "persistent": false,
+      "scripts": [ "/scripts/modules/async-0.2.8.js", "/scripts/modules/jquery-2.0.0.min.js", "/scripts/modules/bootstrap-2.3.2.min.js", "/scripts/modules/jquery.animate-colors.js", "/scripts/modules/jquery.indexeddb.js", "/scripts/modules/moment.lang.all-1.7.2.min.js", "/scripts/modules/moment-1.7.2.js", "/scripts/modules/prefixfree-1.0.7.min.js", "/scripts/init.js", "/scripts/app/data.js", "/scripts/app/events.js", "/scripts/app/sync.js", "/scripts/app/page.js", "/scripts/app/client.js", "/scripts/chrome/background.js" ]
+   },
+   "content_security_policy": "script-src 'self' https://checkout.google.com https://www.google.com https://ssl.google-analytics.com; object-src 'self'",
+   "description": "A simple and easy place for your thoughts and notes",
+   "icons": {
+      "128": "img/icon128x128.png",
+      "16": "img/icon16x16.png",
+      "48": "img/icon48x48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDN7ZsZYP7zALVNiVcgpHfkwciIgwiwxULL+X1csAUybYElS9qkO6RY7XQUUruBhLfEsFEYTkZU1JN7Fw8+iHWiQpzwVtX0ZeFIdtWN685R74l8udOdOLfdZSH0WFRMDJD11Imf3I59UBSA6FKF/FjNoljfJO+1jAM9JXbE3q1LUQIDAQAB",
+   "manifest_version": 2,
+   "name": "Memo Notepad",
+   "offline_enabled": true,
+   "permissions": [ "unlimitedStorage", "storage", "contextMenus", "https://notesweb.herokuapp.com/*" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.1.28"
+}

@@ -1,0 +1,13 @@
+{
+   "appDesc": {
+      "description": "Telewizja i Radio online.",
+      "message": "Telewizja i Radio online."
+   },
+   "appName": {
+      "description": "Telewizja online",
+      "message": "Telewizja online"
+   },
+   "appUrl": {
+      "message": "pl.online-television.net"
+   }
+}

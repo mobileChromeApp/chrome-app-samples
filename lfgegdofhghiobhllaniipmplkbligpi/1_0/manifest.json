@@ -1,0 +1,20 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://www.gamefilo.com/sports/traffic-talent"
+      },
+      "urls": [ "http://www.gamefilo.com/sports/traffic-talent" ]
+   },
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "icons": {
+      "128": "128.png",
+      "24": "24.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCXhEMTnyQ/NtcGfiOI4RH8z6lmyoIHnGY4am0gSDeE/4m4mnxli6bktCFztW9+bvDWIdzPliuS3TlfH10tk4tvqmdz1X+PTHpCzTCkGdVrjo9msFunGs4XHiDO7RVE3ue9ypH2K3MRD+5kVfc+OWoIh9+yGYbvGYzrY9JFdalYqwIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_appName__",
+   "permissions": [ "unlimitedStorage", "notifications" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1"
+}

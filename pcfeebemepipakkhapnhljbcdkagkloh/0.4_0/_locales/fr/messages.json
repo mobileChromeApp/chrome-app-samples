@@ -1,0 +1,13 @@
+{
+   "appDesc": {
+      "description": "T\u00E9l\u00E9vision et radio en ligne.",
+      "message": "T\u00E9l\u00E9vision et radio en ligne."
+   },
+   "appName": {
+      "description": "Tv en Direct",
+      "message": "Tv en Direct"
+   },
+   "appUrl": {
+      "message": "fr.online-television.net"
+   }
+}
