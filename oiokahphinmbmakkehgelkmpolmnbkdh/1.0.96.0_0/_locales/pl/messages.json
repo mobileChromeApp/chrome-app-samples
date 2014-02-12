@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Darmowa, wieloosobowa strzelanka online."
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store.",
+      "message": "Battlefield Play4Free"
+   }
+}

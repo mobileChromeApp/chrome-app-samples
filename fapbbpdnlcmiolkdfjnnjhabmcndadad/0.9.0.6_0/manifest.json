@@ -1,0 +1,29 @@
+{
+   "app": {
+      "launch": {
+         "container": "panel",
+         "height": 562,
+         "local_path": "chrome/popup.html",
+         "width": 496
+      }
+   },
+   "background": {
+      "page": "chrome/background_page.html"
+   },
+   "content_security_policy": "script-src 'self' 'unsafe-eval' https://*.extensionfactory.com https://*.slicefactory.com https://bestprice.extensionfactory.com https://builder.extensionfactory.com https://extensionfactory.com https://gallery.extensionfactory.com https://services.extensionfactory.com https://slicefactory.com https://ssl.google-analytics.com https://stats.extensionfactory.com https://www.google.com/jsapi; object-src 'self';",
+   "default_locale": "en",
+   "description": "__MSG_weather_app_description__",
+   "icons": {
+      "128": "icons/icon-128.png",
+      "16": "icons/icon-16.png",
+      "19": "icons/icon-19.png",
+      "48": "icons/icon-48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDzFEjhibV6vzwQyRx+GJ8+inwWfr0ZkujW2InGv2jXHsqt/1/g9lSH1Z+y6QdFitc054oP/O2+HlzWZbi8L/smApY4dkznZTbU/K2r359LHdQZcVgEY5BpHmisWqfg+sWY9D1ifLM2sbCB5FoANqm9fMQOXQEXlN0+fxzo+oUgZwIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_weather_app_name__",
+   "options_page": "chrome/options.html",
+   "permissions": [ "bookmarks", "notifications", "tabs", "http://*/*", "https://*/*", "geolocation", "cookies", "background", "idle", "webRequest", "webNavigation" ],
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "0.9.0.6"
+}

@@ -1,0 +1,73 @@
+
+
+.forecast{
+	margin-bottom:5px;
+}
+.forecast-image{
+	width:40px;
+	height:40px;
+	margin-right:10px;	
+}
+.forecast-description{
+	width:200px;
+}
+.forecast-conditions{
+	font-size:90%;
+	color: #666666;
+}
+.forecast-day{
+	font-weight:bolder;	
+}
+.forecast-temperatures{
+	text-align:right;
+}
+.forecast-temperatures .temperature{
+	font-weight:bolder;	
+}
+
+.forecast-temperatures>*{
+	white-space:nowrap;
+}
+
+.temperature:after{
+	content:'°';
+}
+
+.unit {
+	font-size:80%;
+}
+
+#current-wind{
+	background:url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABwElEQVQ4T2PU09NT1NbW9r9+/foGrt+/BZLu329XYmC4/4CJr/5ElN+HWbNm/WbAAxidnV3zf/78voibkZEj68zJWAF+oU7eEC8GzY9PGBinrPz8n5l17Sc359PPX797dCU391BMXt4nZPOABjhX7d27t02On1/poo7wZtakYq1bS1cyiH56yfBv7S4GHk5OBt7OXAYGMWWGf8Utf35v3bD1W1HuugtZRfvdi4sfww0AmipyV1f+ygvPQPEzPZMY1DMyGTijYxhYbt5gkKgsZmAJ8Gf4W9vCIHJwAwPnxSMMf6umMjBz8+5ENoChhoFB+S8DUyS3pLiR/co18uzcXCqPujv5vqxezSA4cTIDm6Ymg3RNBYPg+9cMr1dtZuDhYl+AYgC2sIri4JDXMzOzFopPdvj/8YPN+9IiTVEnZwblhsaPd29c02J08/Bo3rVjRx1Q8398oQ2TM2Zg4DIJjtCSNNF/01BZ+YDRxMRk9ffv36OvXr36ixgD0NUwAtPBxr9//4aOGkDdMOAAhjQoA/0lJlaAsWCw8dKlC2FAxbxAzAzEb4H4DzGaQWoY1dXV5968eXMKkH0XiFFyGjGGAACvOtHchkPr5wAAAABJRU5ErkJggg==') left center  no-repeat;
+	background-size:12px;
+	padding-left:14px;	
+}
+
+#current-humidity {
+		background:url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAARCAYAAAA7bUf6AAACXElEQVQ4T42TzWsTURTFz5tJJpOkSZNJbGM/plHTUCsqgQZ0Iwhd6EY3FummLroUii5UBMGPVZe6dufCv0LcGESK0qpV0E1R1CrVlphkYtKZjOdNamO0iT6YxbyZ97vnnHufcLnQYS1s2NjfoyDiVzr94u2LbpD7nzZRrDhY3XRxazzYEfRfkD1hBXFNQPMJ5GK+v2BdIfc+1rFRbiBNiBkSMMMq3lcayBntoK6Qh19tLPGRgMGggmxEQdkGRnrUNjUeZKJQwnxWx2Sfv+1j1XFx580PSDsDhAyHmra4DSPQCtuD3HxdxQA/LlL6hX0BVmxVOr1QwdQuHwYJSOkCqgCy0R3s3FiuYiQokGK1Gqus1V3MpjUoQuCd1cDdlRqOGSpKtosxFjjwR7iekuuEmIQYmpQtkKSqwjcHZ4Y1hNkRudZrjTYLv/v2IFdfWEhTrjwsvfYFBIb4Xlizcbzfj9AWqNOgeJDLEkIrEhInIO4XXltDqoIHX+o4NRT498ROP63gCL1KBQZBMT69BGUiPqxWHcipTwWbYV96aWHG1HCwtxWup+TQoxJm2d4EDyekEgmhhQzBRY78CruWTzYP3WbLczGF4cPLbPvu5B+XcZbp9zNYYwsSpRKTudQaLj5Y7vaUznMcxqMqlaj4zLCPJv2tC3h+ycIEJ1IGK5XECJGWlos2TuzWoCrNLl15VUWeE5vhv2NRBbpPaUHmWMHkJO1ldZmLtPxk3cEkuzPKyr/WuUULJ+NNiGxEmrm13Z3n3x1ce1tDgkEeZpWLGX3Hrkw9s5APC8yN6tBZ+CeCY+HO9SxsWwAAAABJRU5ErkJggg==') left center  no-repeat;
+	background-size:12px;
+	padding-left:14px;	
+}
+#current-humidity:after{
+	content:"%"
+}
+
+#current-wind,#current-humidity{
+	display:inline-block;
+	margin-right:12px;
+}
+
+#current-temperature {
+	color:#6271A0;
+	font-size:200%;
+	text-align:right;
+}
+#current-temperature .temperature {
+		font-weight:bolder;	
+
+}
+#current-condition,#current-wind,#current-humidity{
+	font-size:80%;
+	color: #666;
+
+}

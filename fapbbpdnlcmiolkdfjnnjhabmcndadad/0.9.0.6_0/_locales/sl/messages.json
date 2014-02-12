@@ -1,0 +1,138 @@
+{
+   "extension": {
+      "description": "extension (browser extension, add-on)",
+      "message": "raz\u0161iritev"
+   },
+   "gallery_extensionfactory_promo": {
+      "description": "Check out our other great extensions and web apps at http://www.extensionfactory.com",
+      "message": "Oglejte si na\u0161e odli\u010Dne raz\u0161iritve in spletne aplikacije na http://www.extensionfactory.com."
+   },
+   "gallery_features": {
+      "description": "Features (ex: list of features)",
+      "message": "Zna\u010Dilnosti"
+   },
+   "gallery_features_preferences": {
+      "description": "- Notifications and options preferences",
+      "message": "- Prednostne nastavitve obvestil in mo\u017Enosti"
+   },
+   "gallery_features_search_for_places": {
+      "description": "- Search by city or zip code",
+      "message": "- Iskanje po mestu ali po\u0161tni \u0161tevilki"
+   },
+   "gallery_help_us": {
+      "description": "Help us to make this application better!",
+      "message": "Pomagajte nam izbolj\u0161ati aplikacijo!"
+   },
+   "gallery_help_us_comments": {
+      "description": "- we're happy to read and reply to your comments as well.",
+      "message": "- Z veseljem bomo tudi prebrali in odgovorili na va\u0161e komentarje."
+   },
+   "gallery_help_us_stars": {
+      "description": "- if you like this product, please give it stars :)",
+      "message": "- \u010Ce vam je izdelek v\u0161e\u010D, ga ozna\u010Dite z zvezdicami :)"
+   },
+   "gallery_privacy": {
+      "description": "Privacy matters!",
+      "message": "Zasebnost je pomembna!"
+   },
+   "gallery_privacy_browsing_history": {
+      "description": "- we do NOT store your browsing history! Although access to the chrome.tabs API is required, the application will never look or save your history. Please read http://code.google.com/chrome/extensions/permission_warnings.html#warnings for more information.",
+      "message": "- Ne shranjujemo va\u0161e zgodovine brskanja! \u010Ceprav potrebujete dostop do chrome.tabs API, aplikacija ne bo nikoli pregledovala ali shranjevala va\u0161e zgodovine. Za ve\u010D informacij preberite http://code.google.com/chrome/extensions/permission_warnings.html#warnings."
+   },
+   "gallery_privacy_personal_data": {
+      "description": "- we do NOT send any data to any third party servers.",
+      "message": "- NOBENIH podatkov ne po\u0161iljamo stre\u017Enikom tretjih strani."
+   },
+   "gallery_weather_app_features_geolocation": {
+      "description": "- Instant geolocation and localization: get forecasts in your language",
+      "message": "Takoj\u0161nja geolokacija in lokalizacija: napovedi v va\u0161em jeziku"
+   },
+   "gallery_weather_app_features_manage_favorites": {
+      "description": "- Quick access to your favorite places",
+      "message": "Hiter dostop do najljub\u0161ih mest"
+   },
+   "gallery_weather_app_features_notifications": {
+      "description": "- Real time notifications on weather changes",
+      "message": "Obvestila o vremenskih spremembah v realnem \u010Dasu"
+   },
+   "hours": {
+      "description": "hours",
+      "message": "ur"
+   },
+   "my_favorite_places": {
+      "description": "my favorite places",
+      "message": "Moja priljubljena mesta"
+   },
+   "no_results_found": {
+      "description": "No results found",
+      "message": "Zadetkov ni bilo mogo\u010De najti."
+   },
+   "notifications": {
+      "description": "notifications (desktop notifications, alerts)",
+      "message": "obvestila"
+   },
+   "options": {
+      "description": "options",
+      "message": "Mo\u017Enosti"
+   },
+   "remove_from_favorite_places": {
+      "description": "remove from my favorite places",
+      "message": "Odstrani iz mojih priljubljenih mest"
+   },
+   "runs_as_extension": {
+      "description": "(extension version).",
+      "message": "(razli\u010Dica raz\u0161iritve)."
+   },
+   "search": {
+      "description": "search",
+      "message": "iskanje"
+   },
+   "search_city_input_placeholder": {
+      "description": "Enter a city or zip code (default text in the search box)",
+      "message": "Vpi\u0161ite mesto ali po\u0161tno \u0161tevilko."
+   },
+   "temperature_unit": {
+      "description": "temperature unit (celcius, farenheit)",
+      "message": "Temperaturna enota"
+   },
+   "update": {
+      "description": "update (news update, weather update,...)",
+      "message": "Posodobitev"
+   },
+   "weather_app_description": {
+      "description": "This application geolocates you and displays in one click your favorite location weather forecasts.",
+      "message": "Ta aplikacija vas geolocira in v enem kliku prika\u017Ee vremensko napoved va\u0161e priljubljene lokacije."
+   },
+   "weather_app_name": {
+      "description": "Weather",
+      "message": "Vreme"
+   },
+   "weather_extension_name": {
+      "description": "__MSG_weather_app_name__ (__MSG_extension__)",
+      "message": "Vreme (raz\u0161iritev)"
+   },
+   "weather_forecast_updated_label": {
+      "description": "Weather forecast has been updated !",
+      "message": "Vremenska napoved je bila posodobljena!"
+   },
+   "weather_gallery_description": {
+      "description": "",
+      "message": "Raz\u0161iritev Vreme bo samodejno dolo\u010Dila va\u0161 geografski polo\u017Eaj in prikazala vremensko napoved za najbli\u017Eje mesto. Ikona brskalnika ozna\u010Duje vsakodnevno napoved in temperature."
+   },
+   "weather_notifications_forecast_label": {
+      "description": "display notification on weather forecast change (checkbox)",
+      "message": "Prika\u017Ei obvestila o spremembah vremenske napovedi"
+   },
+   "weather_notifications_present_label": {
+      "description": "display notification on daily weather updates (checkbox)",
+      "message": "Prika\u017Ei obvestila o dnevnih vremenskih posodobitvah"
+   },
+   "weather_present_updated_label": {
+      "description": "Weather of the day has been updated !",
+      "message": "Vreme tega dne je bilo posodobljeno!"
+   },
+   "weather_update_label": {
+      "description": "weather update interval",
+      "message": "Interval posodabljanja vremena"
+   }
+}

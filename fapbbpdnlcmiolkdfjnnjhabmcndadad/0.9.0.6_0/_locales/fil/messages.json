@@ -1,0 +1,138 @@
+{
+   "extension": {
+      "description": "extension (browser extension, add-on)",
+      "message": "extension"
+   },
+   "gallery_extensionfactory_promo": {
+      "description": "Check out our other great extensions and web apps at http://www.extensionfactory.com",
+      "message": "Tingnan ang aming iba pang mahuhusay na mga extension at web apps sa http://www.extensionfactory.com"
+   },
+   "gallery_features": {
+      "description": "Features (ex: list of features)",
+      "message": "Mga Tampok"
+   },
+   "gallery_features_preferences": {
+      "description": "- Notifications and options preferences",
+      "message": "- Mga pagpipilian sa mga paalala at mga opsyon"
+   },
+   "gallery_features_search_for_places": {
+      "description": "- Search by city or zip code",
+      "message": "- Hanapin ang lungsod o zip code"
+   },
+   "gallery_help_us": {
+      "description": "Help us to make this application better!",
+      "message": "Tulungan kaming gawing mas paghusayin ang application na ito!"
+   },
+   "gallery_help_us_comments": {
+      "description": "- we're happy to read and reply to your comments as well.",
+      "message": "- kami'y masaya na basahin at pati na rin sagutin ang iyong mga komentaryo."
+   },
+   "gallery_help_us_stars": {
+      "description": "- if you like this product, please give it stars :)",
+      "message": "- Kung gusto mo ang produktong ito, paki-lagyan ng mga star :)"
+   },
+   "gallery_privacy": {
+      "description": "Privacy matters!",
+      "message": "Mahalaga ang privacy!"
+   },
+   "gallery_privacy_browsing_history": {
+      "description": "- we do NOT store your browsing history! Although access to the chrome.tabs API is required, the application will never look or save your history. Please read http://code.google.com/chrome/extensions/permission_warnings.html#warnings for more information.",
+      "message": "- HINDI namin iniimbak ang kasaysayan ng iyong pagba-browse! Bagaman ang pag-access sa chrome.tabs na API ay kinakailangan, ang application ay kailanman hindi titingnan o isi-save ang iyong kasaysayan. Mangyaring basahin ang http://code.google.com/chrome/extensions/permission_warnings.html#warnings para sa karagdagang impormasyon."
+   },
+   "gallery_privacy_personal_data": {
+      "description": "- we do NOT send any data to any third party servers.",
+      "message": "- HINDI kami nagpapadala ng anumang data sa alinmang mga server ng pangatlong-partido."
+   },
+   "gallery_weather_app_features_geolocation": {
+      "description": "- Instant geolocation and localization: get forecasts in your language",
+      "message": "- Instant na geolocation at localization: kunin ang mga forecast sa iyong wika"
+   },
+   "gallery_weather_app_features_manage_favorites": {
+      "description": "- Quick access to your favorite places",
+      "message": "- Mabilis na access sa iyong mga paboritong lugar"
+   },
+   "gallery_weather_app_features_notifications": {
+      "description": "- Real time notifications on weather changes",
+      "message": "- Real-time na mga paaalala sa mga pagbabago sa panahon"
+   },
+   "hours": {
+      "description": "hours",
+      "message": "(mga) oras"
+   },
+   "my_favorite_places": {
+      "description": "my favorite places",
+      "message": "mga paborito kong lugar"
+   },
+   "no_results_found": {
+      "description": "No results found",
+      "message": "Walang mga resultang nakita"
+   },
+   "notifications": {
+      "description": "notifications (desktop notifications, alerts)",
+      "message": "mga paalala"
+   },
+   "options": {
+      "description": "options",
+      "message": "mga opsyon"
+   },
+   "remove_from_favorite_places": {
+      "description": "remove from my favorite places",
+      "message": "alisin mula sa aking mga paboritong lugar"
+   },
+   "runs_as_extension": {
+      "description": "(extension version).",
+      "message": "(bersyon ng extension)."
+   },
+   "search": {
+      "description": "search",
+      "message": "i-search"
+   },
+   "search_city_input_placeholder": {
+      "description": "Enter a city or zip code (default text in the search box)",
+      "message": "Magpasok ng lungsod o zip code"
+   },
+   "temperature_unit": {
+      "description": "temperature unit (celcius, farenheit)",
+      "message": "unit ng temperatura"
+   },
+   "update": {
+      "description": "update (news update, weather update,...)",
+      "message": "i-update"
+   },
+   "weather_app_description": {
+      "description": "This application geolocates you and displays in one click your favorite location weather forecasts.",
+      "message": "Ang application na ito ay hahanapin ka at nagdi-display sa isang click lamang sa iyong mga paboritong forecast ng panahon."
+   },
+   "weather_app_name": {
+      "description": "Weather",
+      "message": "Panahon"
+   },
+   "weather_extension_name": {
+      "description": "__MSG_weather_app_name__ (__MSG_extension__)",
+      "message": "Panahon (extension)"
+   },
+   "weather_forecast_updated_label": {
+      "description": "Weather forecast has been updated !",
+      "message": "Ang forecast ng panahon ay nai-update na !"
+   },
+   "weather_gallery_description": {
+      "description": "",
+      "message": "Ang Weather extension ay awtomatikong maghahanap sa iyong lokasyon at magpapakita ng weather forecast ng pinakamalapit na lungsod. Isang browser icon ang magpapakita ng araw-araw na forecast at temperatura."
+   },
+   "weather_notifications_forecast_label": {
+      "description": "display notification on weather forecast change (checkbox)",
+      "message": "ipakita ang paalala sa pagbabago sa forecast ng panahon"
+   },
+   "weather_notifications_present_label": {
+      "description": "display notification on daily weather updates (checkbox)",
+      "message": "ipakita ang paalala sa mga update sa pang-araw araw na panahon"
+   },
+   "weather_present_updated_label": {
+      "description": "Weather of the day has been updated !",
+      "message": "Ang panahon ngayong araw ay nai-update na !"
+   },
+   "weather_update_label": {
+      "description": "weather update interval",
+      "message": "pagitan sa update ng panahon"
+   }
+}

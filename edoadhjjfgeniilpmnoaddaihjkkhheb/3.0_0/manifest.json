@@ -1,0 +1,17 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://fbql.blogspot.com/"
+      },
+      "urls": [ "http://fbql.blogspot.com/" ]
+   },
+   "description": "Facebook links to news feed, messages, calendar, events, photos, search, pages and videos. One click Facebook links.",
+   "icons": {
+      "128": "icon128.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCpPpICy/68zX9gxTuNtGRBLxRZFml8LkaTH7rDu/OHHvk0aa2PPKboWJwlefXKrdRAWODTmzJYGqjMEQlGKJvTkpo8k8SoUNcm0e/Rv4f9vhhrPtiCgjVtg6PT0d713Yeep5kEG3VSkkXs1NanTzVRJwfV5VF94ea+lGsUE6eOFQIDAQAB",
+   "manifest_version": 2,
+   "name": "Facebook Quick Links",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "3.0"
+}

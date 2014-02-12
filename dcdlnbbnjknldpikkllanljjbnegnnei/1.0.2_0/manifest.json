@@ -1,0 +1,18 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://absolutist.com/online/bubbleshooter/chrome-bubbleshooter.html"
+      },
+      "urls": [ "http://absolutist.com/online/bubbleshooter/" ]
+   },
+   "description": "Shoot the bubbles to match the same-colored ones - and enjoy the explosive fun!",
+   "icons": {
+      "128": "bubbleshooter-128x128.png",
+      "16": "bubbleshooter-16x16.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCvIuJmtVat4hiHNLD68yPno++KBVURekEkhcW4ZAnjWxYvfiE5LOayxQlE7H5gVS1JMdfjoGRRWFbKEjwAbF44J/4oEsNXegoOT1ZoYShFCrCAl3CDtyoyVI+z6DiL9fLxSidWaHrRMvhDg++zgRSJ7XSC7/i7i678am956Pfa0wIDAQAB",
+   "name": "Bubble Shooter",
+   "permissions": [ "unlimitedStorage", "notifications" ],
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "1.0.2"
+}

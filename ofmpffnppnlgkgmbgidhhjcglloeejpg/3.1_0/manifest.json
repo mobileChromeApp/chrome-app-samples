@@ -1,0 +1,20 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://www.turncameraon.com/?utm_source=cws&utm_medium=camera&utm_campaign=cwsnew"
+      },
+      "urls": [ "http://www.turncameraon.com/?utm_source=cws&utm_medium=camera&utm_campaign=cwsnew" ]
+   },
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "icons": {
+      "128": "camera_128.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCJw9hUUEzfdvmVO1KTlTtfBT+BbtcoTjvku8FDVOYetVcRLfrMkSvNcLuplIUni1YaDjdE+vkiIXye8OC8fDvaLH1L9f/x72Hn3nfP5+wM/RHRRkB91HChKUh8qoXRGUsMSDdqUr1n3wbtgmgushbgtZTi/E7QmJQc4le7DlKdFwIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_appName__",
+   "offline_enabled": true,
+   "permissions": [ "unlimitedStorage", "notifications" ],
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "3.1"
+}

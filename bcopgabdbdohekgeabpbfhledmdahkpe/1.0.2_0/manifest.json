@@ -1,0 +1,22 @@
+{
+   "app": {
+      "launch": {
+         "local_path": "index.html"
+      }
+   },
+   "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'",
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "icons": {
+      "128": "img/icons/chrome/spider-128.png",
+      "16": "img/icons/chrome/spider-16.png",
+      "48": "img/icons/chrome/spider-48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC0o17gOiszrpHls9SQnvPynHEQD0mh5ZIVtAe4sI9qm0YsDczKPNBwQtWO2jxq3zSdM5XnJjoDPEcq4zZWHqePH71JqVxYjFXFoAKYGwCTw0GxNnmUbVTv8hp0ZH2Xie+ASHzEPWR74cjcLqbKRBBle/60sR84jLtrL+HYk92bPwIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_appName__",
+   "offline_enabled": true,
+   "permissions": [ "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.2"
+}

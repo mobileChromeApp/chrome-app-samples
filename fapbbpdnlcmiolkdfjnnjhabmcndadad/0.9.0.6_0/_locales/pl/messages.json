@@ -1,0 +1,138 @@
+{
+   "extension": {
+      "description": "extension (browser extension, add-on)",
+      "message": "rozszerzenie"
+   },
+   "gallery_extensionfactory_promo": {
+      "description": "Check out our other great extensions and web apps at http://www.extensionfactory.com",
+      "message": "Sprawd\u017A nasze inne wspania\u0142e rozszerzenia i aplikacje internetowe na stronie http://www.extensionfactory.com"
+   },
+   "gallery_features": {
+      "description": "Features (ex: list of features)",
+      "message": "Funkcje"
+   },
+   "gallery_features_preferences": {
+      "description": "- Notifications and options preferences",
+      "message": "- Preferencje powiadomie\u0144 i opcji"
+   },
+   "gallery_features_search_for_places": {
+      "description": "- Search by city or zip code",
+      "message": "- Wyszukaj wed\u0142ug miasta lub kodu pocztowego"
+   },
+   "gallery_help_us": {
+      "description": "Help us to make this application better!",
+      "message": "Pom\u00F3\u017C nam ulepszy\u0107 t\u0119 aplikacj\u0119!"
+   },
+   "gallery_help_us_comments": {
+      "description": "- we're happy to read and reply to your comments as well.",
+      "message": "- cieszymy si\u0119 mog\u0105 przeczyta\u0107, jak r\u00F3wnie\u017C odpowiedzie\u0107 na Twoje komentarze."
+   },
+   "gallery_help_us_stars": {
+      "description": "- if you like this product, please give it stars :)",
+      "message": "- je\u015Bli lubisz ten produkt, nadaj mu gwiazdki :)"
+   },
+   "gallery_privacy": {
+      "description": "Privacy matters!",
+      "message": "Prywatno\u015B\u0107 ma znaczenie!"
+   },
+   "gallery_privacy_browsing_history": {
+      "description": "- we do NOT store your browsing history! Although access to the chrome.tabs API is required, the application will never look or save your history. Please read http://code.google.com/chrome/extensions/permission_warnings.html#warnings for more information.",
+      "message": "- NIE przechowujemy Twojej historii przegl\u0105dania! Mimo \u017Ce wymagamy dost\u0119pu do chrome.tabs API, aplikacja nigdy nie b\u0119dzie przegl\u0105da\u0107 ani zapisywa\u0107 Twojej historii. Przeczytaj http://code.google.com/chrome/extensions/permission_warnings.html#warnings, aby uzyska\u0107 wi\u0119cej informacji."
+   },
+   "gallery_privacy_personal_data": {
+      "description": "- we do NOT send any data to any third party servers.",
+      "message": "- NIE przesy\u0142amy \u017Cadnych danych osobom trzecim."
+   },
+   "gallery_weather_app_features_geolocation": {
+      "description": "- Instant geolocation and localization: get forecasts in your language",
+      "message": "- Natychmiastowe po\u0142o\u017Cenie geograficzne i lokalizacja: pobieraj prognozy w swoim j\u0119zyku"
+   },
+   "gallery_weather_app_features_manage_favorites": {
+      "description": "- Quick access to your favorite places",
+      "message": "- Szybki dost\u0119p do Twoich ulubionych miejsc"
+   },
+   "gallery_weather_app_features_notifications": {
+      "description": "- Real time notifications on weather changes",
+      "message": "- Powiadomienia w czasie rzeczywistym o zmianach pogody"
+   },
+   "hours": {
+      "description": "hours",
+      "message": "godziny"
+   },
+   "my_favorite_places": {
+      "description": "my favorite places",
+      "message": "moje ulubione miejsca"
+   },
+   "no_results_found": {
+      "description": "No results found",
+      "message": "Nie znaleziono \u017Cadnych wynik\u00F3w"
+   },
+   "notifications": {
+      "description": "notifications (desktop notifications, alerts)",
+      "message": "powiadomienia"
+   },
+   "options": {
+      "description": "options",
+      "message": "opcje"
+   },
+   "remove_from_favorite_places": {
+      "description": "remove from my favorite places",
+      "message": "usu\u0144 z moich ulubionych miejsc"
+   },
+   "runs_as_extension": {
+      "description": "(extension version).",
+      "message": "(wersja rozszerzenia)."
+   },
+   "search": {
+      "description": "search",
+      "message": "wyszukaj"
+   },
+   "search_city_input_placeholder": {
+      "description": "Enter a city or zip code (default text in the search box)",
+      "message": "Podaj miasto lub kod pocztowy"
+   },
+   "temperature_unit": {
+      "description": "temperature unit (celcius, farenheit)",
+      "message": "jednostka temperatury"
+   },
+   "update": {
+      "description": "update (news update, weather update,...)",
+      "message": "aktualizacja"
+   },
+   "weather_app_description": {
+      "description": "This application geolocates you and displays in one click your favorite location weather forecasts.",
+      "message": "Niniejsza aplikacja okre\u015Bla Twoje po\u0142o\u017Cenie geograficzne i jednym klikni\u0119ciem wy\u015Bwietla prognozy pogody dla Twoim ulubionych lokalizacji."
+   },
+   "weather_app_name": {
+      "description": "Weather",
+      "message": "Pogoda"
+   },
+   "weather_extension_name": {
+      "description": "__MSG_weather_app_name__ (__MSG_extension__)",
+      "message": "Pogoda (rozszerzenie)"
+   },
+   "weather_forecast_updated_label": {
+      "description": "Weather forecast has been updated !",
+      "message": "Prognoza pogody zosta\u0142a zaktualizowana!"
+   },
+   "weather_gallery_description": {
+      "description": "",
+      "message": ""
+   },
+   "weather_notifications_forecast_label": {
+      "description": "display notification on weather forecast change (checkbox)",
+      "message": "wy\u015Bwietlaj powiadomienie o zmianie prognozy pogody"
+   },
+   "weather_notifications_present_label": {
+      "description": "display notification on daily weather updates (checkbox)",
+      "message": "wy\u015Bwietlaj powiadomienie o dziennych aktualizacjach pogody"
+   },
+   "weather_present_updated_label": {
+      "description": "Weather of the day has been updated !",
+      "message": "Pogoda dnia zosta\u0142a zaktualizowana!"
+   },
+   "weather_update_label": {
+      "description": "weather update interval",
+      "message": "przerwa w aktualizacji pogody"
+   }
+}

@@ -1,0 +1,20 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://www.wipgame.com/action/sniper-team"
+      },
+      "urls": [ "http://www.wipgame.com/action/sniper-team" ]
+   },
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "icons": {
+      "128": "128.png",
+      "24": "24.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC074/IhZOZE24/UPWdBYvPUNQmM08J4GM3AxQS+pbyyfC/ZJHUi1yhAU8iU8KgpNHtXHKxCajO1uZk6tPp+J14I5dG7qV6E2VL57WyA+cApy+rqLSJOTk0mAhpxMT2zHOGtC9KT5Fi0sG/EZF+256iM34dRPEWQL6lso5q/Jl4/wIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_appName__",
+   "permissions": [ "unlimitedStorage", "notifications" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.2"
+}

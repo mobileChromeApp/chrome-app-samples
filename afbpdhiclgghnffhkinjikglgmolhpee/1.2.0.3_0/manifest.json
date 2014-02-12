@@ -1,0 +1,22 @@
+{
+   "app": {
+      "launch": {
+         "container": "tab",
+         "web_url": "http://atomurl.net/torrent"
+      },
+      "urls": [ "http://atomurl.net/torrent" ]
+   },
+   "description": "Torrent Search, You can quickly and easily search Torrent files in the world.",
+   "icons": {
+      "128": "icon128.png",
+      "16": "icon16.png",
+      "32": "icon32.png",
+      "48": "icon48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDv/suSjqVuxLngg9eoeeL0IVuPajVWxK6hmYVhXM2YxyycAXnoVQZOnFwyuuU01RrA6DlWBAwlaGTs9lB5+ulwLGL74TaIT5D6pU7YB6x/w3RYUmqeRYXVJ6HpZPKGlndYZ0GOKzWT/4KHD4/zpzpk+5IFMQta2nQ78DUp2IzPRwIDAQAB",
+   "manifest_version": 2,
+   "name": "Torrent Search",
+   "permissions": [ "notifications", "unlimitedStorage" ],
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "1.2.0.3"
+}

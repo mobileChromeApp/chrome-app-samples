@@ -1,0 +1,16 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://www.247mahjong.com/?chromestore=1"
+      },
+      "urls": [ "http://www.247mahjong.com/?chromestore=1" ]
+   },
+   "description": "Play all day long, with 247 Mahjong!",
+   "icons": {
+      "128": "mahjong_icon.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCxWVOhJkfDixC2AHNxfQNK+IUkbTJdir2vii6dmcqYToa/7ggcat8dgMvqXPoRoqb3gBfr/ep+iXi1TST2bwE7xpj/F54zoQLWZHycRtp+Ljv2bin/LesUIuE8kt253a+wGbVUzVsRFhc0aHzz8rhrLHsH3VyB9ECgmKcModunxwIDAQAB",
+   "name": "Mahjong Solitaire",
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "1.0.0.2"
+}

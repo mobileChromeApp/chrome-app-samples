@@ -1,0 +1,11 @@
+{
+  "files": {},
+  "program": {
+    "x86-32": {
+      "url": "PixlrTouchUp.nexe"
+    },
+    "x86-64": {
+      "url": "PixlrTouchUp64.nexe"
+    }
+  }
+}

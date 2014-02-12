@@ -1,0 +1,17 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://www.solitairetime.com/?chromestore=1"
+      },
+      "urls": [ "http://www.solitairetime.com/?chromestore=1" ]
+   },
+   "description": "What time is it? It's Solitaire Time!",
+   "icons": {
+      "128": "solitaire_chrome_icon.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDOoRuP+VAm0QPkviAi1y7eaEq7c85bsa18iQUgcOmy/U+RZcwanQGBTqZmfZcOpBus8DiKatJ318VzVgQuW8JaopMFLexizSCF3s5DQsI9Jmh/6aRRzS8a5WMdJzuv08Ay6yXALSDq1yMTkZuOA5zpnOSH8+peem8F828ECOHyCwIDAQAB",
+   "manifest_version": 2,
+   "name": "Solitaire Games",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.0.4"
+}

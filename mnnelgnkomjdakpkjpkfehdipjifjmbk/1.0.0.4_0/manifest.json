@@ -1,0 +1,17 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://world.needforspeed.com/c/chrome-web-store"
+      },
+      "urls": [ "http://world.needforspeed.com/" ]
+   },
+   "default_locale": "en",
+   "description": "__MSG_description__",
+   "icons": {
+      "128": "icon128.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDc+NfJ+r4qIzN6Ng4Dj793LCZHNzaXAI2YsavAv6owQymrBTgAPJwLJ9OoxG6+1iysN7MiYknWEgDz1STtLBcuxP2nKSrJk02xw1b4LHatsJ2x5Qr8Pqg45ydgoKN35iokUm/IXeV3EwhilFLhxAAgvYWPhBqfdqvlu360cR6SAwIDAQAB",
+   "name": "__MSG_title__",
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "1.0.0.4"
+}

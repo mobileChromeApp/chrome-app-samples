@@ -1,0 +1,138 @@
+{
+   "extension": {
+      "description": "extension (browser extension, add-on)",
+      "message": "extension"
+   },
+   "gallery_extensionfactory_promo": {
+      "description": "Check out our other great extensions and web apps at http://www.extensionfactory.com",
+      "message": "Check out our other great extensions and web apps at http://www.extensionfactory.com"
+   },
+   "gallery_features": {
+      "description": "Features (ex: list of features)",
+      "message": "Features"
+   },
+   "gallery_features_preferences": {
+      "description": "- Notifications and options preferences",
+      "message": "- Notifications and options preferences"
+   },
+   "gallery_features_search_for_places": {
+      "description": "- Search by city or zip code",
+      "message": "- Search by city or zip code"
+   },
+   "gallery_help_us": {
+      "description": "Help us to make this application better!",
+      "message": "Help us to make this application better!"
+   },
+   "gallery_help_us_comments": {
+      "description": "- we're happy to read and reply to your comments as well.",
+      "message": "- we're happy to read and reply to your comments as well."
+   },
+   "gallery_help_us_stars": {
+      "description": "- if you like this product, please give it stars :)",
+      "message": "- if you like this product, please give it stars :)"
+   },
+   "gallery_privacy": {
+      "description": "Privacy matters!",
+      "message": "Privacy matters!"
+   },
+   "gallery_privacy_browsing_history": {
+      "description": "- we do NOT store your browsing history! Although access to the chrome.tabs API is required, the application will never look or save your history. Please read http://code.google.com/chrome/extensions/permission_warnings.html#warnings for more information.",
+      "message": "- we do NOT store your browsing history! Although access to the chrome.tabs API is required, the application will never look or save your history. Please read http://code.google.com/chrome/extensions/permission_warnings.html#warnings for more information."
+   },
+   "gallery_privacy_personal_data": {
+      "description": "- we do NOT send any data to any third party servers.",
+      "message": "- we do NOT send any data to any third party servers."
+   },
+   "gallery_weather_app_features_geolocation": {
+      "description": "- Instant geolocation and localization: get forecasts in your language",
+      "message": "- Instant geolocation and localization: get forecasts in your language"
+   },
+   "gallery_weather_app_features_manage_favorites": {
+      "description": "- Quick access to your favorite places",
+      "message": "- Quick access to your favorite places"
+   },
+   "gallery_weather_app_features_notifications": {
+      "description": "- Real time notifications on weather changes",
+      "message": "- Real time notifications on weather changes"
+   },
+   "hours": {
+      "description": "hours (2 hours, 12 hours ago,...)",
+      "message": "hours"
+   },
+   "my_favorite_places": {
+      "description": "my favorite places",
+      "message": "my favorite places"
+   },
+   "no_results_found": {
+      "description": "No results found",
+      "message": "No results found"
+   },
+   "notifications": {
+      "description": "notifications (desktop notifications)",
+      "message": "notifications"
+   },
+   "options": {
+      "description": "options",
+      "message": "options"
+   },
+   "remove_from_favorite_places": {
+      "description": "remove from my favorite places",
+      "message": "remove from my favorite places"
+   },
+   "runs_as_extension": {
+      "description": "(extension version).",
+      "message": "(extension version)."
+   },
+   "search": {
+      "description": "search",
+      "message": "search"
+   },
+   "search_city_input_placeholder": {
+      "description": "Enter a city or zip code (default text in the search box)",
+      "message": "Enter a city or zip code"
+   },
+   "temperature_unit": {
+      "description": "temperature unit (celcius, farenheit)",
+      "message": "temperature unit"
+   },
+   "update": {
+      "description": "update (news update, weather update,...)",
+      "message": "update"
+   },
+   "weather_app_description": {
+      "description": "This application geolocates you and displays in one click your favorite location weather forecasts.",
+      "message": "This application geolocates you and displays in one click your favorite location weather forecasts."
+   },
+   "weather_app_name": {
+      "description": "Weather",
+      "message": "Weather"
+   },
+   "weather_extension_name": {
+      "description": "__MSG_weather_app_name__ (__MSG_extension__)",
+      "message": "Weather (extension)"
+   },
+   "weather_forecast_updated_label": {
+      "description": "Weather forecast has been updated !",
+      "message": "Weather forecast has been updated !"
+   },
+   "weather_gallery_description": {
+      "description": "Weather gallery long description",
+      "message": "The Weather application will automatically geolocate you when installing, and display the closest city weather forecast. A browser icon indicates the daily forecast and temperature."
+   },
+   "weather_notifications_forecast_label": {
+      "description": "display notification on weather forecast change (checkbox)",
+      "message": "display notification on weather forecast change"
+   },
+   "weather_notifications_present_label": {
+      "description": "display notification on daily weather updates (checkbox)",
+      "message": "display notification on daily weather updates"
+   },
+   "weather_present_updated_label": {
+      "description": "Weather of the day has been updated !",
+      "message": "Weather of the day has been updated !"
+   },
+   "weather_update_label": {
+      "description": "weather update interval",
+      "message": "weather update interval"
+   }
+}

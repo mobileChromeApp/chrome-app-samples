@@ -1,0 +1,33 @@
+{
+    "_selector": "product",
+
+    "forecast": [
+        {
+            "_selector": "time",
+            "from": {
+                "_value": "[from]"
+            },
+
+            "temperature": {
+                "_selector": "temperature",
+                "_value": "[value]"
+            },
+            "humidity": {
+                "_selector": "humidity",
+                "_value": "[value]"
+            },
+            "cloudiness": {
+                "_selector": "cloudiness",
+                "_value": "[value]"
+            },
+            "windSpeed": {
+                "_selector": "windSpeed",
+                "_value": "[value]"
+            },
+            "conditions": {
+                "_selector": "symbol ",
+                "_value": "[value]"
+            }
+        }
+    ]
+}

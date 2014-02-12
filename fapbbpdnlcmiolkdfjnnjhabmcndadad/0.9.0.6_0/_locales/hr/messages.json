@@ -1,0 +1,138 @@
+{
+   "extension": {
+      "description": "extension (browser extension, add-on)",
+      "message": "pro\u0161irenje"
+   },
+   "gallery_extensionfactory_promo": {
+      "description": "Check out our other great extensions and web apps at http://www.extensionfactory.com",
+      "message": "Pogledajte ostale na\u0161e odli\u010Dne dodatke i web aplikacije na http://www.extensionfactory.com"
+   },
+   "gallery_features": {
+      "description": "Features (ex: list of features)",
+      "message": "zna\u010Dajke"
+   },
+   "gallery_features_preferences": {
+      "description": "- Notifications and options preferences",
+      "message": "- Obavijesti i opcije postavke"
+   },
+   "gallery_features_search_for_places": {
+      "description": "- Search by city or zip code",
+      "message": "- Pretraga po gradu ili po\u0161tanskom broju"
+   },
+   "gallery_help_us": {
+      "description": "Help us to make this application better!",
+      "message": "Pomozite nam napraviti ovu aplikaciju boljom!"
+   },
+   "gallery_help_us_comments": {
+      "description": "- we're happy to read and reply to your comments as well.",
+      "message": "- zadovoljstvo nam je pro\u010Ditati i odgovoriti na va\u0161e komentare tako\u0111er."
+   },
+   "gallery_help_us_stars": {
+      "description": "- if you like this product, please give it stars :)",
+      "message": "- ukoliko vam se ovaj proizvod svi\u0111a, molimo dajte mu zvjezdice :)"
+   },
+   "gallery_privacy": {
+      "description": "Privacy matters!",
+      "message": "Privatnost je va\u017Ena!"
+   },
+   "gallery_privacy_browsing_history": {
+      "description": "- we do NOT store your browsing history! Although access to the chrome.tabs API is required, the application will never look or save your history. Please read http://code.google.com/chrome/extensions/permission_warnings.html#warnings for more information.",
+      "message": "- Mi ne pohranjujemo va\u0161e povijesti pregledavanja! Iako je pristup chrome.tabs API potreban, aplikacija nikada ne\u0107e gledati ili spremiti va\u0161u povijest. Molimo Vas pro\u010Ditajte http://code.google.com/chrome/extensions/permission_warnings.html # warnings za vi\u0161e informacija."
+   },
+   "gallery_privacy_personal_data": {
+      "description": "- we do NOT send any data to any third party servers.",
+      "message": "- mi NE \u0161aljemo nikakve podatke bilo kojim serverima tre\u0107e strane."
+   },
+   "gallery_weather_app_features_geolocation": {
+      "description": "- Instant geolocation and localization: get forecasts in your language",
+      "message": "- Instant Geolokacija i lokalizacija: dobijte prognoze na hrvatskom jeziku"
+   },
+   "gallery_weather_app_features_manage_favorites": {
+      "description": "- Quick access to your favorite places",
+      "message": "- Brz pristup va\u0161im omiljenim mjestima"
+   },
+   "gallery_weather_app_features_notifications": {
+      "description": "- Real time notifications on weather changes",
+      "message": "- Obavijesti u realnom vremenu o vremenskim promjenama"
+   },
+   "hours": {
+      "description": "hours",
+      "message": "sati"
+   },
+   "my_favorite_places": {
+      "description": "my favorite places",
+      "message": "moja omiljena mjesta"
+   },
+   "no_results_found": {
+      "description": "No results found",
+      "message": "Rezultati nisu pronadjeni"
+   },
+   "notifications": {
+      "description": "notifications (desktop notifications, alerts)",
+      "message": "obavijesti"
+   },
+   "options": {
+      "description": "options",
+      "message": "mogu\u0107nosti"
+   },
+   "remove_from_favorite_places": {
+      "description": "remove from my favorite places",
+      "message": "ukloniti iz mojih omiljenih mjesta"
+   },
+   "runs_as_extension": {
+      "description": "(extension version).",
+      "message": "(ina\u010Dica dodatka)."
+   },
+   "search": {
+      "description": "search",
+      "message": "pretraga"
+   },
+   "search_city_input_placeholder": {
+      "description": "Enter a city or zip code (default text in the search box)",
+      "message": "Unesite grad ili po\u0161tanski broj"
+   },
+   "temperature_unit": {
+      "description": "temperature unit (celcius, farenheit)",
+      "message": "jedinica temperature"
+   },
+   "update": {
+      "description": "update (news update, weather update,...)",
+      "message": "a\u017Euriraj"
+   },
+   "weather_app_description": {
+      "description": "This application geolocates you and displays in one click your favorite location weather forecasts.",
+      "message": "Ova aplikacija vas geolocira i prikazuje jednim klikom va\u0161e omiljene lokacije vremenske prognoze."
+   },
+   "weather_app_name": {
+      "description": "Weather",
+      "message": "Vrijeme"
+   },
+   "weather_extension_name": {
+      "description": "__MSG_weather_app_name__ (__MSG_extension__)",
+      "message": "Vrijeme (pro\u0161irenje)"
+   },
+   "weather_forecast_updated_label": {
+      "description": "Weather forecast has been updated !",
+      "message": "Vremenska prognoza je a\u017Eurirana!"
+   },
+   "weather_gallery_description": {
+      "description": "",
+      "message": "Dodatak Vreme automatski \u0107e Vas geografski smjestiti i prikazati prognozu vremena najbli\u017Eeg grada. Ikonica preglednika prikazuje dnevnu prognozu i temperaturu."
+   },
+   "weather_notifications_forecast_label": {
+      "description": "display notification on weather forecast change (checkbox)",
+      "message": "prika\u017Ei obavijesti o promeni vremenske prognoze"
+   },
+   "weather_notifications_present_label": {
+      "description": "display notification on daily weather updates (checkbox)",
+      "message": "prika\u017Ei obavijesti o dnevnim a\u017Euriranjima vremena"
+   },
+   "weather_present_updated_label": {
+      "description": "Weather of the day has been updated !",
+      "message": "Vrijeme za ovaj dan je a\u017Eurirano !"
+   },
+   "weather_update_label": {
+      "description": "weather update interval",
+      "message": "interval a\u017Euriranja vremena"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://webstore.limexgames.net/cargo_bridge/index.html"
+      },
+      "urls": [ "http://webstore.limexgames.net/cargo_bridge/index.html" ]
+   },
+   "description": "A new quality of bridge builder. Build a bridge and test your construction skills.",
+   "icons": {
+      "128": "icon128.png",
+      "16": "icon16.png",
+      "48": "icon48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCklu/dx2puM2L6emW4O5bLSJivv6efQ1IKCZlz2LhARvSdPZSRslDX6RlTEJEzyOPfDE33Yy6IWBpQw9O0Fa77NAskzwCJ0BEyH3PWakfWzKsj9BQHrJpZZJE72nl010QUNzuyGwFm/VrFtg4ZXQjIC8sWvHSukAtqu6loNDUMcQIDAQAB",
+   "name": "Cargo Bridge",
+   "permissions": [  ],
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "1.5.7"
+}

@@ -1,0 +1,19 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://offlinebrowsergames.appspot.com/index.html"
+      },
+      "urls": [ "http://offlinebrowsergames.appspot.com/index.html", "http://offlinebrowsergames.appspot.com/script.js", "http://offlinebrowsergames.appspot.com/style.css", "http://offlinebrowsergames.appspot.com/cards103x143.png" ]
+   },
+   "description": "A Solitaire (Klondike) game that can be played with no internet connection.",
+   "icons": {
+      "128": "icon_128.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCr6vjggNKBuCrhPsWLyOY7liT4OMuldDHVYvcmtPKEovbGN8c+TodLSXZgihLfLNHP0RnWB5xdXLXdEKRLgbhQlpw4CV4OlBIJ1EbKfD85zZOLe2QikFObu0dyyFoPvcsVGR8OFPtrESt+fBKFwkgVUZWM3HfyFRuhSUF7x0pCmQIDAQAB",
+   "manifest_version": 2,
+   "name": "Offline Solitaire",
+   "offline_enabled": true,
+   "permissions": [  ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "11"
+}

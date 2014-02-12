@@ -1,0 +1,134 @@
+{
+   "extension": {
+      "description": "extension (browser extension, add-on)",
+      "message": "ti\u1EC7n \u00EDch m\u1EDF r\u1ED9ng"
+   },
+   "gallery_extensionfactory_promo": {
+      "description": "Check out our other great extensions and web apps at http://www.extensionfactory.com",
+      "message": "Ki\u1EC3m tra c\u00E1c ph\u1EA7n m\u1EDF r\u1ED9ng v\u00E0 c\u00E1c \u1EE9ng d\u1EE5ng web tuy\u1EC7t v\u1EDDi kh\u00E1c t\u1EA1i http://www.extensionfactory.com"
+   },
+   "gallery_features": {
+      "description": "Features (ex: list of features)",
+      "message": "C\u00E1c \u0111\u1EB7c \u0111i\u1EC3m"
+   },
+   "gallery_features_preferences": {
+      "description": "- Notifications and options preferences",
+      "message": "- S\u1EDF th\u00EDch v\u1EC1 th\u00F4ng b\u00E1o v\u00E0 t\u00F9y ch\u1ECDn"
+   },
+   "gallery_features_search_for_places": {
+      "description": "- Search by city or zip code",
+      "message": "- T\u00ECm ki\u1EBFm theo th\u00E0nh ph\u1ED1 ho\u1EB7c m\u00E3 zip"
+   },
+   "gallery_help_us": {
+      "description": "Help us to make this application better!",
+      "message": "H\u00E3y gi\u00FAp ch\u00FAng t\u00F4i l\u00E0m cho \u1EE9ng d\u1EE5ng n\u00E0y t\u1ED1t h\u01A1n!"
+   },
+   "gallery_help_us_comments": {
+      "description": "- we're happy to read and reply to your comments as well.",
+      "message": "- ch\u00FAng t\u00F4i r\u1EA5t vui \u0111\u01B0\u1EE3c \u0111\u1ECDc v\u00E0 tr\u1EA3 l\u1EDDi c\u00E1c nh\u1EADn x\u00E9t c\u1EE7a b\u1EA1n."
+   },
+   "gallery_help_us_stars": {
+      "description": "- if you like this product, please give it stars :)",
+      "message": "- n\u1EBFu b\u1EA1n th\u00EDch s\u1EA3n ph\u1EA9m n\u00E0y, vui l\u00F2ng cho \u0111i\u1EC3m b\u1EB1ng s\u1ED1 ng\u00F4i sao :)"
+   },
+   "gallery_privacy": {
+      "description": "Privacy matters!",
+      "message": "C\u00E1c v\u1EA5n \u0111\u1EC1 v\u1EC1 quy\u1EC1n ri\u00EAng t\u01B0!"
+   },
+   "gallery_privacy_browsing_history": {
+      "description": "- we do NOT store your browsing history! Although access to the chrome.tabs API is required, the application will never look or save your history. Please read http://code.google.com/chrome/extensions/permission_warnings.html#warnings for more information.",
+      "message": "- ch\u00FAng t\u00F4i KH\u00D4NG l\u01B0u l\u1EA1i l\u1ECBch s\u1EED duy\u1EC7t c\u1EE7a b\u1EA1n! M\u1EB7c d\u00F9 b\u1EAFt bu\u1ED9c ph\u1EA3i truy c\u1EADp v\u00E0o chrome.tabs API, \u1EE9ng d\u1EE5ng n\u00E0y s\u1EBD kh\u00F4ng bao gi\u1EDD t\u00ECm ho\u1EB7c l\u01B0u l\u1ECBch s\u1EED c\u1EE7a b\u1EA1n. Vui l\u00F2ng \u0111\u1ECDc http://code.google.com/chrome/extensions/permission_warnings.html#warnings \u0111\u1EC3 c\u00F3 th\u00EAm th\u00F4ng tin."
+   },
+   "gallery_privacy_personal_data": {
+      "description": "- we do NOT send any data to any third party servers.",
+      "message": "- ch\u00FAng t\u00F4i KH\u00D4NG g\u1EEDi b\u1EA5t k\u1EF3 d\u1EEF li\u1EC7u n\u00E0o \u0111\u1EBFn m\u00E1y ch\u1EE7 c\u1EE7a b\u1EA5t k\u1EF3 b\u00EAn th\u1EE9 ba n\u00E0o."
+   },
+   "gallery_weather_app_features_geolocation": {
+      "description": "- Instant geolocation and localization: get forecasts in your language",
+      "message": "- V\u1ECB tr\u00ED \u0111\u1ECBa l\u00FD v\u00E0 x\u00E1c \u0111\u1ECBnh v\u1ECB tr\u00ED ngay l\u1EADp t\u1EE9c: c\u00F3 c\u00E1c d\u1EF1 b\u00E1o b\u1EB1ng ng\u00F4n ng\u1EEF c\u1EE7a b\u1EA1n"
+   },
+   "gallery_weather_app_features_manage_favorites": {
+      "description": "- Quick access to your favorite places",
+      "message": "-- Truy c\u1EADp nhanh v\u00E0o c\u00E1c \u0111\u1ECBa \u0111i\u1EC3m y\u00EAu th\u00EDch c\u1EE7a b\u1EA1n"
+   },
+   "gallery_weather_app_features_notifications": {
+      "description": "- Real time notifications on weather changes",
+      "message": "- Th\u00F4ng b\u00E1o th\u1EDDi gian th\u1EF1c v\u1EC1 c\u00E1c thay \u0111\u1ED5i th\u1EDDi ti\u1EBFt"
+   },
+   "hours": {
+      "description": "hours",
+      "message": "gi\u1EDD"
+   },
+   "my_favorite_places": {
+      "description": "my favorite places",
+      "message": "c\u00E1c \u0111\u1ECBa \u0111i\u1EC3m y\u00EAu th\u00EDch c\u1EE7a t\u00F4i"
+   },
+   "no_results_found": {
+      "description": "No results found",
+      "message": "Kh\u00F4ng t\u00ECm th\u1EA5y k\u1EBFt qu\u1EA3"
+   },
+   "notifications": {
+      "description": "notifications (desktop notifications, alerts)",
+      "message": "c\u00E1c th\u00F4ng b\u00E1o"
+   },
+   "options": {
+      "description": "options",
+      "message": "t\u00F9y ch\u1ECDn"
+   },
+   "remove_from_favorite_places": {
+      "description": "remove from my favorite places",
+      "message": "g\u1EE1 b\u1ECF kh\u1ECFi c\u00E1c \u0111\u1ECBa \u0111i\u1EC3m y\u00EAu th\u00EDch c\u1EE7a t\u00F4i"
+   },
+   "runs_as_extension": {
+      "description": "(extension version).",
+      "message": "(phi\u00EAn b\u1EA3n ph\u1EA7n m\u1EDF r\u1ED9ng)."
+   },
+   "search": {
+      "description": "search",
+      "message": "t\u00ECm ki\u1EBFm"
+   },
+   "search_city_input_placeholder": {
+      "description": "Enter a city or zip code (default text in the search box)",
+      "message": "Nh\u1EADp th\u00E0nh ph\u1ED1 ho\u1EB7c m\u00E3 zip"
+   },
+   "temperature_unit": {
+      "description": "temperature unit (celcius, farenheit)",
+      "message": "\u0111\u01A1n v\u1ECB nhi\u1EC7t \u0111\u1ED9"
+   },
+   "update": {
+      "description": "update (news update, weather update,...)",
+      "message": "c\u1EADp nh\u1EADt"
+   },
+   "weather_app_description": {
+      "description": "This application geolocates you and displays in one click your favorite location weather forecasts.",
+      "message": "\u1EE8ng d\u1EE5ng n\u00E0y x\u00E1c \u0111\u1ECBnh v\u1ECB tr\u00ED \u0111\u1ECBa l\u00FD c\u1EE7a b\u1EA1n v\u00E0 hi\u1EC3n th\u1ECB b\u1EB1ng m\u1ED9t l\u1EA7n b\u1EA5m v\u00E0o d\u1EF1 b\u00E1o th\u1EDDi ti\u1EBFt c\u1EE7a \u0111\u1ECBa \u0111i\u1EC3m y\u00EAu th\u00EDch c\u1EE7a b\u1EA1n."
+   },
+   "weather_app_name": {
+      "description": "Weather",
+      "message": "Th\u1EDDi ti\u1EBFt"
+   },
+   "weather_extension_name": {
+      "description": "__MSG_weather_app_name__ (__MSG_extension__)",
+      "message": "Th\u1EDDi ti\u1EBFt (ti\u1EC7n \u00EDch m\u1EDF r\u1ED9ng)"
+   },
+   "weather_forecast_updated_label": {
+      "description": "Weather forecast has been updated !",
+      "message": "D\u1EF1 b\u00E1o th\u1EDDi ti\u1EBFt \u0111\u00E3 \u0111\u01B0\u1EE3c c\u1EADp nh\u1EADt!"
+   },
+   "weather_notifications_forecast_label": {
+      "description": "display notification on weather forecast change (checkbox)",
+      "message": "hi\u1EC3n th\u1ECB th\u00F4ng b\u00E1o khi c\u00F3 thay \u0111\u1ED5i d\u1EF1 b\u00E1o th\u1EDDi ti\u1EBFt"
+   },
+   "weather_notifications_present_label": {
+      "description": "display notification on daily weather updates (checkbox)",
+      "message": "hi\u1EC3n th\u1ECB th\u00F4ng b\u00E1o khi c\u00F3 c\u00E1c c\u1EADp nh\u1EADt th\u1EDDi ti\u1EBFt h\u00E0ng ng\u00E0y"
+   },
+   "weather_present_updated_label": {
+      "description": "Weather of the day has been updated !",
+      "message": "Th\u1EDDi ti\u1EBFt c\u1EE7a ng\u00E0y n\u00E0y \u0111\u00E3 \u0111\u01B0\u1EE3c c\u1EADp nh\u1EADt!"
+   },
+   "weather_update_label": {
+      "description": "weather update interval",
+      "message": "kho\u1EA3ng th\u1EDDi gian c\u1EADp nh\u1EADt th\u1EDDi ti\u1EBFt"
+   }
+}

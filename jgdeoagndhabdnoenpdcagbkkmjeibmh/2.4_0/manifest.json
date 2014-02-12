@@ -1,0 +1,21 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://www.pixect.com/"
+      },
+      "urls": [ "http://www.pixect.com/", "http://www.pixect.com/es/", "http://www.pixect.com/pt/", "http://www.pixect.com/fr/", "http://www.pixect.com/it/", "http://www.pixect.com/ru/", "http://www.pixect.com/en/" ]
+   },
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "icons": {
+      "128": "icon_128.png",
+      "16": "icon_16.png",
+      "48": "icon_48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC60+cL1hBoQAsDEpCBR5qEWw3t9pJKBuGEVzL7vp7twb8wbtltFuxV5eVTC7jke4DaXY2DpK3pkrLeR0vVLNpXdyKpfaeJiW5JTA/fDm18fSdmm9/tvOvY2z6DuDL9wcJKWxjK2rj0JgDCG9eHTInWhBnuYPl4wMU3dAk4E4REWwIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_appName__",
+   "permissions": [ "unlimitedStorage", "notifications" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.4"
+}

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>The Times of India</title>
+		<meta name="viewport" content="user-scalable=no, maximum-scale=1.0">
+		<script language="javascript" type="text/javascript" src="Main.js"></script>
+        <script language="javascript" type="text/javascript" src="Utilities/shortcut.js"></script>
+        
+        <script language="javascript" type="text/javascript" src="Resources/jquery/jQuery.js"></script>
+        
+		<script language="javascript" type="text/javascript" src="Utilities/Elements.js"></script>
+		<script language="javascript" type="text/javascript" src="Utilities/json2.js"></script>
+		<script language="javascript" type="text/javascript" src="Utilities/script.js"></script>
+		
+		<script language="javascript" type="text/javascript" src="Services/HttpManager.js"></script>
+		<script language="javascript" type="text/javascript" src="Services/DataManager.js"></script>
+		<script language="javascript" type="text/javascript" src="Resources/UserConfig.js"></script>
+		
+		<script language="javascript" type="text/javascript" src="Model/NewsModel.js"></script>
+		<script language="javascript" type="text/javascript" src="Model/PhotosModel.js"></script>
+		<script language="javascript" type="text/javascript" src="Model/VideosModel.js"></script>
+		<script language="javascript" type="text/javascript" src="Model/MovRevModelAllLang.js"></script>
+		<script language="javascript" type="text/javascript" src="Model/MovRevModelLang.js"></script>
+		
+		<script language="javascript" type="text/javascript" src="Model/StoryModel.js"></script>
+		<script language="javascript" type="text/javascript" src="Controller/PhotosController.js"></script>
+		<script language="javascript" type="text/javascript" src="Controller/StoryController.js"></script>
+		<script language="javascript" type="text/javascript" src="Controller/MovRevController.js"></script>
+		
+		<script language="javascript" type="text/javascript" src="View/HeaderView.js"></script>
+		<script language="javascript" type="text/javascript" src="View/NewsView.js"></script>
+		<script language="javascript" type="text/javascript" src="View/PhotosView.js"></script>
+		<script language="javascript" type="text/javascript" src="View/StoryView.js"></script>
+		<script language="javascript" type="text/javascript" src="View/VideosView.js"></script>
+		<script language="javascript" type="text/javascript" src="View/MovRevAllLangView.js"></script>
+		<script language="javascript" type="text/javascript" src="View/MovRevLangView.js"></script>
+		<script language="javascript" type="text/javascript" src="View/MovRevStoryView.js"></script>
+		<link rel="stylesheet" href="Resources/Styles/AppBase.css" type="text/css" />
+	
+	</head>
+	 <body onload='initApp();'>
+	 	<a id='fbShare' class="hidden" name="fb_share"></a> 
+	 	<div id ="divMain" class="divMain">
+	 		
+	 	</div>
+	 	<div id='divDuringPageLoad' class='divDuringPageLoad'>
+	 		<span> </span>
+			<img class='imgLoaderDuringPageLoad' src="Resources/Images/ajax-loader1.gif" alt="Loading.." />
+		</div>
+	</body>
+</html>

@@ -1,0 +1,16 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://www.befunky.com/create"
+      },
+      "urls": [ "http://www.befunky.com/" ]
+   },
+   "description": "Photo editing and effects for everyday people.",
+   "icons": {
+      "128": "icon_128.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDLeZ84j5mlUl0yy0m2SYoSejzxAPzv5Tb5deFWnrKLCeEFlO2UgC3/QXsTgGSDKavPPAldcW28MpiA+RacCBKKdQWM045PkYXB6ZAlYMOcV5ywmRL4niQhOjM6I8QyJ5mHCujNI+3dOUo9+nJFp0VB6pkOLNkJY4BMCXpoc6A0EwIDAQAB",
+   "name": "BeFunky Photo Editor",
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "1.1"
+}

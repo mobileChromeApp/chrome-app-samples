@@ -1,0 +1,93 @@
+@import url("base.css");
+@import url("forecast.css");
+body {
+    margin: 0px;
+}
+
+body.loading{
+	max-height:100px;
+	overflow: hidden;
+}
+#notification-header {
+    padding: 1px;
+    padding-left: 20px;
+    background: url(data:image/gif;base64,R0lGODlhEAAQALMPAHp6evf394qKiry8vJOTk83NzYKCgubm5t7e3qysrMXFxe7u7pubm7S0tKOjo////yH/C05FVFNDQVBFMi4wAwEAAAAh+QQJCAAPACwAAAAAEAAQAAAETPDJSau9NRDAgWxDYGmdZADCkQnlU7CCOA3oNgXsQG2FRhUAAoWDIU6MGeSDR0m4ghRa7JjIUXCogqQzpRxYhi2HILsOGuJxGcNuTyIAIfkECQgADwAsAAAAABAAEAAABGLwSXmMmjhLAQjSWDAYQHmAz8GVQPIESxZwggIYS0AIATYAvAdh8OIQJwRAQbJkdjAlUCA6KfU0VEmyGWgWnpNfcEAoAo6SmWtBUtCuk9gjwQKeQAeWYQAHIZICKBoKBncTEQAh+QQJCAAPACwAAAAAEAAQAAAEWvDJORejGCtQsgwDAQAGGWSHMK7jgAWq0CGj0VEDIJxPnvAU0a13eAQKrsnI81gqAZ6AUzIonA7JRwFAyAQSgCQsjCmUAIhjDEhlrQTFV+lMGLApWwUzw1jsIwAh+QQJCAAPACwAAAAAEAAQAAAETvDJSau9L4QaBgEAMWgEQh0CqALCZ0pBKhRSkYLvM7Ab/OGThoE2+QExyAdiuexhVglKwdCgqKKTGGBgBc00Np7VcVsJDpVo5ydyJt/wCAAh+QQJCAAPACwAAAAAEAAQAAAEWvDJSau9OAwCABnBtQhdCQjHlQhFWJBCOKWPLAXk8KQIkCwWBcAgMDw4Q5CkgOwohCVCYTIwdAgPolVhWSQAiN1jcLLVQrQbrBV4EcySA8l0Alo0yA8cw+9TIgAh+QQFCAAPACwAAAAAEAAQAAAEWvDJSau9WA4AyAhWMChPwXHCQRUGYARgKQBCzJxAQgXzIC2KFkc1MREoHMTAhwQ0Y5oBgkMhAAqUw8mgWGho0EcCx5DwaAUQrGXATg6zE7bwCQ2sAGZmz7dEAAA7) left no-repeat infobackground;
+    background-image: url(../icons/icon-16.png);
+    min-height: 15px;
+    -webkit-border-after: 1px solid #bbb;
+    -moz-border-after: 1px solid #bbb;
+    font-size: 12px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.city {
+    font-weight: bolder;
+    margin-left: 2px;
+    /*margin-top:2px;*/
+    font-size: 15px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.forecast-description {
+    overflow: hidden;
+    max-width: 170px;
+}
+
+.forecast-conditions {
+    font-size: 80%;
+}
+
+.forecast-temperatures {
+    text-align: right;
+}
+
+
+.city, table{
+		padding-left:2px
+}
+
+table {
+    width: 100%;
+    border-spacing: 0px;
+}
+
+td{
+	padding-bottom:0px;`
+}
+#controls {
+    -webkit-border-before: 1px solid #bbb;
+    -moz-border-before: 1px solid #bbb;
+    background-color: ThreeDFace;
+    font-size: 11px;
+    text-align: right;
+    padding: 1px;
+    display: block;
+    width: inherit;
+    margin-top: 1px;
+	white-space:nowrap;
+	text-overflow:ellipsis;
+	overflow:hidden;
+	box-sizing:border-box;
+	max-width:300px;
+}
+
+#controls input {
+    vertical-align: top;
+    /*-webkit-transform: scale(0.8);*/
+    width: 12px;
+    height: 12px;
+    margin: 1px;
+    margin-right: 2px;
+}
+
+#controls span {
+    margin-right: 4px;
+
+}
+*[data-sf-ad-slot-name = "notification"] {
+    max-height: 60px;
+}

@@ -1,0 +1,17 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://www.stardoll.com/?pid=40135&gid=1"
+      },
+      "urls": [ "http://www.stardoll.com/" ]
+   },
+   "description": "Fame, fashion & friends",
+   "icons": {
+      "128": "icon_128.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC4h4APx/dGEcu0Ur9fnd5Y1wW1Dytna/ih7wagaFtCCqMmqtXpeIOX3xrDirbUBLEMkUtFSComPjmHCGpROsABuNcCpMbCHcgn3l5LkMFIzFxtb+iwLs7OmuVsEnYqkw1sKBNRFsW74jlePbB3+gajnktn6Rf0Rg8VgXTTrQydoQIDAQAB",
+   "name": "Stardoll",
+   "permissions": [ "background", "notifications" ],
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "1.2"
+}

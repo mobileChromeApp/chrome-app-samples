@@ -1,0 +1,138 @@
+{
+   "extension": {
+      "description": "extension (browser extension, add-on)",
+      "message": "extensie"
+   },
+   "gallery_extensionfactory_promo": {
+      "description": "Check out our other great extensions and web apps at http://www.extensionfactory.com",
+      "message": "Vizita\u021Bi \u0219i celelalte extensii pentru browser \u0219i aplica\u021Bii web interesante pe care le avem la http://www.extensionfactory.com"
+   },
+   "gallery_features": {
+      "description": "Features (ex: list of features)",
+      "message": "Func\u021Bionalit\u0103\u021Bi"
+   },
+   "gallery_features_preferences": {
+      "description": "- Notifications and options preferences",
+      "message": "- Preferin\u021Be notific\u0103ri \u0219i op\u021Biuni"
+   },
+   "gallery_features_search_for_places": {
+      "description": "- Search by city or zip code",
+      "message": "- C\u0103utare dup\u0103 ora\u0219 sau cod po\u0219tal"
+   },
+   "gallery_help_us": {
+      "description": "Help us to make this application better!",
+      "message": "Ajuta\u021Bi-ne s\u0103 \u00EEmbun\u0103t\u0103\u021Bim aceast\u0103 aplica\u021Bie!"
+   },
+   "gallery_help_us_comments": {
+      "description": "- we're happy to read and reply to your comments as well.",
+      "message": "- \u0219i nou\u0103 ne face pl\u0103cere s\u0103 citim \u0219i s\u0103 r\u0103spundem la comentariile dvs."
+   },
+   "gallery_help_us_stars": {
+      "description": "- if you like this product, please give it stars :)",
+      "message": "- dac\u0103 v\u0103 place acest produs, v\u0103 rug\u0103m s\u0103-i acorda\u021Bi stele :) "
+   },
+   "gallery_privacy": {
+      "description": "Privacy matters!",
+      "message": "Confiden\u021Bialitatea conteaz\u0103!"
+   },
+   "gallery_privacy_browsing_history": {
+      "description": "- we do NOT store your browsing history! Although access to the chrome.tabs API is required, the application will never look or save your history. Please read http://code.google.com/chrome/extensions/permission_warnings.html#warnings for more information.",
+      "message": "- noi NU p\u0103str\u0103m istoricul navig\u0103rilor dvs.! De\u0219i este necesar accesul la chrome.tabs API, aplica\u021Bia nu va c\u0103uta sau salva niciodat\u0103 istoricul dvs. V\u0103 rug\u0103m s\u0103 citi\u021Bi http://code.google.com/chrome/extensions/permission_warnings.html#warnings pentru mai multe informa\u021Bii."
+   },
+   "gallery_privacy_personal_data": {
+      "description": "- we do NOT send any data to any third party servers.",
+      "message": "- noi NU trimitem niciun fel de date spre servere ter\u021Be."
+   },
+   "gallery_weather_app_features_geolocation": {
+      "description": "- Instant geolocation and localization: get forecasts in your language",
+      "message": "- Geoloca\u021Bie \u0219i localizare instant: primi\u021Bi prognoza meteo \u00EEn limba dvs."
+   },
+   "gallery_weather_app_features_manage_favorites": {
+      "description": "- Quick access to your favorite places",
+      "message": "- Acces rapid la loca\u021Biile dvs. favorite"
+   },
+   "gallery_weather_app_features_notifications": {
+      "description": "- Real time notifications on weather changes",
+      "message": "- Notific\u0103ri \u00EEn timp real cu privire la schimbarea vremii"
+   },
+   "hours": {
+      "description": "hours",
+      "message": "ore"
+   },
+   "my_favorite_places": {
+      "description": "my favorite places",
+      "message": "loca\u021Biile mele favorite"
+   },
+   "no_results_found": {
+      "description": "No results found",
+      "message": "Nu s-au g\u0103sit rezultate"
+   },
+   "notifications": {
+      "description": "notifications (desktop notifications, alerts)",
+      "message": "notific\u0103ri"
+   },
+   "options": {
+      "description": "options",
+      "message": "op\u021Biuni"
+   },
+   "remove_from_favorite_places": {
+      "description": "remove from my favorite places",
+      "message": "eliminare din loca\u021Biile mele favorite"
+   },
+   "runs_as_extension": {
+      "description": "(extension version).",
+      "message": "(versiune extensie browser)."
+   },
+   "search": {
+      "description": "search",
+      "message": "c\u0103utare"
+   },
+   "search_city_input_placeholder": {
+      "description": "Enter a city or zip code (default text in the search box)",
+      "message": "Introduce\u021Bi un ora\u0219 sau un cod po\u0219tal"
+   },
+   "temperature_unit": {
+      "description": "temperature unit (celcius, farenheit)",
+      "message": "unitate temperatur\u0103"
+   },
+   "update": {
+      "description": "update (news update, weather update,...)",
+      "message": "actualizare"
+   },
+   "weather_app_description": {
+      "description": "This application geolocates you and displays in one click your favorite location weather forecasts.",
+      "message": "Aceast\u0103 aplica\u021Bie v\u0103 localizeaz\u0103 geografic \u0219i afi\u0219eaz\u0103 cu un singur clic prognoza meteo pentru loca\u021Bia dvs. favorit\u0103."
+   },
+   "weather_app_name": {
+      "description": "Weather",
+      "message": "Vremea"
+   },
+   "weather_extension_name": {
+      "description": "__MSG_weather_app_name__ (__MSG_extension__)",
+      "message": "Vremea (extensie)"
+   },
+   "weather_forecast_updated_label": {
+      "description": "Weather forecast has been updated !",
+      "message": "Prognoza meteo a fost actualizat\u0103!"
+   },
+   "weather_gallery_description": {
+      "description": "",
+      "message": "Extensia Vremea te va localiza automat pe hart\u0103 \u0219i va afi\u0219a prognoza meteo pentru cel mai apropiat ora\u0219. O pictogram\u0103 din browser indic\u0103 prognoza zilnic\u0103 \u0219i temperatura."
+   },
+   "weather_notifications_forecast_label": {
+      "description": "display notification on weather forecast change (checkbox)",
+      "message": "afi\u0219are notificare cu privire la modificarea prognozei meteo"
+   },
+   "weather_notifications_present_label": {
+      "description": "display notification on daily weather updates (checkbox)",
+      "message": "afi\u0219are notificare cu privire la actualiz\u0103rile zilnice ale vremii"
+   },
+   "weather_present_updated_label": {
+      "description": "Weather of the day has been updated !",
+      "message": "Vremea pentru ziua de azi a fost actualizat\u0103!"
+   },
+   "weather_update_label": {
+      "description": "weather update interval",
+      "message": "interval actualizare vreme"
+   }
+}

@@ -1,0 +1,138 @@
+{
+   "extension": {
+      "description": "extension (browser extension, add-on)",
+      "message": "pl\u0117tinys"
+   },
+   "gallery_extensionfactory_promo": {
+      "description": "Check out our other great extensions and web apps at http://www.extensionfactory.com",
+      "message": "Susipa\u017Einkitre su kitais puikiais pl\u0117tiniais ir \u017Einiatinklio programomis adresu http://www.extensionfactory.com"
+   },
+   "gallery_features": {
+      "description": "Features (ex: list of features)",
+      "message": "Funkcijos"
+   },
+   "gallery_features_preferences": {
+      "description": "- Notifications and options preferences",
+      "message": "- Prane\u0161im\u0173 ir parink\u010Di\u0173 parametrai"
+   },
+   "gallery_features_search_for_places": {
+      "description": "- Search by city or zip code",
+      "message": "- Paie\u0161ka pagal miest\u0105 arba pa\u0161to kod\u0105"
+   },
+   "gallery_help_us": {
+      "description": "Help us to make this application better!",
+      "message": "Pad\u0117kite mums tobulinti \u0161i\u0105 program\u0105!"
+   },
+   "gallery_help_us_comments": {
+      "description": "- we're happy to read and reply to your comments as well.",
+      "message": "- Mes su malonumu perskaitysime j\u016Bs\u0173 komentarus."
+   },
+   "gallery_help_us_stars": {
+      "description": "- if you like this product, please give it stars :)",
+      "message": "- Jei jums patiko \u0161is produktas, suteikite jam \u017Evaig\u017Edu\u010Di\u0173 :)"
+   },
+   "gallery_privacy": {
+      "description": "Privacy matters!",
+      "message": "Mums privatumas svarbu!"
+   },
+   "gallery_privacy_browsing_history": {
+      "description": "- we do NOT store your browsing history! Although access to the chrome.tabs API is required, the application will never look or save your history. Please read http://code.google.com/chrome/extensions/permission_warnings.html#warnings for more information.",
+      "message": "- Mes NELAIKOME j\u016Bs\u0173 nar\u0161ymo istorijos! Nors yra reikalinga prieiga prie \u201Echrome.tabs\u201C API, programa niekada neie\u0161ko ir ne\u012Fra\u0161o j\u016Bs\u0173 istorijos. Papildomos informacijos rasite \u010Dia: http://code.google.com/chrome/extensions/permission_warnings.html#."
+   },
+   "gallery_privacy_personal_data": {
+      "description": "- we do NOT send any data to any third party servers.",
+      "message": "- Mes NESIUN\u010CIAME joki\u0173 duomen\u0173 \u012F tre\u010Di\u0173j\u0173 \u0161ali\u0173 serverius."
+   },
+   "gallery_weather_app_features_geolocation": {
+      "description": "- Instant geolocation and localization: get forecasts in your language",
+      "message": "- Momentinis geografin\u0117s vietos aptikimas ir lokalizavimas: gaukite prognozes savo kalba."
+   },
+   "gallery_weather_app_features_manage_favorites": {
+      "description": "- Quick access to your favorite places",
+      "message": "- Greita prieiga prie j\u016Bs\u0173 m\u0117gstam\u0173 viet\u0173."
+   },
+   "gallery_weather_app_features_notifications": {
+      "description": "- Real time notifications on weather changes",
+      "message": "- Prane\u0161imai realiuoju laiku apie or\u0173 prognoz\u0117s poky\u010Dius."
+   },
+   "hours": {
+      "description": "hours",
+      "message": "val."
+   },
+   "my_favorite_places": {
+      "description": "my favorite places",
+      "message": "mano m\u0117gstamos vietos"
+   },
+   "no_results_found": {
+      "description": "No results found",
+      "message": "Rezultat\u0173 nerasta"
+   },
+   "notifications": {
+      "description": "notifications (desktop notifications, alerts)",
+      "message": "prane\u0161imai"
+   },
+   "options": {
+      "description": "options",
+      "message": "parinktys"
+   },
+   "remove_from_favorite_places": {
+      "description": "remove from my favorite places",
+      "message": "\u0161alinti i\u0161 mano m\u0117gstam\u0173 viet\u0173"
+   },
+   "runs_as_extension": {
+      "description": "(extension version).",
+      "message": "(pl\u0117tinio versija)"
+   },
+   "search": {
+      "description": "search",
+      "message": "paie\u0161ka"
+   },
+   "search_city_input_placeholder": {
+      "description": "Enter a city or zip code (default text in the search box)",
+      "message": "\u012Eveskite miest\u0105 arba pa\u0161to kod\u0105"
+   },
+   "temperature_unit": {
+      "description": "temperature unit (celcius, farenheit)",
+      "message": "temperat\u016Bros vienetai"
+   },
+   "update": {
+      "description": "update (news update, weather update,...)",
+      "message": "naujinti"
+   },
+   "weather_app_description": {
+      "description": "This application geolocates you and displays in one click your favorite location weather forecasts.",
+      "message": "\u0160i programa nustato j\u016Bs\u0173 geografin\u0119 viet\u0105 ir vienu spustel\u0117jimu parodo j\u016Bs\u0173 m\u0117gstamos vietos or\u0173 prognozes."
+   },
+   "weather_app_name": {
+      "description": "Weather",
+      "message": "Orai"
+   },
+   "weather_extension_name": {
+      "description": "__MSG_weather_app_name__ (__MSG_extension__)",
+      "message": "Orai (pl\u0117tinys)"
+   },
+   "weather_forecast_updated_label": {
+      "description": "Weather forecast has been updated !",
+      "message": "Or\u0173 prognoz\u0117 atnaujinta!"
+   },
+   "weather_gallery_description": {
+      "description": "",
+      "message": "Oro pl\u0117tinys automati\u0161kai nustatys J\u016Bs\u0173 geografin\u0119 pad\u0117t\u012F ir parodys ar\u010Diausiai J\u016Bs\u0173 esan\u010Dio miesto or\u0173 prognoz\u0119. Nar\u0161ykl\u0117s \u017Eenkliuke matysite kiekvienos dienos or\u0173 prognoz\u0119 ir numatom\u0105 temperat\u016Br\u0105."
+   },
+   "weather_notifications_forecast_label": {
+      "description": "display notification on weather forecast change (checkbox)",
+      "message": "rodyti prane\u0161im\u0105 pakitus or\u0173 prognozei"
+   },
+   "weather_notifications_present_label": {
+      "description": "display notification on daily weather updates (checkbox)",
+      "message": "rodyti prane\u0161imus apie kasdienius or\u0173 prognoz\u0117s naujinius"
+   },
+   "weather_present_updated_label": {
+      "description": "Weather of the day has been updated !",
+      "message": "Dienos or\u0173 prognoz\u0117 atnaujinta!"
+   },
+   "weather_update_label": {
+      "description": "weather update interval",
+      "message": "or\u0173 prognoz\u0117s naujinimo intervalas"
+   }
+}

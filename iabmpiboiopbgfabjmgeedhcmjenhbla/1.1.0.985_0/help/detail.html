@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.1//EN" "http://www.openmobilealliance.org/tech/DTD/xhtml-mobile11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+  <head>
+    <title>Control Detail</title>
+	<meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />
+	<link rel="stylesheet" type="text/css" href="style.css"/>
+  </head>
+  <body>
+    <div class="breadcrumb">
+		<p><a href="index.html">Home</a> &gt; <a href="usage.html">Controlling index</a> &gt; Controlling detail</p>
+	</div>
+  	<p id="toolbar" class="heading1-top">Using the toolbar</p>
+	<p><i>VNC Viewer</i> has a toolbar containing buttons to perform key operations:</p>
+	<p><img src="toolbar.png"/></p>
+	<p>The toolbar appears at the bottom center of the web browser window. Hover the mouse over the stub if it is not visible. Pin <img class="bigger-size-button" src="toolbar-pin.png"/> the toolbar to show it permanently; otherwise, it disappears after a few seconds.</p>
+	
+	<p id="navigate" class="heading1">Navigating the desktop</p>
+	<p>If the host computer's desktop is larger than the web browser window, scroll bars appear.</p>
+	<p>If you trigger <img class="bigger-size-button" src="toolbar-fullscreen.png"/> full screen, bump the mouse cursor against an edge to scroll.</p>
+	
+	<p id="keyboardops" class="heading1">Performing particular keyboard operations</p>
+	<p>While the web browser window has focus, most keyboard key presses affect the host computer, so you should be able to type normally. However, certain important keys and key combinations affect the client computer instead. For example, pressing the <code>Start</code> key causes the <b>Start</b> menu to appear on the client rather than on the host computer (assuming both are running Windows).</p>
+	<p>To send modifier, function, and other important keyboard keys to the host computer, click <img class="bigger-size-button" src="toolbar-keys.png"/> to open the virtual keyboard:</p>
+	<p><img style="width: 520px;" src="overlay.png"/></p>
+	<p>On the virtual keyboard, note that:</p>
+	<ul>
+		<li>Modifier keys such as <code>Ctrl</code> are dark gray <img class="bigger-size-button" src="overlay-ctrl.png"/>. Clicking one turns it blue <img class="bigger-size-button" src="overlay-ctrl-blue.png"/> to indicate the key is held down ready to modify the next key press only.</li>
+		<li>The <code>Windows</code> (or <code>Super</code>) key appears twice: once as a modifier <img class="bigger-size-button" src="overlay-windows-modifier.png"/> and once as a single-press <img class="bigger-size-button" src="overlay-windows-singlepress.png"/> key. Click the former to perform a shortcut on the host computer, for example <code>Windows+D</code> to show the desktop under Windows. Click the latter to open the <b>Start</b> menu on a Windows host computer.</li>
+		<li>Click <img class="bigger-size-button" src="overlay-command.png"/> to send the <code>Command</code> (or <code>Apple</code>) key to a Mac host computer. Click <img class="bigger-size-button" src="overlay-option.png"/> to send the <code>Option</code> key.</li>		
+	</ul>
+
+	<p id="performance" class="heading1">Tweaking performance</p>
+	<p>For connections to computers running <i>VNC</i>, or legacy <i>VNC Enterprise Edition</i> or <i>VNC Personal Edition</i>, you can trade picture quality for speed and <i>vice versa</i> while the connection is in progress.</p>
+	<p>To do this, click <img class="bigger-size-button" src="toolbar-info.png"/> and then open <b>Picture Quality</b>. Choose  <code>Low</code> to make the connection faster but see potentially less detail, <code>High</code> to have full color at a potential cost in speed, or let the host computer decide.</p>
+	<p>If you retain the default <code>Automatic</code> option, <i>VNC Viewer</i> automatically optimizes performance according to the speed of the network connection.</p>
+
+	<p id="info" class="heading1">Viewing connection information</p>
+	<p>Click <img class="bigger-size-button" src="toolbar-info.png"/> to bring up information about the current connection. This may be useful if you contact Technical Support.</p>
+	<p>Note that only connections to host computers running <i>VNC</i> with a Personal or an Enterprise license, or legacy <i>VNC Enterprise Edition</i> or <i>VNC Personal Edition</i>, are encrypted end-to-end (though authentication credentials are always encrypted).</p>
+	<p>The level of encryption is determined by <i>VNC Server</i>. Upgrade your computer to this technology if security is important to you.</p>
+
+	<p id="close" class="heading1">Closing the connection</p>
+	<p>Click <img class="bigger-size-button" src="toolbar-disconnect.png"/> and then <b>Disconnect</b> to close the current connection. Alternatively, close the web browser tab or the Google Chrome window itself.</p>
+  </body>
+</html>

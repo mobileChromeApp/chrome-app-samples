@@ -1,0 +1,134 @@
+{
+   "extension": {
+      "description": "extension (browser extension, add-on)",
+      "message": "ekstensi"
+   },
+   "gallery_extensionfactory_promo": {
+      "description": "Check out our other great extensions and web apps at http://www.extensionfactory.com",
+      "message": "Lihat ekstensi lain dan aplikasi web kami yang hebat di http://www.extensionfactory.com"
+   },
+   "gallery_features": {
+      "description": "Features (ex: list of features)",
+      "message": "Fitur-fitur"
+   },
+   "gallery_features_preferences": {
+      "description": "- Notifications and options preferences",
+      "message": "- Pemberitahuan dan preferensi pilihan"
+   },
+   "gallery_features_search_for_places": {
+      "description": "- Search by city or zip code",
+      "message": "- Cari berdasarkan kota atau kode pos"
+   },
+   "gallery_help_us": {
+      "description": "Help us to make this application better!",
+      "message": "Bantu kami untuk membuat aplikasi ini menjadi lebih baik!"
+   },
+   "gallery_help_us_comments": {
+      "description": "- we're happy to read and reply to your comments as well.",
+      "message": "- kami senang membaca dan membalas komentar-komentar Anda juga."
+   },
+   "gallery_help_us_stars": {
+      "description": "- if you like this product, please give it stars :)",
+      "message": "- jika Anda menyukai produk ini, mohon berikan penilaian Anda :)"
+   },
+   "gallery_privacy": {
+      "description": "Privacy matters!",
+      "message": "Kerahasiaan data sangatlah penting!"
+   },
+   "gallery_privacy_browsing_history": {
+      "description": "- we do NOT store your browsing history! Although access to the chrome.tabs API is required, the application will never look or save your history. Please read http://code.google.com/chrome/extensions/permission_warnings.html#warnings for more information.",
+      "message": "- kami TIDAK menyimpan riwayat browsing Anda! Meskipun akses ke API chrome.tabs diperlukan, aplikasi ini tidak akan pernah melihat atau menyimpan riwayat browsing Anda. Silakan baca http://code.google.com/chrome/extensions/permission_warnings.html#warnings untuk informasi lebih lanjut."
+   },
+   "gallery_privacy_personal_data": {
+      "description": "- we do NOT send any data to any third party servers.",
+      "message": "- kami TIDAK mengirimkan data apapun ke server pihak ketiga manapun."
+   },
+   "gallery_weather_app_features_geolocation": {
+      "description": "- Instant geolocation and localization: get forecasts in your language",
+      "message": "- Geolokasi dan lokalisasi instan: dapatkan prakiraan dalam bahasa Anda"
+   },
+   "gallery_weather_app_features_manage_favorites": {
+      "description": "- Quick access to your favorite places",
+      "message": "- Akses cepat ke tempat-tempat favorit Anda"
+   },
+   "gallery_weather_app_features_notifications": {
+      "description": "- Real time notifications on weather changes",
+      "message": "- Pemberitahuan secara real time tentang perubahan cuaca"
+   },
+   "hours": {
+      "description": "hours",
+      "message": "jam"
+   },
+   "my_favorite_places": {
+      "description": "my favorite places",
+      "message": "tempat-tempat favorit saya"
+   },
+   "no_results_found": {
+      "description": "No results found",
+      "message": "Tidak ada hasil yang ditemukan"
+   },
+   "notifications": {
+      "description": "notifications (desktop notifications, alerts)",
+      "message": "pemberitahuan"
+   },
+   "options": {
+      "description": "options",
+      "message": "pilihan"
+   },
+   "remove_from_favorite_places": {
+      "description": "remove from my favorite places",
+      "message": "hapus dari tempat favorit saya"
+   },
+   "runs_as_extension": {
+      "description": "(extension version).",
+      "message": "(versi ekstensi)."
+   },
+   "search": {
+      "description": "search",
+      "message": "cari"
+   },
+   "search_city_input_placeholder": {
+      "description": "Enter a city or zip code (default text in the search box)",
+      "message": "Masukkan kota atau kode pos"
+   },
+   "temperature_unit": {
+      "description": "temperature unit (celcius, farenheit)",
+      "message": "unit suhu"
+   },
+   "update": {
+      "description": "update (news update, weather update,...)",
+      "message": "pembaruan"
+   },
+   "weather_app_description": {
+      "description": "This application geolocates you and displays in one click your favorite location weather forecasts.",
+      "message": "Aplikasi ini melacak geolokasi Anda dan menampilkan prakiraan cuaca lokasi favorit Anda hanya dengan sekali klik saja."
+   },
+   "weather_app_name": {
+      "description": "Weather",
+      "message": "Cuaca"
+   },
+   "weather_extension_name": {
+      "description": "__MSG_weather_app_name__ (__MSG_extension__)",
+      "message": "Cuaca (ekstensi)"
+   },
+   "weather_forecast_updated_label": {
+      "description": "Weather forecast has been updated !",
+      "message": "Ramalan cuaca telah diperbarui!"
+   },
+   "weather_notifications_forecast_label": {
+      "description": "display notification on weather forecast change (checkbox)",
+      "message": "tampilkan pemberitahuan tentang perubahan prakiraan cuaca"
+   },
+   "weather_notifications_present_label": {
+      "description": "display notification on daily weather updates (checkbox)",
+      "message": "tampilkan pemberitahuan tentang pembaruan cuaca harian"
+   },
+   "weather_present_updated_label": {
+      "description": "Weather of the day has been updated !",
+      "message": "Cuaca hari ini telah diperbarui!"
+   },
+   "weather_update_label": {
+      "description": "weather update interval",
+      "message": "jeda waktu pembaruan cuaca"
+   }
+}

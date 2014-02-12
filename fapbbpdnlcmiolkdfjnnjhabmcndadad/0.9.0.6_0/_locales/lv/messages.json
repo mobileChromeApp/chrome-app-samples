@@ -1,0 +1,138 @@
+{
+   "extension": {
+      "description": "extension (browser extension, add-on)",
+      "message": "papla\u0161in\u0101jums"
+   },
+   "gallery_extensionfactory_promo": {
+      "description": "Check out our other great extensions and web apps at http://www.extensionfactory.com",
+      "message": "Iepaz\u012Bstiet p\u0101r\u0113jos m\u016Bsu lieliskos papla\u0161in\u0101jumus un t\u012Bmek\u013Ca lietotnes vietn\u0113 http://www.extensionfactory.com"
+   },
+   "gallery_features": {
+      "description": "Features (ex: list of features)",
+      "message": "Funkcijas"
+   },
+   "gallery_features_preferences": {
+      "description": "- Notifications and options preferences",
+      "message": "- Pazi\u0146ojumu un opciju preferences"
+   },
+   "gallery_features_search_for_places": {
+      "description": "- Search by city or zip code",
+      "message": "- Mekl\u0113\u0161ana p\u0113c pils\u0113tas vai pasta indeksa"
+   },
+   "gallery_help_us": {
+      "description": "Help us to make this application better!",
+      "message": "Pal\u012Bdziet mums uzlabot \u0161o lietotni!"
+   },
+   "gallery_help_us_comments": {
+      "description": "- we're happy to read and reply to your comments as well.",
+      "message": "- m\u0113s ar\u012B ar prieku las\u012Bsim un atbild\u0113sim uz j\u016Bsu koment\u0101riem."
+   },
+   "gallery_help_us_stars": {
+      "description": "- if you like this product, please give it stars :)",
+      "message": "- ja jums pat\u012Bk \u0161is produkts, pie\u0161\u0137iriet tam zvaigzn\u012Btes :)"
+   },
+   "gallery_privacy": {
+      "description": "Privacy matters!",
+      "message": "Konfidencialit\u0101tei ir noz\u012Bme!"
+   },
+   "gallery_privacy_browsing_history": {
+      "description": "- we do NOT store your browsing history! Although access to the chrome.tabs API is required, the application will never look or save your history. Please read http://code.google.com/chrome/extensions/permission_warnings.html#warnings for more information.",
+      "message": "- M\u0113s nesaglab\u0101jam j\u016Bsu p\u0101rl\u016Bko\u0161anas v\u0113sturi! Lai ar\u012B ir nepiecie\u0161ama piek\u013Cuve chrome.tabs API, p\u0101rl\u016Bkprogramma nekad neizg\u016Bs un nesaglab\u0101s j\u016Bsu p\u0101rl\u016Bko\u0161anas v\u0113sturi. Lai uzzin\u0101tu vair\u0101k, izlasiet http://code.google.com/chrome/extensions/permission_warnings.html#warnings"
+   },
+   "gallery_privacy_personal_data": {
+      "description": "- we do NOT send any data to any third party servers.",
+      "message": "- M\u0113s NES\u016ATAM datus uz tre\u0161o pu\u0161u serveriem."
+   },
+   "gallery_weather_app_features_geolocation": {
+      "description": "- Instant geolocation and localization: get forecasts in your language",
+      "message": "- T\u016Bl\u012Bt\u0113ja \u0123eolok\u0101cija un lokaliz\u0101cija: sa\u0146emiet laika prognozes sav\u0101 valod\u0101"
+   },
+   "gallery_weather_app_features_manage_favorites": {
+      "description": "- Quick access to your favorite places",
+      "message": "- \u0100tra piek\u013Cuve j\u016Bsu iecien\u012Btaj\u0101m viet\u0101m"
+   },
+   "gallery_weather_app_features_notifications": {
+      "description": "- Real time notifications on weather changes",
+      "message": "- Pazi\u0146ojumi re\u0101llaik\u0101 par laikapst\u0101k\u013Cu izmai\u0146\u0101m"
+   },
+   "hours": {
+      "description": "hours",
+      "message": "stundas"
+   },
+   "my_favorite_places": {
+      "description": "my favorite places",
+      "message": "manas iecien\u012Bt\u0101s vietnes"
+   },
+   "no_results_found": {
+      "description": "No results found",
+      "message": "Nav atrasts neviens rezult\u0101ts"
+   },
+   "notifications": {
+      "description": "notifications (desktop notifications, alerts)",
+      "message": "pazi\u0146ojumi"
+   },
+   "options": {
+      "description": "options",
+      "message": "opcijas"
+   },
+   "remove_from_favorite_places": {
+      "description": "remove from my favorite places",
+      "message": "no\u0146emt no man\u0101m iecien\u012Btaj\u0101m viet\u0101m"
+   },
+   "runs_as_extension": {
+      "description": "(extension version).",
+      "message": "(papla\u0161in\u0101juma versija)."
+   },
+   "search": {
+      "description": "search",
+      "message": "mekl\u0113\u0161ana"
+   },
+   "search_city_input_placeholder": {
+      "description": "Enter a city or zip code (default text in the search box)",
+      "message": "Ievadiet pils\u0113tu vai pasta indeksu"
+   },
+   "temperature_unit": {
+      "description": "temperature unit (celcius, farenheit)",
+      "message": "temperat\u016Bras vien\u012Bba"
+   },
+   "update": {
+      "description": "update (news update, weather update,...)",
+      "message": "atjaunin\u0101t"
+   },
+   "weather_app_description": {
+      "description": "This application geolocates you and displays in one click your favorite location weather forecasts.",
+      "message": "\u0160\u012B lietotne nosaka j\u016Bsu atra\u0161an\u0101s vietu un ar vienu klik\u0161\u0137i ir iesp\u0113jams skat\u012Bt laika prognozes j\u016Bsu iecien\u012Btaj\u0101m viet\u0101m."
+   },
+   "weather_app_name": {
+      "description": "Weather",
+      "message": "Laikapst\u0101k\u013Ci"
+   },
+   "weather_extension_name": {
+      "description": "__MSG_weather_app_name__ (__MSG_extension__)",
+      "message": "Laikapst\u0101k\u013Ci (papla\u0161in\u0101jums)"
+   },
+   "weather_forecast_updated_label": {
+      "description": "Weather forecast has been updated !",
+      "message": "Laikapst\u0101k\u013Cu prognoze ir atjaunin\u0101ta!"
+   },
+   "weather_gallery_description": {
+      "description": "",
+      "message": "Laikapst\u0101k\u013Cu papla\u0161in\u0101jums autom\u0101tiski nor\u0101d\u012Bs tavu atra\u0161an\u0101s vietu kart\u0113 un par\u0101d\u012Bs laika prognozi tuv\u0101kaj\u0101 pils\u0113t\u0101. P\u0101rl\u016Bka ikona r\u0101da dienas laika prognozi un temperat\u016Bru."
+   },
+   "weather_notifications_forecast_label": {
+      "description": "display notification on weather forecast change (checkbox)",
+      "message": "r\u0101d\u012Bt pazi\u0146ojumu par laikapst\u0101k\u013Cu prognozes izmai\u0146\u0101m"
+   },
+   "weather_notifications_present_label": {
+      "description": "display notification on daily weather updates (checkbox)",
+      "message": "r\u0101d\u012Bt pazi\u0146ojumu par ikdienas laikapst\u0101k\u013Cu atjaunin\u0101jumu"
+   },
+   "weather_present_updated_label": {
+      "description": "Weather of the day has been updated !",
+      "message": "Inform\u0101cija par laikapst\u0101k\u013Ciem ir atjaunin\u0101ta!"
+   },
+   "weather_update_label": {
+      "description": "weather update interval",
+      "message": "laikapst\u0101k\u013Cu inform\u0101cijas atjaunin\u0101\u0161anas interv\u0101ls"
+   }
+}

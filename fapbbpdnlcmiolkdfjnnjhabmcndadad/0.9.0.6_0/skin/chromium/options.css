@@ -1,0 +1,22 @@
+@import url("chrome_shared.css");
+@import url("button.css");
+@import url("list.css");
+@import url("select.css");
+
+
+#navbar-content-title img {
+	max-width:32px;
+	max-height:32px;
+	vertical-align: bottom;
+}
+
+section {
+    border-bottom: 1px solid #EEE;
+    display: block;
+    margin-top: 17px;
+    padding-bottom: 20px;
+}
+
+input[type = checkbox], input[type = radio] {
+    margin: 3px 0.5ex;
+}

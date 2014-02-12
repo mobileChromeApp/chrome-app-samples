@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+	<!--
+	Copyright (c) 2011 The Native Client Authors. All rights reserved.
+	Use of this source code is governed by a BSD-style license that can be
+	found in the LICENSE file.
+	-->
+<head>
+	<title>Unity Native Client Player | Running Fred</title>
+	<script type="text/javascript" src="unity_nacl_files_3.x.x/unity_nacl.js"></script>
+	<script type="text/javascript" src="jsapi.js"></script>
+	<script type="text/javascript" src="payments.js"></script>
+	
+<style type="text/css">
+		body
+		{
+			background-color: #7D47B3;
+			background-image: url(res/background.png);
+			background-repeat: repeat;
+			background-attachment:fixed;
+			background-position:center top; 
+		}
+		  		
+		#content {
+		   width: 1232px;
+		   margin-left: auto;
+		   margin-right: auto;
+		   height: 600px;
+		}
+		
+		#container 
+		{
+			position: absolute;
+   			top: 12;
+   			left: 0;
+   			width: 100%;
+			text-align: left;
+		}
+
+		.tableGame
+		{
+			background-image: url(res/contentFrameGame.png);
+			background-repeat: no-repeat;
+		}
+
+</style>
+
+</head>
+<body style="text-align: center">
+
+<table>
+	<tr height="600">
+	<td width="136" valign="top">
+		<img align="center" src="res/leftbanner.png" usemap="#leftBannerMap">
+		<map name="leftBannerMap">
+			<area shape="rect" coords="0,172,136,215" href="https://itunes.apple.com/app/running-fred/id492146903">
+			<area shape="rect" coords="0,216,136,265" href="https://market.android.com/details?id=com.dedalord.runningfred">
+			<area shape="rect" coords="0,266,136,312" href="http://www.amazon.com/Running-Fred-Kindle-Tablet-Edition/dp/B00BK81QPE">
+			<area shape="rect" coords="0,316,136,360" href="http://appworld.blackberry.com/webstore/content/115089/">
+			
+			<area shape="rect" coords="0,518,136,567" href="https://itunes.apple.com/app/skiing-fred/id633504724">
+			
+		</map>
+	</td>
+	<td width="960">
+
+		<div id="listener">
+			<script src="unity_nacl_files_3.x.x/listener.js"></script>
+			<img id="Logo" src="res/rflogo.png" width="140" height="71">
+			<img id="Progress" src="unity_nacl_files_3.x.x/unityprogress.png">
+			<img id="ProgressFrame" src="unity_nacl_files_3.x.x/unityprogressframe.png">
+			<div id="Status"></div>
+			<div id="Unity" style="width: 960px; height: 600px; padding: 0px; border: none; margin: 0px auto;">
+			<embed name="nacl_module"
+			id="UnityEmbed"
+			width="960" height="600"
+			src="unity_nacl_files_3.x.x/unity.nmf"
+			type="application/x-nacl"
+			onload="moduleDidLoad();" 
+			data="RunningFredNaCl.unity3d"
+			/>
+
+
+			</div>
+		</div>
+	</td>
+	<td width="136" valign="top">
+		<img align="center" src="res/rightbanner.png" usemap="#rightBannereMap">
+		<map name="rightBannereMap">
+			<area shape="rect" coords="0,150,110,194" href="https://itunes.apple.com/app/super-falling-fred/id561440337">
+			<area shape="rect" coords="0,195,110,245" href="https://play.google.com/store/apps/details?id=com.dedalord.superfallingfred">
+			<area shape="rect" coords="0,418,110,461" href="https://itunes.apple.com/app/psychoban/id378692853">
+			<area shape="rect" coords="0,462,110,505" href="https://market.android.com/details?id=com.dedalord.psychoban">
+			<area shape="rect" coords="0,506,110,551" href="http://appworld.blackberry.com/webstore/content/64379">
+			<area shape="rect" coords="0,552,110,600" href="https://itunes.apple.com/app/psychoban/id414886933">	
+		</map>
+	</td>
+	</tr>
+
+	<tr height="115">
+	<td></td>
+	<td>
+		<img align="center" src="res/contentFooter.png" usemap="#footerMap">
+		<map name="footerMap">
+		</map>
+	</td>
+	<td></td>
+	</tr>
+
+</table>
+
+</body>
+</html>

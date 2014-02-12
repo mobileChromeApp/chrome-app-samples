@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "FPS multijoueurs en ligne gratuit"
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store.",
+      "message": "Battlefield Play4Free"
+   }
+}

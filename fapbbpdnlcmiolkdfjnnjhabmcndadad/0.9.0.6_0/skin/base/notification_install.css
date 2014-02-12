@@ -1,0 +1,84 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    margin: 0px;
+    color: #333;
+    overflow: hidden;
+}
+
+.title {
+    background: url('../../icons/icon-32.png') left no-repeat;
+    padding-left: 26px;
+    background-size: 24px;
+    margin: 4px;
+    margin-bottom: 8px;
+    font-size: 18px;
+    font-weight: bolder;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+
+.description {
+    margin: 0px 8px;
+}
+
+.arrow {
+    font-size: 24px;
+    text-align: center;
+    margin: -4px;
+}
+
+#result{
+    display:inline-block;
+    float:left;
+    color:red;
+}
+
+.buttons {
+    border-top: 1px solid #aaa;
+    background-color: #eee;
+    text-align: center;
+}
+
+.controls {
+    /*-webkit-border-before: 1px solid #bbb;
+     background-color:ThreeDFace;*/
+    font-size: 10px;
+    text-align: right;
+    padding: 1px;
+    display: block;
+    width: 100%;
+}
+
+.controls input {
+    vertical-align: sub;
+    /*
+     -webkit-transform: scale(0.8);
+     -moz-transform: scale(0.8);
+    */
+    width: 10px;
+    height: 10px;
+    margin: 1px;
+}
+
+.controls span {
+    margin-right: 4px;
+}
+
+button {
+    text-align: center;
+}
+
+#target {
+    float: left;
+}
+
+.tips {
+    display: inline-block;
+    width: 12px;
+    height: 12px;
+    margin-right: 2px;
+    background: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAB4ElEQVQ4T2VT2aoqMRDsHPdd3EV9UFQQBB/8/09QXwRFfRFxX8ANXNA5U8VNyL03kEkmnap09aLEGo47LpeLnM9nud/v8ng8aA0GgxKLxSQajUoikRDlDg0zm9fr5Wy3W9ntdrS5XLjIVf97PB7JZrOSz+fF7/cTy8/z+XRWq5Ucj0eCNCAej3MPj6xHJZVKSalUkkAgoNT3+yV4vV6bS8lkUqrVqvz8/JDg8/nIZDKhLJy5GHpRqVREuZqd2WxGVzFxodPpkAxyXFcFhAANh0N5v9+0QQ4eUYvFgtr1KBQKdO9wOMh8Pudxt9vlCi+u16uRWCwWRY3HYweHWqOrC9oQF85wOCytVosgeIDMwEt4G4lERA0GAwcaQQA3Gdk/gcxkMlIul+nuZrOR5XJpPMUGRCQAEFMzwwhQu90Wr9dLKZAEu35M31Gj0chBdO2cw4gUNhoNQWFNp1Oj204zCuu/IOoa8Pl81P9vHdgPIeAmjVq/TiXYm80mCfr9PiXaxQQ5tVpNWEgIDlKpwbiM3NfrdRL0ej0TPH0HJc1CggWlDJLT6fRXlO0fmzydTjM76AfTTCBB5e33e5NOTaDBkJDL5dhQ6AOm3H4Fcm63G5sHq27nUCjEokErIzaufoP7BTpNL+mixrTOAAAAAElFTkSuQmCC') no-repeat center;
+    background-size: 100%;
+}

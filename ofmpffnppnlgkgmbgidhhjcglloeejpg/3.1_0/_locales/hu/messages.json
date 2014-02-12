@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "Kapcsolja be a kamer\u00E1t, \u00E9s k\u00E9peket, f\u00E9nyk\u00E9peket, vagy egy k\u00E9pet a webkamera. Hasznosabb, mint egy j\u00E1t\u00E9k.",
+      "message": "Kapcsolja be a kamer\u00E1t, \u00E9s k\u00E9peket, f\u00E9nyk\u00E9peket, vagy egy k\u00E9pet a webkamera. Hasznosabb, mint egy j\u00E1t\u00E9k."
+   },
+   "appName": {
+      "description": "Kapcsolja be a kamer\u00E1t, \u00E9s k\u00E9peket, f\u00E9nyk\u00E9peket, vagy egy k\u00E9pet a webkamera. Hasznosabb, mint egy j\u00E1t\u00E9k.",
+      "message": "Kamera"
+   }
+}

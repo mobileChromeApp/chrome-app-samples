@@ -1,0 +1,138 @@
+{
+   "extension": {
+      "description": "extension (browser extension, add-on)",
+      "message": "extension"
+   },
+   "gallery_extensionfactory_promo": {
+      "description": "Check out our other great extensions and web apps at http://www.extensionfactory.com",
+      "message": "D\u00E9couvrez nos autres applications Web et extensions navigateur en visitant http://www.extensionfactory.com"
+   },
+   "gallery_features": {
+      "description": "Features (ex: list of features)",
+      "message": "Caract\u00E9ristiques"
+   },
+   "gallery_features_preferences": {
+      "description": "- Notifications and options preferences",
+      "message": "- Pr\u00E9f\u00E9rences en mati\u00E8re d'options et de notifications"
+   },
+   "gallery_features_search_for_places": {
+      "description": "- Search by city or zip code",
+      "message": "- Affinez votre recherche par ville ou par code postal"
+   },
+   "gallery_help_us": {
+      "description": "Help us to make this application better!",
+      "message": "Contribuez \u00E0 l'am\u00E9lioration de cette application !"
+   },
+   "gallery_help_us_comments": {
+      "description": "- we're happy to read and reply to your comments as well.",
+      "message": "- nous sommes \u00E9galement ravis de lire vos commentaires et d'y r\u00E9pondre."
+   },
+   "gallery_help_us_stars": {
+      "description": "- if you like this product, please give it stars :)",
+      "message": "- si vous aimez ce produit, merci de bien vouloir lui attribuer des \u00E9toiles :)"
+   },
+   "gallery_privacy": {
+      "description": "Privacy matters!",
+      "message": "La confidentialit\u00E9, \u00E7a compte !"
+   },
+   "gallery_privacy_browsing_history": {
+      "description": "- we do NOT store your browsing history! Although access to the chrome.tabs API is required, the application will never look or save your history. Please read http://code.google.com/chrome/extensions/permission_warnings.html#warnings for more information.",
+      "message": "- nous n'enregistrons PAS votre historique de navigation ! Bien que l'acc\u00E8s \u00E0 l'interface de programmation chrome.tabs est n\u00E9cessaire, l'application n'examinera ni n'enregistrera en aucun cas votre historique. Pour en savoir plus, veuillez consutler http://code.google.com/chrome/extensions/permission_warnings.html#warnings."
+   },
+   "gallery_privacy_personal_data": {
+      "description": "- we do NOT send any data to any third party servers.",
+      "message": "- nous ne partageons AUCUNES donn\u00E9es avec des serveurs tiers."
+   },
+   "gallery_weather_app_features_geolocation": {
+      "description": "- Instant geolocation and localization: get forecasts in your language",
+      "message": "- G\u00E9olocalisation et localisation instantan\u00E9es : obtenez des pr\u00E9visions dans votre langue"
+   },
+   "gallery_weather_app_features_manage_favorites": {
+      "description": "- Quick access to your favorite places",
+      "message": "- Acc\u00E8s rapide \u00E0 vos endroits pr\u00E9f\u00E9r\u00E9s"
+   },
+   "gallery_weather_app_features_notifications": {
+      "description": "- Real time notifications on weather changes",
+      "message": "- Notifications en temps r\u00E9el de l'\u00E9volution des conditions m\u00E9t\u00E9o"
+   },
+   "hours": {
+      "description": "hours",
+      "message": "heures"
+   },
+   "my_favorite_places": {
+      "description": "my favorite places",
+      "message": "mes endroits pr\u00E9f\u00E9r\u00E9s"
+   },
+   "no_results_found": {
+      "description": "No results found",
+      "message": "Votre recherche n'a retourn\u00E9 aucun r\u00E9sultat"
+   },
+   "notifications": {
+      "description": "notifications (desktop notifications, alerts)",
+      "message": "notifications"
+   },
+   "options": {
+      "description": "options",
+      "message": "options"
+   },
+   "remove_from_favorite_places": {
+      "description": "remove from my favorite places",
+      "message": "supprimer de la liste de mes endroits pr\u00E9f\u00E9r\u00E9s"
+   },
+   "runs_as_extension": {
+      "description": "(extension version).",
+      "message": "(version de l'extension)."
+   },
+   "search": {
+      "description": "search",
+      "message": "lancer la recherche"
+   },
+   "search_city_input_placeholder": {
+      "description": "Enter a city or zip code (default text in the search box)",
+      "message": "Saisissez une ville ou un code postal"
+   },
+   "temperature_unit": {
+      "description": "temperature unit (celcius, farenheit)",
+      "message": "unit\u00E9 de temp\u00E9rature"
+   },
+   "update": {
+      "description": "update (news update, weather update,...)",
+      "message": "mise \u00E0 jour"
+   },
+   "weather_app_description": {
+      "description": "This application geolocates you and displays in one click your favorite location weather forecasts.",
+      "message": "Cette application vous g\u00E9olocalise et affiche en un seul clic les pr\u00E9visions m\u00E9t\u00E9o correspondant \u00E0 vos endroits pr\u00E9f\u00E9r\u00E9s."
+   },
+   "weather_app_name": {
+      "description": "Weather",
+      "message": "M\u00E9t\u00E9o"
+   },
+   "weather_extension_name": {
+      "description": "__MSG_weather_app_name__ (__MSG_extension__)",
+      "message": "M\u00E9t\u00E9o (extension)"
+   },
+   "weather_forecast_updated_label": {
+      "description": "Weather forecast has been updated !",
+      "message": "Les pr\u00E9visions m\u00E9t\u00E9o ont \u00E9t\u00E9 actualis\u00E9es !"
+   },
+   "weather_gallery_description": {
+      "description": "Weather gallery long description",
+      "message": "L'extension M\u00E9t\u00E9o vous g\u00E9olocalise \u00E0 la premi\u00E8re installation et affiche instantan\u00E9ment la m\u00E9t\u00E9o de la ville la plus proche. Une icone int\u00E9gr\u00E9e \u00E0 votre navigateur vous indique en permanence la m\u00E9t\u00E9o et la temp\u00E9rature du jour!"
+   },
+   "weather_notifications_forecast_label": {
+      "description": "display notification on weather forecast change (checkbox)",
+      "message": "afficher la notification de l'\u00E9volution des pr\u00E9visions m\u00E9t\u00E9o"
+   },
+   "weather_notifications_present_label": {
+      "description": "display notification on daily weather updates (checkbox)",
+      "message": "afficher une notification lors des mises \u00E0 jour quotidiennes de la m\u00E9t\u00E9o"
+   },
+   "weather_present_updated_label": {
+      "description": "Weather of the day has been updated !",
+      "message": "La m\u00E9t\u00E9o d'aujourd'hui a \u00E9t\u00E9 mise \u00E0 jour !"
+   },
+   "weather_update_label": {
+      "description": "weather update interval",
+      "message": "intervalle de mise \u00E0 jour de la m\u00E9t\u00E9o"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://dw.weather.com/services/chrome/chrome/index_f.html"
+      },
+      "urls": [ "http://dw.weather.com/services/chrome/chrome/index_f.html" ]
+   },
+   "description": "Get forecasts and the current conditions for up to nine saved locations. Includes a radar map, hourly, daily and a 36 hour forecast.",
+   "icons": {
+      "128": "icon128.png",
+      "16": "icon16.png",
+      "48": "icon48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDa4d+RoG99S63tx7RKUcJhNGOf07uAe0KmfH9Zwzsg+jCQNHH5ReCGT/luCD3Xk5wW0yVopveB0csly6YHc3XTaRsLm6B1jlv0Ckc6fspLHakrrvZYA8WcvFLg+36wR0MO/PmSkVU5ggaKzhbEh+y1/dTkTYGN5hPbdNXtP8RnVwIDAQAB",
+   "name": "The Weather Channel for Chrome",
+   "permissions": [ "geolocation", "unlimitedStorage", "notifications" ],
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "1.0.0.4"
+}

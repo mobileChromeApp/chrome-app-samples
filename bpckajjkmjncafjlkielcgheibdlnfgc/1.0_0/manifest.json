@@ -1,0 +1,20 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://www.justclassicgames.com/"
+      },
+      "urls": [ "http://www.justclassicgames.com/" ]
+   },
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "icons": {
+      "128": "128.png",
+      "24": "24.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDZdn38PR5RKaLhDa3oQrfarVu/5Is0+K/HwW7d73+wSuQteMD27MO1/5fO9UfbjZWMx3EbETCMCwzzK0AgZyuw0klkSQj32EIRKELyvo/cF6+eXc3PlFL/G75Gtc6d0it0GQdCU6y9TTeBWixOn4Ti2CeU4cGlbRbHY48FDmhG8wIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_appName__",
+   "permissions": [ "unlimitedStorage", "notifications" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0"
+}

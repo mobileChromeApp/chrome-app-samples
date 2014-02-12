@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Gratis Online-Multiplayer First-Person Shooter"
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store.",
+      "message": "Battlefield Play4Free"
+   }
+}

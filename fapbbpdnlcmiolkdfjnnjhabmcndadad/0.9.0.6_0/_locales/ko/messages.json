@@ -1,0 +1,138 @@
+{
+   "extension": {
+      "description": "extension (browser extension, add-on)",
+      "message": "\uD655\uC7A5\uD504\uB85C\uADF8\uB7A8"
+   },
+   "gallery_extensionfactory_promo": {
+      "description": "Check out our other great extensions and web apps at http://www.extensionfactory.com",
+      "message": "http://www.extensionfactory.com\uC5D0\uC11C \uB2E4\uB978 \uD655\uC7A5\uD504\uB85C\uADF8\uB7A8 \uBC0F \uC6F9 \uC571\uC2A4\uB97C \uD655\uC778\uD558\uC138\uC694."
+   },
+   "gallery_features": {
+      "description": "Features (ex: list of features)",
+      "message": "\uAE30\uB2A5"
+   },
+   "gallery_features_preferences": {
+      "description": "- Notifications and options preferences",
+      "message": "- \uC54C\uB9BC\uACFC \uC635\uC158 \uC18D\uC131"
+   },
+   "gallery_features_search_for_places": {
+      "description": "- Search by city or zip code",
+      "message": "- \uB3C4\uC2DC \uB610\uB294 \uC6B0\uD3B8\uBC88\uD638\uB85C \uAC80\uC0C9"
+   },
+   "gallery_help_us": {
+      "description": "Help us to make this application better!",
+      "message": "\uC774 \uC560\uD50C\uB9AC\uCF00\uC774\uC158\uC744 \uB354 \uC798 \uB9CC\uB4E4 \uC218 \uC788\uB3C4\uB85D \uB3C4\uC640\uC8FC\uC2ED\uC2DC\uC624!"
+   },
+   "gallery_help_us_comments": {
+      "description": "- we're happy to read and reply to your comments as well.",
+      "message": "- \uADC0\uD558\uC758 \uC758\uACAC\uC744 \uAE30\uC058\uAC8C \uC77D\uACE0 \uB610\uD55C \uB2F5\uBCC0\uD569\uB2C8\uB2E4."
+   },
+   "gallery_help_us_stars": {
+      "description": "- if you like this product, please give it stars :)",
+      "message": "- \uC774 \uC81C\uD488\uC774 \uB9C8\uC74C\uC5D0 \uB4DC\uC2DC\uBA74 \uBCC4\uD45C\uB97C \uC8FC\uC138\uC694 :)"
+   },
+   "gallery_privacy": {
+      "description": "Privacy matters!",
+      "message": "\uAC1C\uC778\uC815\uBCF4 \uBCF4\uD638 \uBB38\uC81C\uC785\uB2C8\uB2E4!"
+   },
+   "gallery_privacy_browsing_history": {
+      "description": "- we do NOT store your browsing history! Although access to the chrome.tabs API is required, the application will never look or save your history. Please read http://code.google.com/chrome/extensions/permission_warnings.html#warnings for more information.",
+      "message": "- \uADC0\uD558\uC758 \uBE0C\uB77C\uC6B0\uC9D5 \uAE30\uB85D\uC744 \uBCF4\uAD00\uD558\uC9C0 \uC54A\uC2B5\uB2C8\uB2E4! chrome.tabs API\uC5D0 \uC811\uC18D\uD574\uC57C \uD558\uC9C0\uB9CC, \uC774 \uC560\uD50C\uB9AC\uCF00\uC774\uC158\uC740 \uADC0\uD558\uC758 \uAE30\uB85D\uC744 \uBCF4\uAC70\uB098 \uC800\uC7A5\uD558\uC9C0 \uC54A\uC2B5\uB2C8\uB2E4. \uB354 \uC790\uC138\uD55C \uC815\uBCF4\uB294 http://code.google.com/chrome/extensions/permission_warnings.html#warnings \uB97C \uC77D\uC5B4 \uC8FC\uC2ED\uC2DC\uC624. "
+   },
+   "gallery_privacy_personal_data": {
+      "description": "- we do NOT send any data to any third party servers.",
+      "message": "- \uC800\uD76C\uB294 \uC5B4\uB5A0\uD55C \uB370\uC774\uD130\uB3C4 \uC81C 3\uC790 \uC11C\uBC84\uC5D0 \uBCF4\uB0B4\uC9C0 \uC54A\uC2B5\uB2C8\uB2E4."
+   },
+   "gallery_weather_app_features_geolocation": {
+      "description": "- Instant geolocation and localization: get forecasts in your language",
+      "message": "- \uC778\uC2A4\uD0C4\uD2B8 geolocation \uBC0F localization: \uADC0\uD558\uC758 \uC5B8\uC5B4\uB85C \uB41C \uC608\uCE21"
+   },
+   "gallery_weather_app_features_manage_favorites": {
+      "description": "- Quick access to your favorite places",
+      "message": "- \uC120\uD638\uD558\uB294 \uC7A5\uC18C\uC5D0 \uBE60\uB974\uAC8C \uC811\uC18D"
+   },
+   "gallery_weather_app_features_notifications": {
+      "description": "- Real time notifications on weather changes",
+      "message": "- \uB0A0\uC528 \uBCC0\uD654\uC5D0 \uB300\uD55C \uC2E4\uC2DC\uAC04 \uC54C\uB9BC"
+   },
+   "hours": {
+      "description": "hours",
+      "message": "\uC2DC\uAC04"
+   },
+   "my_favorite_places": {
+      "description": "my favorite places",
+      "message": "\uC120\uD638\uD558\uB294 \uC7A5\uC18C"
+   },
+   "no_results_found": {
+      "description": "No results found",
+      "message": "\uACB0\uACFC\uAC00 \uC5C6\uC2B5\uB2C8\uB2E4."
+   },
+   "notifications": {
+      "description": "notifications (desktop notifications, alerts)",
+      "message": "\uC54C\uB9BC"
+   },
+   "options": {
+      "description": "options",
+      "message": "\uC635\uC158"
+   },
+   "remove_from_favorite_places": {
+      "description": "remove from my favorite places",
+      "message": "\uB0B4 \uC120\uD638\uD558\uB294 \uC7A5\uC18C\uC5D0\uC11C \uC0AD\uC81C"
+   },
+   "runs_as_extension": {
+      "description": "(extension version).",
+      "message": "(\uD655\uC7A5 \uBC84\uC804)."
+   },
+   "search": {
+      "description": "search",
+      "message": "\uAC80\uC0C9"
+   },
+   "search_city_input_placeholder": {
+      "description": "Enter a city or zip code (default text in the search box)",
+      "message": "\uB3C4\uC2DC\uB098 \uC6B0\uD3B8\uBC88\uD638\uB97C \uC785\uB825\uD558\uC138\uC694."
+   },
+   "temperature_unit": {
+      "description": "temperature unit (celcius, farenheit)",
+      "message": "\uC628\uB3C4 \uB2E8\uC704"
+   },
+   "update": {
+      "description": "update (news update, weather update,...)",
+      "message": "\uC5C5\uB370\uC774\uD2B8"
+   },
+   "weather_app_description": {
+      "description": "This application geolocates you and displays in one click your favorite location weather forecasts.",
+      "message": "\uC774 \uC560\uD50C\uB9AC\uCF00\uC774\uC158\uC740 \uADC0\uD558\uC758 \uC704\uCE58\uB97C \uD30C\uC545\uD55C \uB2E4\uC74C \uD55C\uBC88\uC758 \uD074\uB9AD\uC73C\uB85C \uC120\uD638\uD558\uB294 \uC7A5\uC18C\uC758 \uB0A0\uC528 \uC608\uBCF4\uB97C \uD45C\uC2DC\uD569\uB2C8\uB2E4."
+   },
+   "weather_app_name": {
+      "description": "Weather",
+      "message": "\uB0A0\uC528"
+   },
+   "weather_extension_name": {
+      "description": "__MSG_weather_app_name__ (__MSG_extension__)",
+      "message": "\uB0A0\uC528 (\uD655\uC7A5\uD504\uB85C\uADF8\uB7A8)"
+   },
+   "weather_forecast_updated_label": {
+      "description": "Weather forecast has been updated !",
+      "message": "\uB0A0\uC528 \uC608\uBCF4\uAC00 \uC5C5\uB370\uC774\uD2B8\uB418\uC5C8\uC2B5\uB2C8\uB2E4!"
+   },
+   "weather_gallery_description": {
+      "description": "",
+      "message": "\uB0A0\uC528 \uD655\uC7A5 \uD504\uB85C\uADF8\uB7A8\uC740 \uC790\uB3D9\uC73C\uB85C \uC704\uCE58\uC815\uBCF4\uB97C \uD30C\uC545\uD558\uACE0 \uAC00\uC7A5 \uAC00\uAE4C\uC6B4 \uB3C4\uC2DC\uC758 \uAE30\uC0C1\uC608\uBCF4\uB97C \uD45C\uC2DC\uD569\uB2C8\uB2E4. \uBE0C\uB77C\uC6B0\uC800 \uC544\uC774\uCF58\uC740 \uC77C\uAE30\uC608\uBCF4 \uBC0F \uAE30\uC628\uC744 \uB098\uD0C0\uB0C5\uB2C8\uB2E4."
+   },
+   "weather_notifications_forecast_label": {
+      "description": "display notification on weather forecast change (checkbox)",
+      "message": "\uB0A0\uC528 \uC608\uBCF4 \uBCC0\uACBD\uC5D0 \uB300\uD55C \uC54C\uB9BC \uD45C\uC2DC"
+   },
+   "weather_notifications_present_label": {
+      "description": "display notification on daily weather updates (checkbox)",
+      "message": "\uC77C\uC77C \uB0A0\uC528 \uC5C5\uB370\uC774\uD2B8\uC5D0 \uB300\uD55C \uC54C\uB9BC \uD45C\uC2DC"
+   },
+   "weather_present_updated_label": {
+      "description": "Weather of the day has been updated !",
+      "message": "\uD574\uB2F9 \uC77C\uC758 \uB0A0\uC528\uAC00 \uC5C5\uB370\uC774\uD2B8\uB418\uC5C8\uC2B5\uB2C8\uB2E4!"
+   },
+   "weather_update_label": {
+      "description": "weather update interval",
+      "message": "\uB0A0\uC528 \uC5C5\uB370\uC774\uD2B8 \uAC04\uACA9"
+   }
+}

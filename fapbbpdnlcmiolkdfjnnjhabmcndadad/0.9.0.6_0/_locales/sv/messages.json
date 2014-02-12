@@ -1,0 +1,138 @@
+{
+   "extension": {
+      "description": "extension (browser extension, add-on)",
+      "message": "till\u00E4gg"
+   },
+   "gallery_extensionfactory_promo": {
+      "description": "Check out our other great extensions and web apps at http://www.extensionfactory.com",
+      "message": "Kolla in alla v\u00E5ra suver\u00E4na till\u00E4gg och webbappar p\u00E5 http://www.extensionfactory.com"
+   },
+   "gallery_features": {
+      "description": "Features (ex: list of features)",
+      "message": "Funktioner"
+   },
+   "gallery_features_preferences": {
+      "description": "- Notifications and options preferences",
+      "message": "- Preferenser f\u00F6r underr\u00E4ttelsemeddelanden och alternativ"
+   },
+   "gallery_features_search_for_places": {
+      "description": "- Search by city or zip code",
+      "message": "- S\u00F6k per ort eller postnummer"
+   },
+   "gallery_help_us": {
+      "description": "Help us to make this application better!",
+      "message": "Hj\u00E4lp oss att g\u00F6ra den h\u00E4r applikationen \u00E4nnu b\u00E4ttre!"
+   },
+   "gallery_help_us_comments": {
+      "description": "- we're happy to read and reply to your comments as well.",
+      "message": " - vi b\u00E5de l\u00E4ser och besvarar dina kommentarer med n\u00F6je."
+   },
+   "gallery_help_us_stars": {
+      "description": "- if you like this product, please give it stars :)",
+      "message": " - om du gillar den h\u00E4r produkten f\u00E5r du g\u00E4rna ge den stj\u00E4rnor :)"
+   },
+   "gallery_privacy": {
+      "description": "Privacy matters!",
+      "message": "Sekretess \u00E4r viktigt!"
+   },
+   "gallery_privacy_browsing_history": {
+      "description": "- we do NOT store your browsing history! Although access to the chrome.tabs API is required, the application will never look or save your history. Please read http://code.google.com/chrome/extensions/permission_warnings.html#warnings for more information.",
+      "message": "- vi lagrar INTE din webbhistorik! \u00C4ven om tillg\u00E5ng till chrome.tabs API kr\u00E4vs, kommer applikationen varken att titta p\u00E5 eller spara din historik. L\u00E4s mer p\u00E5 http://code.google.com/chrome/extensions/permission_warnings.html#warnings."
+   },
+   "gallery_privacy_personal_data": {
+      "description": "- we do NOT send any data to any third party servers.",
+      "message": "- vi skickar INTE data till tredjepartsservrar."
+   },
+   "gallery_weather_app_features_geolocation": {
+      "description": "- Instant geolocation and localization: get forecasts in your language",
+      "message": "- \u00D6gonblicklig geolokalisering och lokalisering: f\u00E5 prognoser p\u00E5 ditt eget spr\u00E5k"
+   },
+   "gallery_weather_app_features_manage_favorites": {
+      "description": "- Quick access to your favorite places",
+      "message": "- Snabb \u00E5tkomst till dina favoritplatser"
+   },
+   "gallery_weather_app_features_notifications": {
+      "description": "- Real time notifications on weather changes",
+      "message": "- Underr\u00E4ttelsemeddelanden i realtid om \u00E4ndrade v\u00E4derf\u00F6rh\u00E5llanden"
+   },
+   "hours": {
+      "description": "hours",
+      "message": "timmar"
+   },
+   "my_favorite_places": {
+      "description": "my favorite places",
+      "message": "mina favoritplatser"
+   },
+   "no_results_found": {
+      "description": "No results found",
+      "message": "Inga resultat hittades"
+   },
+   "notifications": {
+      "description": "notifications (desktop notifications, alerts)",
+      "message": "meddelanden"
+   },
+   "options": {
+      "description": "options",
+      "message": "alternativ"
+   },
+   "remove_from_favorite_places": {
+      "description": "remove from my favorite places",
+      "message": "ta bort fr\u00E5n mina favoritplatser"
+   },
+   "runs_as_extension": {
+      "description": "(extension version).",
+      "message": "(till\u00E4ggsversion)."
+   },
+   "search": {
+      "description": "search",
+      "message": "s\u00F6k"
+   },
+   "search_city_input_placeholder": {
+      "description": "Enter a city or zip code (default text in the search box)",
+      "message": "Ange ort eller postnummer"
+   },
+   "temperature_unit": {
+      "description": "temperature unit (celcius, farenheit)",
+      "message": "temperaturenhet"
+   },
+   "update": {
+      "description": "update (news update, weather update,...)",
+      "message": "uppdatera"
+   },
+   "weather_app_description": {
+      "description": "This application geolocates you and displays in one click your favorite location weather forecasts.",
+      "message": "Denna applikation geolokaliserar dig och ger dig v\u00E4derprognoser f\u00F6r dina favoritplatser med ett enda klick."
+   },
+   "weather_app_name": {
+      "description": "Weather",
+      "message": "V\u00E4der"
+   },
+   "weather_extension_name": {
+      "description": "__MSG_weather_app_name__ (__MSG_extension__)",
+      "message": "V\u00E4der (till\u00E4gg)"
+   },
+   "weather_forecast_updated_label": {
+      "description": "Weather forecast has been updated !",
+      "message": "V\u00E4derprognos har uppdaterats!"
+   },
+   "weather_gallery_description": {
+      "description": "",
+      "message": "V\u00E4dertill\u00E4gget lokaliserar dig automatiskt geografiskt, och visar den n\u00E4rmaste stadens v\u00E4derprognos. En webbl\u00E4sarikon visar den dagliga prognosen och temperaturen."
+   },
+   "weather_notifications_forecast_label": {
+      "description": "display notification on weather forecast change (checkbox)",
+      "message": "visa meddelande om \u00E4ndrad v\u00E4derprognos"
+   },
+   "weather_notifications_present_label": {
+      "description": "display notification on daily weather updates (checkbox)",
+      "message": "visa meddelande om dagliga v\u00E4deruppdateringar"
+   },
+   "weather_present_updated_label": {
+      "description": "Weather of the day has been updated !",
+      "message": "Dagens v\u00E4der har uppdaterats!"
+   },
+   "weather_update_label": {
+      "description": "weather update interval",
+      "message": "v\u00E4deruppdateringsfrekvens"
+   }
+}

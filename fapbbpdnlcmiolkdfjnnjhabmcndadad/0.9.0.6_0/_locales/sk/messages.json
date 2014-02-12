@@ -1,0 +1,138 @@
+{
+   "extension": {
+      "description": "extension (browser extension, add-on)",
+      "message": "roz\u0161\u00EDrenie"
+   },
+   "gallery_extensionfactory_promo": {
+      "description": "Check out our other great extensions and web apps at http://www.extensionfactory.com",
+      "message": "Na adrese http://www.extensionfactory.com n\u00E1jdete \u010Fal\u0161ie na\u0161e praktick\u00E9 roz\u0161\u00EDrenia a webov\u00E9 aplik\u00E1cie"
+   },
+   "gallery_features": {
+      "description": "Features (ex: list of features)",
+      "message": "Funkcie"
+   },
+   "gallery_features_preferences": {
+      "description": "- Notifications and options preferences",
+      "message": "- Predvo\u013Eby pre upozornenia a mo\u017Enosti"
+   },
+   "gallery_features_search_for_places": {
+      "description": "- Search by city or zip code",
+      "message": "- Vyh\u013Eada\u0165 pod\u013Ea mesta alebo PS\u010C"
+   },
+   "gallery_help_us": {
+      "description": "Help us to make this application better!",
+      "message": "Pom\u00F4\u017Ete n\u00E1m vylep\u0161i\u0165 t\u00FAto aplik\u00E1ciu!"
+   },
+   "gallery_help_us_comments": {
+      "description": "- we're happy to read and reply to your comments as well.",
+      "message": "- tie\u017E si radi pre\u010D\u00EDtame va\u0161e koment\u00E1re a odpovieme v\u00E1m na ne."
+   },
+   "gallery_help_us_stars": {
+      "description": "- if you like this product, please give it stars :)",
+      "message": "- ak sa v\u00E1m p\u00E1\u010Di tento produkt, ohodno\u0165te ho hviezdi\u010Dkami :)"
+   },
+   "gallery_privacy": {
+      "description": "Privacy matters!",
+      "message": "D\u00F4vernos\u0165 je d\u00F4le\u017Eit\u00E1!"
+   },
+   "gallery_privacy_browsing_history": {
+      "description": "- we do NOT store your browsing history! Although access to the chrome.tabs API is required, the application will never look or save your history. Please read http://code.google.com/chrome/extensions/permission_warnings.html#warnings for more information.",
+      "message": "- NEUKLAD\u00C1ME va\u0161u hist\u00F3riu prehliadania! Hoci je pr\u00EDstup k chrome.tabs API nevyhnutn\u00FD, aplik\u00E1cia nikdy nebude nahliada\u0165 do va\u0161ej hist\u00F3rie ani ju uklada\u0165. Bli\u017E\u0161ie podrobnosti n\u00E1jdete na adrese http://code.google.com/chrome/extensions/permission_warnings.html#warnings."
+   },
+   "gallery_privacy_personal_data": {
+      "description": "- we do NOT send any data to any third party servers.",
+      "message": "- NEODOSIELAME \u017Eiadne \u00FAdaje serverom vo vlastn\u00EDctve tret\u00EDch str\u00E1n."
+   },
+   "gallery_weather_app_features_geolocation": {
+      "description": "- Instant geolocation and localization: get forecasts in your language",
+      "message": "- Okam\u017Eit\u00E1 geolok\u00E1cia a lokaliz\u00E1cia: z\u00EDskavajte predpovede v rodnom jazyku"
+   },
+   "gallery_weather_app_features_manage_favorites": {
+      "description": "- Quick access to your favorite places",
+      "message": "- R\u00FDchly pr\u00EDstup k va\u0161im ob\u013E\u00FAben\u00FDm miestam"
+   },
+   "gallery_weather_app_features_notifications": {
+      "description": "- Real time notifications on weather changes",
+      "message": "- Upozornenia v re\u00E1lnom \u010Dase na zmeny po\u010Dasia"
+   },
+   "hours": {
+      "description": "hours",
+      "message": "hodiny"
+   },
+   "my_favorite_places": {
+      "description": "my favorite places",
+      "message": "moje ob\u013E\u00FAben\u00E9 miesta"
+   },
+   "no_results_found": {
+      "description": "No results found",
+      "message": "Nena\u0161li sa \u017Eiadne v\u00FDsledky"
+   },
+   "notifications": {
+      "description": "notifications (desktop notifications, alerts)",
+      "message": "upozornenia"
+   },
+   "options": {
+      "description": "options",
+      "message": "mo\u017Enosti"
+   },
+   "remove_from_favorite_places": {
+      "description": "remove from my favorite places",
+      "message": "odstr\u00E1ni\u0165 z mojich ob\u013E\u00FAben\u00FDch miest"
+   },
+   "runs_as_extension": {
+      "description": "(extension version).",
+      "message": "(verzia roz\u0161\u00EDrenia)."
+   },
+   "search": {
+      "description": "search",
+      "message": "h\u013Eada\u0165"
+   },
+   "search_city_input_placeholder": {
+      "description": "Enter a city or zip code (default text in the search box)",
+      "message": "Zadajte mesto alebo PS\u010C"
+   },
+   "temperature_unit": {
+      "description": "temperature unit (celcius, farenheit)",
+      "message": "jednotka teploty"
+   },
+   "update": {
+      "description": "update (news update, weather update,...)",
+      "message": "aktualiz\u00E1cia"
+   },
+   "weather_app_description": {
+      "description": "This application geolocates you and displays in one click your favorite location weather forecasts.",
+      "message": "T\u00E1to aplik\u00E1cia zis\u0165uje va\u0161u geolokalitu a jedin\u00FDm kliknut\u00EDm zobraz\u00ED predpove\u010F po\u010Dasia pre va\u0161e ob\u013E\u00FAben\u00E9 lokality."
+   },
+   "weather_app_name": {
+      "description": "Weather",
+      "message": "Po\u010Dasie"
+   },
+   "weather_extension_name": {
+      "description": "__MSG_weather_app_name__ (__MSG_extension__)",
+      "message": "Po\u010Dasie (roz\u0161\u00EDrenie)"
+   },
+   "weather_forecast_updated_label": {
+      "description": "Weather forecast has been updated !",
+      "message": "Predpove\u010F po\u010Dasia sa aktualizovala!"
+   },
+   "weather_gallery_description": {
+      "description": "",
+      "message": "Roz\u0161\u00EDrenie Po\u010Dasie v\u00E1s automaticky geograficky lokalizuje a zobraz\u00ED predpove\u010F po\u010Dasia pre najbli\u017E\u0161ie mesto. Ikona prehliada\u010Da uk\u00E1\u017Ee denn\u00FA predpove\u010F a teplotu."
+   },
+   "weather_notifications_forecast_label": {
+      "description": "display notification on weather forecast change (checkbox)",
+      "message": "zobrazi\u0165 upozornenie na zmenu predpovede po\u010Dasia"
+   },
+   "weather_notifications_present_label": {
+      "description": "display notification on daily weather updates (checkbox)",
+      "message": "zobrazi\u0165 upozornenie na denn\u00E9 aktualiz\u00E1cie predpovede po\u010Dasia"
+   },
+   "weather_present_updated_label": {
+      "description": "Weather of the day has been updated !",
+      "message": "Po\u010Dasie pre dan\u00FD de\u0148 bolo aktualizovan\u00E9!"
+   },
+   "weather_update_label": {
+      "description": "weather update interval",
+      "message": "interval aktualiz\u00E1cie po\u010Dasia"
+   }
+}

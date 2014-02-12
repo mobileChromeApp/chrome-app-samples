@@ -1,0 +1,121 @@
+/*
+    Document   : options
+    Created on : 6 juil. 2012, 16:21:44
+    Author     : scrosta
+    Description:
+        extension options common styles
+*/
+
+body {
+    margin: 8px;
+}
+
+body.updating {
+    opacity: 0.5;
+    /* spinner + message */
+}
+
+body  #update-message {
+    display: none;
+	position:absolute;
+	z-index:2;
+	top:0px;
+	right:0px;
+	background-color:InfoBackground;
+}
+
+body.updating #update-message {
+    display: inline-block;
+}
+
+a[rel = home] {
+    text-align: center;
+}
+
+.page section h3~*{
+	margin-left:20px;
+}
+
+#navbar-content-title img {
+	max-width:32px;
+	max-height:32px;
+}
+
+.page{
+    display:none;
+
+}
+.page:target{
+	display:block;
+}
+
+section {
+    border-bottom: 1px solid #EEE;
+    display: block;
+    margin-top: 17px;
+    padding-bottom: 20px;
+}
+
+#navbar-container {
+	text-align:right;
+}
+
+#navbar-content-title{
+	background: url('../../icons/icon-32.png') left center no-repeat;
+	padding-left:34px;
+	display:inline-block;
+}
+
+h1::first-letter, h2::first-letter, h3::first-letter, .navbar-item > a::first-letter {
+    text-transform: uppercase;
+}
+
+.navbar-item > a{
+	display:inline-block;
+}
+
+.settings-help {
+    font-size: smaller;
+    font-style: italic;
+}
+
+.option-name {
+    display: inline-block;
+}
+
+.option-name::first-letter {
+    display: inline-block;
+    text-transform: uppercase;
+}
+
+.ui-tooltip {
+    background-image: url('data:image/gif;base64,R0lGODlhDAALAJEAANvb26enp////wAAACH5BAEAAAIALAAAAAAMAAsAAAIblI8WkbcswAtAwWVzwoIbSWliBzWjR5abagoFADs=');
+    position: relative;
+    overflow: visible;
+    width: 12px;
+    height: 12px;
+    display: inline-block;
+}
+
+.ui-tooltip-content {
+    display: none;
+    border: 1px solid #DDD;
+    background: #333;
+    color: #EEE;
+    font-weight: bold;
+    font-size: smaller;
+    position: absolute;
+    top: 20px;
+    padding: 6px;
+    min-width: 320px;
+}
+
+.ui-tooltip:hover > .ui-tooltip-content {
+    display: block;
+}
+
+section label.standard {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: block;
+}

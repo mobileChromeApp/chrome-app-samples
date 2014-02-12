@@ -1,0 +1,10 @@
+﻿{
+  "appName": {
+    "message": "Forge of Empires",
+    "description": "app name"
+  },
+  "appDesc": {
+    "message": "I Forge of Empires kontrollerer du skjebnen til byen din gjennom forskjellige historiske epoker.", 
+    "description":"app description"
+  }
+}

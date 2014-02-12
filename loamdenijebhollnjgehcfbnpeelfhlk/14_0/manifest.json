@@ -1,0 +1,16 @@
+{
+   "app": {
+      "launch": {
+         "local_path": "index.html"
+      }
+   },
+   "description": "Get major air and do some amazing tricks in Brad Borne's hit platformer.",
+   "icons": {
+      "128": "icon_128.png",
+      "16": "icon_16.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCgPLmWTMuU3+k4qXbcOTjHq0L1qHKcU+9wM5YFjeKiZiDwQssULkqnpWVPT7+BhcdQ1HUZpCaBPFMqedOy5PZjjzL3hRXdzpGcxdmE2A2NJd5c03PVJ7UQjSFqJkc04+SgmFKEVgbYgMrsBzlxSlpnkRL2WJpZR5Ao1Urb9gmOywIDAQAB",
+   "name": "The Fancy Pants Adventure: World 2",
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "14"
+}

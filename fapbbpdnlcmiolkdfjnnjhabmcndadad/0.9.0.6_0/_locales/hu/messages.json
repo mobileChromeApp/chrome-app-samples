@@ -1,0 +1,138 @@
+{
+   "extension": {
+      "description": "extension (browser extension, add-on)",
+      "message": "b\u0151v\u00EDtm\u00E9ny"
+   },
+   "gallery_extensionfactory_promo": {
+      "description": "Check out our other great extensions and web apps at http://www.extensionfactory.com",
+      "message": "Pr\u00F3b\u00E1ljon ki tov\u00E1bbi nagyszer\u0171 b\u0151v\u00EDtm\u00E9nyeket \u00E9s webes alkalmaz\u00E1sokat a http://www.extensionfactory.com weboldalon."
+   },
+   "gallery_features": {
+      "description": "Features (ex: list of features)",
+      "message": "Tulajdons\u00E1gok"
+   },
+   "gallery_features_preferences": {
+      "description": "- Notifications and options preferences",
+      "message": "\u00C9rtes\u00EDt\u00E9s- \u00E9s opci\u00F3be\u00E1ll\u00EDt\u00E1sok"
+   },
+   "gallery_features_search_for_places": {
+      "description": "- Search by city or zip code",
+      "message": "- Keres\u00E9s v\u00E1ros vagy ir\u00E1ny\u00EDt\u00F3sz\u00E1m szerint"
+   },
+   "gallery_help_us": {
+      "description": "Help us to make this application better!",
+      "message": "Seg\u00EDtsen nek\u00FCnk jobb\u00E1 tenni ezt az alkalmaz\u00E1st!"
+   },
+   "gallery_help_us_comments": {
+      "description": "- we're happy to read and reply to your comments as well.",
+      "message": "- \u00F6r\u00F6mmel olvassuk \u00E9s v\u00E1laszolunk az \u00D6n megjegyz\u00E9seire is."
+   },
+   "gallery_help_us_stars": {
+      "description": "- if you like this product, please give it stars :)",
+      "message": "- ha tetszik ez a term\u00E9k, adjon neki n\u00E9h\u00E1ny csillagot :-)"
+   },
+   "gallery_privacy": {
+      "description": "Privacy matters!",
+      "message": "Az adatv\u00E9delem fontos!"
+   },
+   "gallery_privacy_browsing_history": {
+      "description": "- we do NOT store your browsing history! Although access to the chrome.tabs API is required, the application will never look or save your history. Please read http://code.google.com/chrome/extensions/permission_warnings.html#warnings for more information.",
+      "message": "- mi NEM t\u00E1roljuk az \u00D6n b\u00F6ng\u00E9sz\u00E9si el\u0151zm\u00E9nyeit! Noha a hozz\u00E1f\u00E9r\u00E9s a chrome.tabs API-hoz k\u00F6telez\u0151, az alkalmaz\u00E1s sose figyeli vagy menti el az \u00D6n el\u0151zm\u00E9nyeit. Tov\u00E1bbi inform\u00E1ci\u00F3k\u00E9rt n\u00E9zze meg a http://code.google.com/chrome/extensions/permission_warnings.html#warnings weboldalt."
+   },
+   "gallery_privacy_personal_data": {
+      "description": "- we do NOT send any data to any third party servers.",
+      "message": "- mi NEM k\u00FCld\u00FCnk semmilyen adatokat harmadik felek kiszolg\u00E1l\u00F3inak."
+   },
+   "gallery_weather_app_features_geolocation": {
+      "description": "- Instant geolocation and localization: get forecasts in your language",
+      "message": "- Azonnali f\u00F6ldrajzi poz\u00EDci\u00F3 \u00E9s helymeghat\u00E1roz\u00E1s: kapjon el\u0151rejelz\u00E9seket saj\u00E1t nyelv\u00E9n"
+   },
+   "gallery_weather_app_features_manage_favorites": {
+      "description": "- Quick access to your favorite places",
+      "message": "- Gyors hozz\u00E1f\u00E9r\u00E9s az \u00D6n kedvenc helyeihez"
+   },
+   "gallery_weather_app_features_notifications": {
+      "description": "- Real time notifications on weather changes",
+      "message": "- Val\u00F3s idej\u0171 \u00E9rtes\u00EDt\u00E9sek az id\u0151j\u00E1r\u00E1s v\u00E1ltoz\u00E1sair\u00F3l"
+   },
+   "hours": {
+      "description": "hours",
+      "message": "\u00F3ra"
+   },
+   "my_favorite_places": {
+      "description": "my favorite places",
+      "message": "kedvenc helyeim"
+   },
+   "no_results_found": {
+      "description": "No results found",
+      "message": "Nincs eredm\u00E9ny"
+   },
+   "notifications": {
+      "description": "notifications (desktop notifications, alerts)",
+      "message": "\u00E9rtes\u00EDt\u00E9sek"
+   },
+   "options": {
+      "description": "options",
+      "message": "opci\u00F3k"
+   },
+   "remove_from_favorite_places": {
+      "description": "remove from my favorite places",
+      "message": "elt\u00E1vol\u00EDt\u00E1s a kedvenc helyeim k\u00F6z\u00FCl"
+   },
+   "runs_as_extension": {
+      "description": "(extension version).",
+      "message": "(b\u0151v\u00EDtm\u00E9nyverzi\u00F3)."
+   },
+   "search": {
+      "description": "search",
+      "message": "keres\u00E9s"
+   },
+   "search_city_input_placeholder": {
+      "description": "Enter a city or zip code (default text in the search box)",
+      "message": "\u00CDrjon be egy v\u00E1rost vagy ir\u00E1ny\u00EDt\u00F3sz\u00E1mot"
+   },
+   "temperature_unit": {
+      "description": "temperature unit (celcius, farenheit)",
+      "message": "h\u0151m\u00E9rs\u00E9klet m\u00E9rt\u00E9kegys\u00E9ge"
+   },
+   "update": {
+      "description": "update (news update, weather update,...)",
+      "message": "friss\u00EDt\u00E9s"
+   },
+   "weather_app_description": {
+      "description": "This application geolocates you and displays in one click your favorite location weather forecasts.",
+      "message": "Ez az alkalmaz\u00E1s azonos\u00EDtja az \u00D6n f\u00F6ldrajzi poz\u00EDci\u00F3j\u00E1t \u00E9s egyetlen kattint\u00E1ssal megjelen\u00EDti a kedvenc helye id\u0151j\u00E1r\u00E1s-el\u0151rejelz\u00E9s\u00E9t"
+   },
+   "weather_app_name": {
+      "description": "Weather",
+      "message": "Id\u0151j\u00E1r\u00E1s"
+   },
+   "weather_extension_name": {
+      "description": "__MSG_weather_app_name__ (__MSG_extension__)",
+      "message": "Id\u0151j\u00E1r\u00E1s (b\u0151v\u00EDtm\u00E9ny)"
+   },
+   "weather_forecast_updated_label": {
+      "description": "Weather forecast has been updated !",
+      "message": "Az id\u0151j\u00E1r\u00E1s-el\u0151rejelz\u00E9s friss\u00FClt!"
+   },
+   "weather_gallery_description": {
+      "description": "",
+      "message": "Az id\u0151j\u00E1r\u00E1s hozz\u00E1rendel\u00E9s automatikusan elv\u00E9gzi helyzeted meghat\u00E1roz\u00E1s\u00E1t, \u00E9s kijelzi a legk\u00F6zelebbi v\u00E1ros id\u0151j\u00E1r\u00E1s el\u0151rejelz\u00E9s\u00E9t. Egy keres\u0151 ikon mutatja a napi el\u0151rejelz\u00E9st \u00E9s h\u0151m\u00E9rs\u00E9kletet."
+   },
+   "weather_notifications_forecast_label": {
+      "description": "display notification on weather forecast change (checkbox)",
+      "message": "\u00E9rtes\u00EDt\u00E9s megjelen\u00EDt\u00E9se id\u0151j\u00E1r\u00E1s-el\u0151rejelz\u00E9s v\u00E1ltoz\u00E1sakor"
+   },
+   "weather_notifications_present_label": {
+      "description": "display notification on daily weather updates (checkbox)",
+      "message": "\u00E9rtes\u00EDt\u00E9s megjelen\u00EDt\u00E9se napi id\u0151j\u00E1r\u00E1s friss\u00EDt\u00E9sekor"
+   },
+   "weather_present_updated_label": {
+      "description": "Weather of the day has been updated !",
+      "message": "A napi id\u0151j\u00E1r\u00E1s friss\u00FClt!"
+   },
+   "weather_update_label": {
+      "description": "weather update interval",
+      "message": "id\u0151j\u00E1r\u00E1s-friss\u00EDt\u00E9si id\u0151intervallum"
+   }
+}

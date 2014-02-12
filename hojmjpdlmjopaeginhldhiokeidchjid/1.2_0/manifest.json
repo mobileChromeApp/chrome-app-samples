@@ -1,0 +1,18 @@
+{
+   "api_console_project_id": "61387565307",
+   "app": {
+      "launch": {
+         "web_url": "http://pixlr.com/express/"
+      },
+      "urls": [ "http://pixlr.com/express/" ]
+   },
+   "container": "GOOGLE_DRIVE",
+   "description": "Quick fix you photos with tons of adjustments, effects, overlays and borders!",
+   "icons": {
+      "128": "express_128.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC/j0tHFn9fXM4IKi5+Bvstd+ejd+MjecM5vC0IL4uwPJsJuAxLAYOM2h7sGeY+v6trEBQtdNfv3UdueHZH6Xf9n9Ez3NZThVE25GVvWOQXesk5786ux2DleZkRV9WqiSHXrH7myfH9BqgZbvIBTssOibfhAXlgOmNdJU2LFmWpCQIDAQAB",
+   "name": "Pixlr Express",
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "1.2"
+}

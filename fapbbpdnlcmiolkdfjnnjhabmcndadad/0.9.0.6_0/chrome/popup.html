@@ -1,0 +1,169 @@
+<!DOCTYPE HTML>
+<html>
+    <head><script src="../lib/sf/loader.js" type="text/javascript"></script>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <title>Weather</title>
+        
+        <script type="text/javascript" src="../lib/jquery/lib.js"></script>
+        <script src="../lib/chrome/lib.js"></script>
+        <script src="chrome.js"></script>
+        <script src="popup.js"></script>
+        <link rel="stylesheet" type="text/css" href="../skin/base.css">
+        <link rel="stylesheet" type="text/css" href="../skin/popup.css">
+    </head>
+    <body>
+        
+
+        <script></script>
+        <div id="header">
+            <div id="fb-connect-wrapper" class="fb-connect-small fb-connect-collapsable">
+                
+
+            </div>
+            <a href="#" rel="bookmarks" class="icon-bookmarks" i18n-title="My_favorite_places"></a>
+            <form name="placesearch">
+                <div>
+                    <input type="text" name="query" i18n-placeholder="search_city_input_placeholder">
+                    
+
+                </div>
+            </form>
+        </div>
+        <div id="curtain"></div>
+        <div id="content">
+            <div id="bookmarks" style="display:none">
+                <ul>
+                    <li jsselect="place" name="place" class="place template">
+                        <input type="checkbox" class="bookmark" name="bookmark" jsvalues=".data:$this;.checked:Bookmark.has($this);id:reference">
+                        <label jsvalues="for:reference;" class="remove" i18n-title="remove_from_favorite_places"> </label>
+                        <a href="#" jsvalues=".data:$this;">
+                            <h2 jscontent="city"></h2>
+                            <h3>
+                                <span jscontent="area" jsdisplay="area"></span><span jsdisplay="area"><span jsdisplay="country">, </span></span>
+                                <span jscontent="country" jsdisplay="country"></span>
+                            </h3>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+
+            <div id="results" style="display:none">
+                
+
+                <ul>
+                    <li jsselect="place" name="place" class="place">
+                        <input type="checkbox" class="bookmark" name="bookmark" jsvalues=".data:$this;.checked:Bookmark.has($this);.id:reference">
+
+                        <label jsvalues="for:reference" class="check"> </label>
+                        <a href="#" jsvalues=".data:$this">
+                            <h2 jscontent="city"></h2>
+                            <h3>
+                                <span jscontent="area" jsdisplay="area"></span><span jsdisplay="area"><span jsdisplay="country">, </span></span>
+                                <span jscontent="country" jsdisplay="country"></span>
+                            </h3>
+                        </a>
+                    </li>
+                </ul>
+                <img src="about:blank" id="icon-google-powered">
+            </div>
+            <div id="no-results" i18n-content="no_results_found" style="display:none">
+                no results found
+            </div>
+
+            <div id="forecast" style="display:none">
+                <div id="webcams-container" >
+                    <div class="webcams-credit">
+                        Webcams provided by webcams.travel
+                    </div>
+                    <div id="webcams-content">
+                        <a rel="previous" href="#" disabled="true"></a>
+                        <ul class="webcams" name="items">
+                            <li jsselect="webcam" class="webcam" name="item" jsdisplay="thumbnail" jseval="$(this).data('webcam',$this);">
+                                <a href="" target="_blank" jsvalues="href:url;title:title"><img jsvalues="src:thumbnail"></a><a href="#" rel="webcamzoom"></a><a href="" target="_blank" jsvalues="href:source;title:title"> <div jscontent="city"></div> <div jscontent="date" class="date"></div> </a>
+                            </li>
+                        </ul>
+                        <a rel="next" href="#" disabled="true"></a>
+                    </div>
+                    <div id="webcamzoom-container" style="display:none;"><img>
+                    </div>
+                </div>
+
+                <div id="weather-current">
+                    <div class="location">
+                        <h2 jscontent="city" jsdisplay="city"></h2>
+                        <h3>
+                            <span jscontent="area" jsdisplay="area"></span><span jsdisplay="area"><span jsdisplay="country">, </span></span>
+                            <span jscontent="country" jsdisplay="country"></span>
+                        </h3>
+                    </div>
+
+                    <table jsselect="current" id="current-weather">
+                        <tr>
+                            <td class="forecast-image"><img jsvalues=".src:image" alt="" jsdisplay="image" class="forecast-image"></td>
+                            <td><div id="current-condition" jsdisplay="description" jscontent="description"></div>
+                                <div>
+                                    <div id="current-wind" jsdisplay="wind" jscontent="wind"></div><div id="current-humidity" jsdisplay="humidity" jscontent="humidity"></div>
+                                </div>
+                            </td>
+                            <td id="current-temperature" jsdisplay="temperature"><span jscontent="temperature" class="temperature"></span><span jscontent="unit" class="unit"></span></td>
+                        </tr>
+                    </table>
+                    <div id="places-attributions"></div>
+                </div>
+
+                <ul id="weather-forecast">
+                    <li jsselect="forecast" class="forecast">
+                        <table>
+                            <tr class="template">
+                                <td class="forecast-image">
+                                    <img jsvalues=".src:image" alt="" jsdisplay="image" class="forecast-image" />
+                                </td>
+                                <td class="forecast-description">
+                                    <span class="forecast-day"  jscontent="day" jsdisplay="day"></span>
+                                    <br />
+                                    <span class="forecast-conditions" jscontent="description" jsdisplay="description"></span>
+                                    <span class="debug">
+                                        [<span class="forecast-conditions-code" jscontent="condition"></span>(
+                                        <span class="forecast-conditions-original" jscontent="original_condition"></span>)]
+                                    </span>
+                                </td>
+                                <td class="forecast-temperatures">
+
+                                    <span class="forecast-min-max" >
+                                        <span jscontent="temperature.min" class="temperature"></span>/<span jscontent="temperature.max" class="temperature"></span><span jscontent="unit" class="unit"></span>
+                                    </span>
+                                </td>
+                            </tr>
+                        </table>
+                    </li>
+                </ul>
+                <div data-sf-ad-slot-name="popup" data-sf-ad-slot-format="468x60" class="ad-slot-popup"></div>
+            </div>
+            <div id="forecast-no-results">
+                <span jscontent="problemCause"></span>
+            </div>
+        </div>
+        <div id="options">
+            <a href="options.html" rel="options" target="_blank" i18n-title="options" title="options"></a>
+            <label>
+                <input type="radio" name="unit" value="c">
+                <span>Celcius</span> </label>
+            <label>
+                <input type="radio" name="unit" value="f">
+                <span>Fahrenheit</span> </label>
+            &nbsp;&nbsp;
+            <label>
+                <input type="checkbox" name="notifications" checked="true">
+                <span i18n-content="Notifications">Notifications</span>
+            </label>
+            &nbsp;&nbsp;
+            <label id="source-choice">source:
+                <select id="select-provider">
+                    <option value="yr">YR</option>
+                    <option value="wwo">WWO</option>
+                    <option value="yahoo">Yahoo</option>
+                </select>
+            </label>
+        </div>
+    </body>
+</html>

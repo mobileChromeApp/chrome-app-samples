@@ -1,0 +1,17 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://poppit.pogo.com/hd/PoppitHD.html"
+      },
+      "urls": [ "http://poppit.pogo.com/" ]
+   },
+   "description": "The prickly puzzle game where popping balloons has never been so much fun!  Pop colorful strings of balloons to earn a bonus!",
+   "icons": {
+      "128": "icon_poppit.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDEE80zEq495GvVBavV3VqpSg6fxQ1uFruS/4lDt0R0OXwudOByq8DLehpIw6BZZzAFwNIh17wIImMSseLvf+ocyx5Ny1DTByIquqJ5g9K5mixHbRiZLZcZvJ9u7hOmiHz5YEQSj+0iVC5knN0jKv7If+aHVgyS+gYr4TOLTvKhQwIDAQAB",
+   "name": "Poppit",
+   "permissions": [ "unlimitedStorage", "notifications" ],
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "2.2"
+}

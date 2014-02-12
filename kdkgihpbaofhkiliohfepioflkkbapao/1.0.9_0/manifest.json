@@ -1,0 +1,17 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://scientific-calculator.appspot.com/"
+      },
+      "urls": [ "http://scientific-calculator.appspot.com/" ]
+   },
+   "default_locale": "en_US",
+   "description": "__MSG_calc_description__",
+   "icons": {
+      "128": "logo.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC1qdK5bBTqyj01vZnx+sCyEyy+B0aQ0C+vkd2je1FcZ54/JlqG1vtaP7RUTYtuw1Hg61TlwdkMl3b/9Tren0QXdj5Q2I9t4mL6m42HAvVetgDRzmTJd2ooD2OxDRnNkraoZkxsnwb43cheLhbkqkeYHTUKJ0xww3c+T3D3qwHv6wIDAQAB",
+   "name": "__MSG_calc_name__",
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "1.0.9"
+}

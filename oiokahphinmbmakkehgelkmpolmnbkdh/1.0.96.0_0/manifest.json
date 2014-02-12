@@ -1,0 +1,25 @@
+{
+   "app": {
+      "launch": {
+         "container": "tab",
+         "web_url": "http://battlefield.play4free.com/?utm_source=chrome&utm_medium=referral&utm_campaign=bfp4f_chrome-web-store"
+      },
+      "urls": [ "*://battlefield.play4free.com/" ]
+   },
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "icons": {
+      "128": "icon_128.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC2XgeiUFnAFvXzmyxNLdC4Xim4L+j3Y1IJJQq8DmhDv3NV0DI/Wpwnx01MMRiNaVhaIfKo1yX/6qzjdwPukWj0zKgIVPE7/bVPL3nadOpyAeVssm6xbfKG04YM2LXT4UT5M1FArTmnuDIa+hXkktvBX71q0rlrUIQA983ckno6lQIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_appName__",
+   "plugins": [ {
+      "path": "npBP4FUpdater.dll",
+      "public": true
+   }, {
+      "path": "BP4FUpdater.exe"
+   } ],
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "1.0.96.0"
+}

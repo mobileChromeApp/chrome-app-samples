@@ -1,0 +1,29 @@
+{
+   "app": {
+      "launch": {
+         "local_path": "main.html"
+      }
+   },
+   "description": "LogMeIn, Inc. Remote Access Components",
+   "icons": {
+      "128": "logmein128.png",
+      "16": "logmein16.png",
+      "48": "logmein48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCD3LPzn0zppHOollHfEYL+nRQ8EALFb9bgDbsN3MoK8gFTaZimiVeSOl0ePpge5JErypUfqCLPbjU4myRgexZCyXH/i8yJzTTYzUJgQ4rGwcRJq5HxcOjSoD7iVr4lJN8GIRE3Ge1DGNL5RyhhMYyHe9oO5IeXszztIG4jRfeqcQIDAQAB",
+   "manifest_version": 2,
+   "name": "LogMeIn",
+   "permissions": [  ],
+   "plugins": [ {
+      "path": "ChromeLogMeIn.dll",
+      "public": true
+   } ],
+   "requirements": {
+      "plugins": {
+         "npapi": false
+      }
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.0.1037",
+   "web_accessible_resources": [ "extensioncheck.html" ]
+}

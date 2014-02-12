@@ -1,0 +1,16 @@
+{
+   "app": {
+      "launch": {
+         "local_path": "snakes.html"
+      }
+   },
+   "description": "Eat the food, grow as long as you can and dont crash!",
+   "icons": {
+      "128": "icon_128.png",
+      "16": "icon_16.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDE6OOEueBRC2Jb7MGc3VeQmx6a3zJCCbuiSh2wCcey+F91+KRwWt2ImzwOHhS7p8D+WwGFxKQ1bU3JooeWTcmYkcGx7yD/7dn+oy0afe2aj6xJ0izthUkYnMgmmDGA8xLXMUcmyK5QY2Tx4D3fKfNo9J5A2vVNpWRBu8esQMeKFQIDAQAB",
+   "name": "Snakes",
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "1.0"
+}

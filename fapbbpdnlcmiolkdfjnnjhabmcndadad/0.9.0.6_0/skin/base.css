@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Helvetica;
+    background: white;
+    color: #333;
+    overflow-x: hidden;
+}
+
+.hidden {
+    display: none;
+}
+
+a {
+	color:#354258;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+ul {
+    list-style: none;
+    display: block;
+    padding: 0px;
+    margin: 0px;
+}
+
+.template:
+not([jstcache]) {display:none;
+}
+
+.debug {
+    display: none;
+}

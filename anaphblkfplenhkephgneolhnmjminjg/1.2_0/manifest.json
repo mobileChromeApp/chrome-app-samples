@@ -1,0 +1,18 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://ipp-google.innogames.de/?game=foe&ref=ig_goows"
+      },
+      "urls": [ "http://www.forgeofempires.com/" ]
+   },
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "icons": {
+      "128": "FoE_icon_128.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC2fBJoOK50hfv1SxwTCaXxXd2pl4qKN4V8ZODqblaI5V3qHWmAEsaqayKPde15AFcYOH2KqgENNdgjIziDqQARavUbqTXO3LOLL6FpcxqYcsVX5DBqxthmFLcEzc0xf8fKXhzu0z/4KvtY+oHWaG0HuPEKjLKr573jA0UXRm0D5QIDAQAB",
+   "name": "__MSG_appName__",
+   "permissions": [ "unlimitedStorage", "notifications" ],
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "1.2"
+}

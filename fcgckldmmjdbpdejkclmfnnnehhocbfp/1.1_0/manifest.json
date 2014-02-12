@@ -1,0 +1,17 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://www.google.com/finance/"
+      },
+      "urls": [ "*://www.google.com/finance/", "*://finance.google.com/" ]
+   },
+   "description": "Financial news, quotes, charts, and more.",
+   "icons": {
+      "128": "128.gif"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDUi92kpBwOsDtJdX6KIbwMxIneYqWimP0MyMCF/XXbl0ne5AoYKQsILbgnigH4dtPGRdCVcRc7uW01GBFMVVQzKoZj7TIshOl2jR+dNvlrCoq5e+Uw5eXf0+84UIGOdfEHGBXbrmGWIDdAzYVbzt6o3bkT61P9Fso6aW+fIdS9FQIDAQAB",
+   "name": "Google Finance",
+   "permissions": [  ],
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "1.1"
+}

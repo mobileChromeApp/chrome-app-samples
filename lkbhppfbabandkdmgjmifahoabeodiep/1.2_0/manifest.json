@@ -1,0 +1,19 @@
+{
+   "app": {
+      "background": {
+         "scripts": [ "background.js" ]
+      }
+   },
+   "description": "Solitaire is a free collection that allows you to play 9 challenge Solitaire Games.",
+   "icons": {
+      "128": "icon_128.png",
+      "16": "icon_16.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAl3Ddafm4/Ptid42+Qc2TAoySwOK5VVYveMIrIegziur6sfI3KAe9G2vNHicydRlR/2wLkrxsmhzR652pUm5xmlsH8LWOK4qu3G25tVURiu+5sybB3KYF3wCex4yzbRysmvLhmSnw/9PVAWmakQX9MGAmZcZDfGIHdlfZvJTjtA1G19Av/DIWRhnQtuCJkQdT8xH4HUPkNDPKanE4y+x/TMz3Cb/pIZP4eNcGLVEEKNPQCPzspAmJSK5p9RbXDNWgcy19sQKX9geFe1pczZn6N4QKuBtn2R24KSnDfND/Lt0sb8Qr2OCSv/ELPxKkHEVhkn3K4cjM7Cw+6SceGgO/YQIDAQAB",
+   "manifest_version": 2,
+   "name": "Solitaire",
+   "offline_enabled": true,
+   "permissions": [ "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.2"
+}

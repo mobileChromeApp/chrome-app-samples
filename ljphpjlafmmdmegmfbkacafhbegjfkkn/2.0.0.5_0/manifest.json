@@ -1,0 +1,22 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://norde.us/topelevenchromewebstore"
+      },
+      "urls": [ "http://norde.us/" ]
+   },
+   "background": {
+      "page": "https://cdn.nordeus.com/Resources/chrome/background.html"
+   },
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "icons": {
+      "128": "icon_128.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC9yyAg4sZepVpMkClbPr8XrtAosGhkScHGuGPwrN6PQ0BEKQTi6fzXVrfEZmWToTYuEBX0EWZ0IO9+QMC/nfpupZa8TB0q7iN4ZMt+7gHsh+J1C20c6XJzRwJ9HJJlCzBniRHcXIr3btap4CCGRZd9i7D86WX4UXndiGAi0D5+4wIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_appName__",
+   "permissions": [ "background" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.0.0.5"
+}

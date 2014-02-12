@@ -1,0 +1,134 @@
+{
+    "runs_as_extension": {
+        "message": "(utvidet versjon).", 
+        "description": "(extension version)."
+    }, 
+    "gallery_weather_app_features_notifications": {
+        "message": "- Sanntidsvarslinger om v\u00e6rforandringer", 
+        "description": "- Real time notifications on weather changes"
+    }, 
+    "weather_notifications_forecast_label": {
+        "message": "vis varsling p\u00e5 endringer av v\u00e6rvarsler", 
+        "description": "display notification on weather forecast change (checkbox)"
+    }, 
+    "my_favorite_places": {
+        "message": "mine favorittsteder", 
+        "description": "my favorite places"
+    }, 
+    "gallery_features_preferences": {
+        "message": "- Innstillinger for varsler og valgmuligheter", 
+        "description": "- Notifications and options preferences"
+    }, 
+    "gallery_features_search_for_places": {
+        "message": "- S\u00f8k etter by eller postkode", 
+        "description": "- Search by city or zip code"
+    }, 
+    "gallery_privacy_browsing_history": {
+        "message": "- vi lagrer IKKE nettlesingshistorikken din! Selv om tilgang til chrome.tabs API er n\u00f8dvendig, vil applikasjonen aldri kunne se eller lagre din historikk. Vennligst les http://code.google.com/chrome/extensions/permission_warnings.html#warnings for mer informasjon.", 
+        "description": "- we do NOT store your browsing history! Although access to the chrome.tabs API is required, the application will never look or save your history. Please read http://code.google.com/chrome/extensions/permission_warnings.html#warnings for more information."
+    }, 
+    "gallery_help_us_comments": {
+        "message": "- vi er glade for \u00e5 lese og svarer gjerne p\u00e5 dine kommentarer.", 
+        "description": "- we're happy to read and reply to your comments as well."
+    }, 
+    "gallery_privacy": {
+        "message": "Personvern er viktig!", 
+        "description": "Privacy matters!"
+    }, 
+    "weather_app_name": {
+        "message": "V\u00e6r", 
+        "description": "Weather"
+    }, 
+    "gallery_extensionfactory_promo": {
+        "message": "Sjekk ut v\u00e5re andre fantastiske utvidelser og web-applikasjoner p\u00e5 http://www.extensionfactory.com", 
+        "description": "Check out our other great extensions and web apps at http://www.extensionfactory.com"
+    }, 
+    "gallery_features": {
+        "message": "Egenskaper", 
+        "description": "Features (ex: list of features)"
+    }, 
+    "weather_forecast_updated_label": {
+        "message": "V\u00e6rvarsel har blitt oppdatert !", 
+        "description": "Weather forecast has been updated !"
+    }, 
+    "weather_notifications_present_label": {
+        "message": "vis varsling p\u00e5 oppdateringer av daglige v\u00e6rvarsler", 
+        "description": "display notification on daily weather updates (checkbox)"
+    }, 
+    "update": {
+        "message": "oppdater", 
+        "description": "update (news update, weather update,...)"
+    }, 
+    "temperature_unit": {
+        "message": "temperaturenhet", 
+        "description": "temperature unit (celcius, farenheit)"
+    }, 
+    "hours": {
+        "message": "timer", 
+        "description": "hours"
+    }, 
+    "notifications": {
+        "message": "varsler", 
+        "description": "notifications (desktop notifications, alerts)"
+    }, 
+    "gallery_weather_app_features_geolocation": {
+        "message": "- Umiddelbar geo-lokalisering og -plassering: f\u00e5 varsler p\u00e5 ditt spr\u00e5k", 
+        "description": "- Instant geolocation and localization: get forecasts in your language"
+    }, 
+    "gallery_help_us": {
+        "message": "Hjelp oss med \u00e5 bedre denne applikasjonen!", 
+        "description": "Help us to make this application better!"
+    }, 
+    "search": {
+        "message": "s\u00f8k", 
+        "description": "search"
+    }, 
+    "gallery_help_us_stars": {
+        "message": "- dersom du liker dette produktet, vennligst gi det en stjernevurdering :)", 
+        "description": "- if you like this product, please give it stars :)"
+    }, 
+    "extension": {
+        "message": "utvidelse", 
+        "description": "extension (browser extension, add-on)"
+    }, 
+    "gallery_weather_app_features_manage_favorites": {
+        "message": "- Rask tilgang til dine favorittsteder", 
+        "description": "- Quick access to your favorite places"
+    }, 
+    "weather_present_updated_label": {
+        "message": "Dagens v\u00e6r har blitt oppdatert !", 
+        "description": "Weather of the day has been updated !"
+    }, 
+    "gallery_privacy_personal_data": {
+        "message": "- vi sender IKKE data til tredjeparts-servere.", 
+        "description": "- we do NOT send any data to any third party servers."
+    }, 
+    "weather_extension_name": {
+        "message": "V\u00e6r (utvidelse)", 
+        "description": "__MSG_weather_app_name__ (__MSG_extension__)"
+    }, 
+    "no_results_found": {
+        "message": "Ingen resultater funnet", 
+        "description": "No results found"
+    }, 
+    "search_city_input_placeholder": {
+        "message": "Skriv inn en by eller postkode", 
+        "description": "Enter a city or zip code (default text in the search box)"
+    }, 
+    "weather_app_description": {
+        "message": "Denne applikasjonen geo-lokaliserer deg og viser v\u00e6rvarsler for ditt favorittsted ved kun ett trykk.", 
+        "description": "This application geolocates you and displays in one click your favorite location weather forecasts."
+    }, 
+    "weather_update_label": {
+        "message": "v\u00e6roppdateringsintervall", 
+        "description": "weather update interval"
+    }, 
+    "options": {
+        "message": "alternativer", 
+        "description": "options"
+    }, 
+    "remove_from_favorite_places": {
+        "message": "fjern fra mine favorittsteder", 
+        "description": "remove from my favorite places"
+    }
+}

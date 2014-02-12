@@ -1,0 +1,138 @@
+{
+   "extension": {
+      "description": "extension (browser extension, add-on)",
+      "message": "extensie"
+   },
+   "gallery_extensionfactory_promo": {
+      "description": "Check out our other great extensions and web apps at http://www.extensionfactory.com",
+      "message": "Bekijk ook zeker onze andere geweldige extensies en webapps op http://www.extensionfactory.com"
+   },
+   "gallery_features": {
+      "description": "Features (ex: list of features)",
+      "message": "Functies"
+   },
+   "gallery_features_preferences": {
+      "description": "- Notifications and options preferences",
+      "message": "- Meldingen en optievoorkeuren"
+   },
+   "gallery_features_search_for_places": {
+      "description": "- Search by city or zip code",
+      "message": "- Zoeken op stad of postcode"
+   },
+   "gallery_help_us": {
+      "description": "Help us to make this application better!",
+      "message": "Help ons deze applicatie beter te maken!"
+   },
+   "gallery_help_us_comments": {
+      "description": "- we're happy to read and reply to your comments as well.",
+      "message": "- we lezen graag je opmerking en beantwoorden ze ook."
+   },
+   "gallery_help_us_stars": {
+      "description": "- if you like this product, please give it stars :)",
+      "message": "- als je dit product leuk vindt, geef het dan enkele sterren :)"
+   },
+   "gallery_privacy": {
+      "description": "Privacy matters!",
+      "message": "Zaken over privacy!"
+   },
+   "gallery_privacy_browsing_history": {
+      "description": "- we do NOT store your browsing history! Although access to the chrome.tabs API is required, the application will never look or save your history. Please read http://code.google.com/chrome/extensions/permission_warnings.html#warnings for more information.",
+      "message": "- we slaan de surfgeschiedenis NIET op! Hoewel de API chrome.tabs is vereist, zal deze applicatie je surfgeschiedenis nooit bekijken of opslaan. Raadpleeg http://code.google.com/chrome/extensions/permission_warnings.html#warnings voor meer informatie."
+   },
+   "gallery_privacy_personal_data": {
+      "description": "- we do NOT send any data to any third party servers.",
+      "message": "- we sturen GEEN gegevens naar servers van derde partijen."
+   },
+   "gallery_weather_app_features_geolocation": {
+      "description": "- Instant geolocation and localization: get forecasts in your language",
+      "message": "- Onmiddellijke bepaling van locatie en localisatie: ontvang voorspellingen in uw taal"
+   },
+   "gallery_weather_app_features_manage_favorites": {
+      "description": "- Quick access to your favorite places",
+      "message": "- Snelle toegang tot uw favoriete plaatsen"
+   },
+   "gallery_weather_app_features_notifications": {
+      "description": "- Real time notifications on weather changes",
+      "message": "- Realtime meldingen bij weersveranderingen"
+   },
+   "hours": {
+      "description": "hours",
+      "message": "uren"
+   },
+   "my_favorite_places": {
+      "description": "my favorite places",
+      "message": "mijn favoriete plaatsen"
+   },
+   "no_results_found": {
+      "description": "No results found",
+      "message": "Geen resultaten gevonden"
+   },
+   "notifications": {
+      "description": "notifications (desktop notifications, alerts)",
+      "message": "meldingen"
+   },
+   "options": {
+      "description": "options",
+      "message": "opties"
+   },
+   "remove_from_favorite_places": {
+      "description": "remove from my favorite places",
+      "message": "verwijderen uit mijn favoriete plaatsen"
+   },
+   "runs_as_extension": {
+      "description": "(extension version).",
+      "message": "(extensieversie)."
+   },
+   "search": {
+      "description": "search",
+      "message": "zoeken"
+   },
+   "search_city_input_placeholder": {
+      "description": "Enter a city or zip code (default text in the search box)",
+      "message": "Voer een stad of postcode in"
+   },
+   "temperature_unit": {
+      "description": "temperature unit (celcius, farenheit)",
+      "message": "temperatuureenheid"
+   },
+   "update": {
+      "description": "update (news update, weather update,...)",
+      "message": "update"
+   },
+   "weather_app_description": {
+      "description": "This application geolocates you and displays in one click your favorite location weather forecasts.",
+      "message": "Deze applicatie bepaalt uw locatie en geeft met een klik de weersvoorspellingen van uw favoriete locatie weer."
+   },
+   "weather_app_name": {
+      "description": "Weather",
+      "message": "Weer"
+   },
+   "weather_extension_name": {
+      "description": "__MSG_weather_app_name__ (__MSG_extension__)",
+      "message": "Weer (extensie)"
+   },
+   "weather_forecast_updated_label": {
+      "description": "Weather forecast has been updated !",
+      "message": "Weersvoorspelling is ge\u00FCpdatet!"
+   },
+   "weather_gallery_description": {
+      "description": "",
+      "message": "De weerextensie zal u automatisch lokaliseren en de weersvoorspelling van de meest dichtstbijzijnde stad weergeven. Een browserpictogram geeft de dagelijkse weersvoorspelling en temperatuur weer."
+   },
+   "weather_notifications_forecast_label": {
+      "description": "display notification on weather forecast change (checkbox)",
+      "message": "melding geven bij verandering van de weersvoorspelling"
+   },
+   "weather_notifications_present_label": {
+      "description": "display notification on daily weather updates (checkbox)",
+      "message": "melding geven bij dagelijkse weerupdates"
+   },
+   "weather_present_updated_label": {
+      "description": "Weather of the day has been updated !",
+      "message": "Weer van de dag is ge\u00FCpdatet!"
+   },
+   "weather_update_label": {
+      "description": "weather update interval",
+      "message": "update-interval voor het weer"
+   }
+}

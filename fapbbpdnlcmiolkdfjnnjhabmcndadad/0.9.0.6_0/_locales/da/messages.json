@@ -1,0 +1,138 @@
+{
+   "extension": {
+      "description": "extension (browser extension, add-on)",
+      "message": "udvidelse"
+   },
+   "gallery_extensionfactory_promo": {
+      "description": "Check out our other great extensions and web apps at http://www.extensionfactory.com",
+      "message": "Tjek vores andre fantastiske extensions og web-applikationer p\u00E5 http://www.extensionfactory.com"
+   },
+   "gallery_features": {
+      "description": "Features (ex: list of features)",
+      "message": "Funktioner"
+   },
+   "gallery_features_preferences": {
+      "description": "- Notifications and options preferences",
+      "message": "- Pr\u00E6ference for notifikationer og funktioner"
+   },
+   "gallery_features_search_for_places": {
+      "description": "- Search by city or zip code",
+      "message": "- S\u00F8g efter by eller postnummer"
+   },
+   "gallery_help_us": {
+      "description": "Help us to make this application better!",
+      "message": "Hj\u00E6lp os med at g\u00F8re denne applikation bedre!"
+   },
+   "gallery_help_us_comments": {
+      "description": "- we're happy to read and reply to your comments as well.",
+      "message": "- vi vil v\u00E6re glade for at l\u00E6se og svare p\u00E5 dine kommentarer. "
+   },
+   "gallery_help_us_stars": {
+      "description": "- if you like this product, please give it stars :)",
+      "message": "- Hvis du kan lide dette produkt, bedes du give den stjerner:)"
+   },
+   "gallery_privacy": {
+      "description": "Privacy matters!",
+      "message": "Fortrolighed er vigtigt!"
+   },
+   "gallery_privacy_browsing_history": {
+      "description": "- we do NOT store your browsing history! Although access to the chrome.tabs API is required, the application will never look or save your history. Please read http://code.google.com/chrome/extensions/permission_warnings.html#warnings for more information.",
+      "message": "- Vi gemmer ikke din browser historie! Selvom adgangen til chrome.tabs API er p\u00E5kr\u00E6vet, vil programmet aldrig se eller gemme din historie. L\u00E6s venligst http://code.google.com/chrome/extensions/permission_warnings.html#warnings for mere information."
+   },
+   "gallery_privacy_personal_data": {
+      "description": "- we do NOT send any data to any third party servers.",
+      "message": "- Vi sender IKKE nogen data til tredjepart servere. "
+   },
+   "gallery_weather_app_features_geolocation": {
+      "description": "- Instant geolocation and localization: get forecasts in your language",
+      "message": "- \u00D8jeblikkelig Geolocation og lokalisering: F\u00E5 prognoser p\u00E5 dit sprog "
+   },
+   "gallery_weather_app_features_manage_favorites": {
+      "description": "- Quick access to your favorite places",
+      "message": "- Hurtig adgang til dine foretrukne steder "
+   },
+   "gallery_weather_app_features_notifications": {
+      "description": "- Real time notifications on weather changes",
+      "message": "- Meddelelser i realtid om vejrskift "
+   },
+   "hours": {
+      "description": "hours",
+      "message": "timer"
+   },
+   "my_favorite_places": {
+      "description": "my favorite places",
+      "message": "mine favoritsteder"
+   },
+   "no_results_found": {
+      "description": "No results found",
+      "message": "Ingen resultater fundet"
+   },
+   "notifications": {
+      "description": "notifications (desktop notifications, alerts)",
+      "message": "notifikationer"
+   },
+   "options": {
+      "description": "options",
+      "message": "indstillinger "
+   },
+   "remove_from_favorite_places": {
+      "description": "remove from my favorite places",
+      "message": "fjern fra mine favorit steder"
+   },
+   "runs_as_extension": {
+      "description": "(extension version).",
+      "message": "(udvidet version). "
+   },
+   "search": {
+      "description": "search",
+      "message": "s\u00F8g"
+   },
+   "search_city_input_placeholder": {
+      "description": "Enter a city or zip code (default text in the search box)",
+      "message": "Indtast en by eller postnummer"
+   },
+   "temperature_unit": {
+      "description": "temperature unit (celcius, farenheit)",
+      "message": "temperaturenhed "
+   },
+   "update": {
+      "description": "update (news update, weather update,...)",
+      "message": "opdatering"
+   },
+   "weather_app_description": {
+      "description": "This application geolocates you and displays in one click your favorite location weather forecasts.",
+      "message": "Denne applikation geolokaliserer dig og viser i et enkelt klik vejrudsigter for dine favoritsteder. "
+   },
+   "weather_app_name": {
+      "description": "Weather",
+      "message": "Vejr"
+   },
+   "weather_extension_name": {
+      "description": "__MSG_weather_app_name__ (__MSG_extension__)",
+      "message": "Vejr (udvidelse)"
+   },
+   "weather_forecast_updated_label": {
+      "description": "Weather forecast has been updated !",
+      "message": "Vejrudsigt er blevet opdateret!"
+   },
+   "weather_gallery_description": {
+      "description": "",
+      "message": "Vejrudvidelsen finder dig automatisk geografisk, og viser herefter vejrudsigten i den n\u00E6rmeste by. Et browser-ikon giver dig en daglig prognose og temperatur."
+   },
+   "weather_notifications_forecast_label": {
+      "description": "display notification on weather forecast change (checkbox)",
+      "message": "Vis notifikation om \u00E6ndringer i vejrudsigt"
+   },
+   "weather_notifications_present_label": {
+      "description": "display notification on daily weather updates (checkbox)",
+      "message": "vis notifikation om daglige opdateringer om vejret"
+   },
+   "weather_present_updated_label": {
+      "description": "Weather of the day has been updated !",
+      "message": "Dagens vejr er blevet opdateret!"
+   },
+   "weather_update_label": {
+      "description": "weather update interval",
+      "message": "vejropdaterings interval"
+   }
+}

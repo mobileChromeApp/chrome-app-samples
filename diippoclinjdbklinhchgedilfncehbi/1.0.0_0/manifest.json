@@ -1,0 +1,19 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://funkypotato.com/give-up/?utm_source=chrome-extension&utm_medium=icon"
+      },
+      "urls": [ "http://funkypotato.com/give-up/?utm_source=chrome-extension&utm_medium=icon" ]
+   },
+   "default_locale": "en",
+   "description": "__MSG_application_description__",
+   "icons": {
+      "128": "128icon.png",
+      "48": "48icon.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDS++7vydtZ/k490ZEccu3Tq0jOBldNphwBrM7zvZzWnoZ7ZkNRCrNaNVRGYQWliM1/XWIykecfV4IPUQ1OPRpe7tHbwiSvMYBI0sd21xiqaWWlrYnGKNXMSGWWjlM19SMOAMzBu/yNu9z9r2PUGfMBPOYz8ots3x/SmYpaUXtX7QIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_application_title__",
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "1.0.0"
+}

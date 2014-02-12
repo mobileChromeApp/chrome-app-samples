@@ -1,0 +1,138 @@
+{
+   "extension": {
+      "description": "extension (browser extension, add-on)",
+      "message": "laiendus"
+   },
+   "gallery_extensionfactory_promo": {
+      "description": "Check out our other great extensions and web apps at http://www.extensionfactory.com",
+      "message": "Tutvuge meie teiste kasulike laienduste ja veebirakendustega veebisaidil http://www.extensionfactory.com"
+   },
+   "gallery_features": {
+      "description": "Features (ex: list of features)",
+      "message": "Funktsioonid"
+   },
+   "gallery_features_preferences": {
+      "description": "- Notifications and options preferences",
+      "message": "- Teavituste ja valikute eelistused"
+   },
+   "gallery_features_search_for_places": {
+      "description": "- Search by city or zip code",
+      "message": "- Otsimine linna v\u00F5i postiindeksi j\u00E4rgi"
+   },
+   "gallery_help_us": {
+      "description": "Help us to make this application better!",
+      "message": "Aidake meil see rakendus veel paremaks muuta!"
+   },
+   "gallery_help_us_comments": {
+      "description": "- we're happy to read and reply to your comments as well.",
+      "message": "- ootame tee kommentaare ja vastame neile meeleldi."
+   },
+   "gallery_help_us_stars": {
+      "description": "- if you like this product, please give it stars :)",
+      "message": "- kui teile see toode meeldib, palun hinnake seda t\u00E4htedega :)"
+   },
+   "gallery_privacy": {
+      "description": "Privacy matters!",
+      "message": "Privaatsus on oluline!"
+   },
+   "gallery_privacy_browsing_history": {
+      "description": "- we do NOT store your browsing history! Although access to the chrome.tabs API is required, the application will never look or save your history. Please read http://code.google.com/chrome/extensions/permission_warnings.html#warnings for more information.",
+      "message": "- me EI salvesta teie sirvimise ajalugu! Kuigi juurdep\u00E4\u00E4s chrome.tabs API-le on vajalik, ei vaata ega salvesta rakendus teie ajalugu kunagi. Lisateabe saamiseks lugege http://code.google.com/chrome/extensions/permission_warnings.html#warnings."
+   },
+   "gallery_privacy_personal_data": {
+      "description": "- we do NOT send any data to any third party servers.",
+      "message": "- me EI edasta teavet kolmandate isikute serveritele."
+   },
+   "gallery_weather_app_features_geolocation": {
+      "description": "- Instant geolocation and localization: get forecasts in your language",
+      "message": "- Geograafilise asukoha kiire m\u00E4\u00E4ramine ja lokaliseerimine - saate ilmateadet lugeda eelistatud keeles"
+   },
+   "gallery_weather_app_features_manage_favorites": {
+      "description": "- Quick access to your favorite places",
+      "message": "- H\u00F5lbus juurdep\u00E4\u00E4s oma lemmikkohtadele"
+   },
+   "gallery_weather_app_features_notifications": {
+      "description": "- Real time notifications on weather changes",
+      "message": "- Reaalajas edastatavad teavitused ilmamuutuste kohta"
+   },
+   "hours": {
+      "description": "hours",
+      "message": "tunnid"
+   },
+   "my_favorite_places": {
+      "description": "my favorite places",
+      "message": "minu lemmikkohad"
+   },
+   "no_results_found": {
+      "description": "No results found",
+      "message": "Tulemusi ei leitud"
+   },
+   "notifications": {
+      "description": "notifications (desktop notifications, alerts)",
+      "message": "teavitused"
+   },
+   "options": {
+      "description": "options",
+      "message": "valikud"
+   },
+   "remove_from_favorite_places": {
+      "description": "remove from my favorite places",
+      "message": "eemalda lemmikkohtadest"
+   },
+   "runs_as_extension": {
+      "description": "(extension version).",
+      "message": "(laienduse versioon)."
+   },
+   "search": {
+      "description": "search",
+      "message": "otsing"
+   },
+   "search_city_input_placeholder": {
+      "description": "Enter a city or zip code (default text in the search box)",
+      "message": "Sisestage linn v\u00F5i postiindeks"
+   },
+   "temperature_unit": {
+      "description": "temperature unit (celcius, farenheit)",
+      "message": "temperatuuri \u00FChik"
+   },
+   "update": {
+      "description": "update (news update, weather update,...)",
+      "message": "v\u00E4rskendus"
+   },
+   "weather_app_description": {
+      "description": "This application geolocates you and displays in one click your favorite location weather forecasts.",
+      "message": "See rakendus m\u00E4\u00E4rab teie geograafilise asukoha ja kuvab soovitud piirkondade ilmaprognoosid vaid \u00FChe kl\u00F5psuga."
+   },
+   "weather_app_name": {
+      "description": "Weather",
+      "message": "Ilm"
+   },
+   "weather_extension_name": {
+      "description": "__MSG_weather_app_name__ (__MSG_extension__)",
+      "message": "Ilm (laiendus)"
+   },
+   "weather_forecast_updated_label": {
+      "description": "Weather forecast has been updated !",
+      "message": "Ilmaprognoosid on v\u00E4rskendatud!"
+   },
+   "weather_gallery_description": {
+      "description": "",
+      "message": "Laiendus Ilm m\u00E4\u00E4rab automaatselt teie geograafilise asukoha ja kuvab l\u00E4hima linna ilmateadet. Brauseriikoon n\u00E4itab igap\u00E4evast ilmateadet ja temperatuuri."
+   },
+   "weather_notifications_forecast_label": {
+      "description": "display notification on weather forecast change (checkbox)",
+      "message": "kuva teavitused ilmaprognooside muutuste kohta"
+   },
+   "weather_notifications_present_label": {
+      "description": "display notification on daily weather updates (checkbox)",
+      "message": "kuva teavitused igap\u00E4evaste ilmateadete kohta"
+   },
+   "weather_present_updated_label": {
+      "description": "Weather of the day has been updated !",
+      "message": "T\u00E4nane ilmateade on v\u00E4rskendatud!"
+   },
+   "weather_update_label": {
+      "description": "weather update interval",
+      "message": "ilmateate v\u00E4rskendamise intervall"
+   }
+}

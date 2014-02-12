@@ -1,0 +1,52 @@
+<!DOCTYPE HTML>
+<html>
+    <head><script src="../lib/sf/loader.js" type="text/javascript"></script>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <title i18n-content="weather_app_name"></title>
+        
+        <script src="../lib/chrome/lib.js"></script>
+        <script src="../lib/jquery/lib.js"></script>
+        <script src="chrome.js"></script>
+        <script src="notification.js"></script>
+        <link rel="stylesheet" type="text/css" href="../skin/notification.css">
+    </head>
+    <body class="loading">
+        <div>
+            <div id="notification-header">
+                <div i18n-content="weather_forecast_updated_label" class="update_message" jsdisplay="nextdays">
+                    Weather forecast has been updated !
+                </div>
+                <span i18n-content="weather_present_updated_label" jsdisplay="today">Current weather has been updated !</span>
+            </div>
+            <div class="city" jscontent="place.city"></div>
+            <table>
+                <tr class="template"  >
+                    <td class="forecast-image" ><img jsvalues=".src:forecast.image" jsdisplay="forecast.image" alt=""  class="forecast-image" ></td>
+                    <td class="forecast-description"><div class="forecast-day"  jscontent="forecast.day" jsdisplay="forecast.day"></div><div class="forecast-conditions" jsdisplay="forecast.description" jscontent="forecast.description"></div>
+                    <div>
+                        <div id="current-wind" jsdisplay="forecast.wind" jscontent="forecast.wind"></div><div id="current-humidity" jsdisplay="forecast.humidity" jscontent="forecast.humidity"></div>
+                    </div></td>
+                    <td class="forecast-temperatures">
+                    <div jsdisplay="today" id="current-temperature">
+                        <span jscontent="forecast.temperature" class="temperature"></span><span jscontent="forecast.unit" class="unit"></span>
+                    </div>
+                    <div jsdisplay="nextdays">
+                        <span jscontent="forecast.temperature.min" class="temperature"></span><span jscontent="forecast.unit" class="unit"></span>
+                    </div>
+                    <div jsdisplay="nextdays">
+                        <span jscontent="forecast.temperature.max" class="temperature"></span><span jscontent="forecast.unit" class="unit"></span>
+                    </div></td>
+                </tr>
+            </table>
+        </div>
+        <div data-sf-ad-slot-name="notification"></div>
+        <div id="controls">
+            <label jsdisplay="nextdays">
+                <input type="checkbox" name="notification_forecast" checked="true">
+                <span i18n-title="weather_notifications_forecast_label" i18n-content="weather_notifications_forecast_label">show weather forecast update</span> </label>
+            <label jsdisplay="today">
+                <input type="checkbox" name="notification_present"  checked="true">
+                <span  i18n-title="weather_notifications_present_label" i18n-content="weather_notifications_present_label">show current weather  update<</span> </label>
+        </div>
+    </body>
+</html>

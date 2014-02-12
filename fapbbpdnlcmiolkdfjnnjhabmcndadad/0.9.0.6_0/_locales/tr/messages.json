@@ -1,0 +1,138 @@
+{
+   "extension": {
+      "description": "extension (browser extension, add-on)",
+      "message": "uzant\u0131"
+   },
+   "gallery_extensionfactory_promo": {
+      "description": "Check out our other great extensions and web apps at http://www.extensionfactory.com",
+      "message": "http://www.extensionfactory.com adresindeki di\u011Fer m\u00FCkemmel uzant\u0131lar\u0131m\u0131z\u0131 ve web uygulamalar\u0131m\u0131z\u0131 se\u00E7ip al\u0131n "
+   },
+   "gallery_features": {
+      "description": "Features (ex: list of features)",
+      "message": "\u00D6zellikler"
+   },
+   "gallery_features_preferences": {
+      "description": "- Notifications and options preferences",
+      "message": "- Bildirim ve se\u00E7enek tercihleri"
+   },
+   "gallery_features_search_for_places": {
+      "description": "- Search by city or zip code",
+      "message": "- \u015Eehir veya zip koduna g\u00F6re ara"
+   },
+   "gallery_help_us": {
+      "description": "Help us to make this application better!",
+      "message": "Bu uygulamay\u0131 daha iyi hale getirebilmemizi sa\u011Flay\u0131n!"
+   },
+   "gallery_help_us_comments": {
+      "description": "- we're happy to read and reply to your comments as well.",
+      "message": "- yorumlar\u0131n\u0131z\u0131 okudu\u011Fumuz ve ayr\u0131ca yan\u0131tlad\u0131\u011F\u0131m\u0131z i\u00E7in memnunuz. "
+   },
+   "gallery_help_us_stars": {
+      "description": "- if you like this product, please give it stars :)",
+      "message": "- bu \u00FCr\u00FCn\u00FC sevdiyseniz, l\u00FCtfen y\u0131ld\u0131z verin :)"
+   },
+   "gallery_privacy": {
+      "description": "Privacy matters!",
+      "message": "Gizlilik sorunlar\u0131!"
+   },
+   "gallery_privacy_browsing_history": {
+      "description": "- we do NOT store your browsing history! Although access to the chrome.tabs API is required, the application will never look or save your history. Please read http://code.google.com/chrome/extensions/permission_warnings.html#warnings for more information.",
+      "message": "-tarama ge\u00E7mi\u015Finizi KAYDEDEM\u0130YORUZ! chrome.tabs API eri\u015Fimi gerekli olmas\u0131na kar\u015F\u0131n, uygulama asla g\u00F6r\u00FCnmeyecek veya ge\u00E7mi\u015Finizi kaydetmeyecektir. Daha fazla bilgi i\u00E7in l\u00FCtfen http://code.google.com/chrome/extensions/permission_warnings.html#warnings adresindeki bilgileri okuyun."
+   },
+   "gallery_privacy_personal_data": {
+      "description": "- we do NOT send any data to any third party servers.",
+      "message": "-hi\u00E7bir \u00FC\u00E7\u00FCnc\u00FC \u015Fah\u0131s sunucusuna hi\u00E7bir veri G\u00D6NDERM\u0130YORUZ."
+   },
+   "gallery_weather_app_features_geolocation": {
+      "description": "- Instant geolocation and localization: get forecasts in your language",
+      "message": "- Anl\u0131k konum belirleme ve lokalizasyon: tahminleri kendi dilinizde al\u0131n"
+   },
+   "gallery_weather_app_features_manage_favorites": {
+      "description": "- Quick access to your favorite places",
+      "message": "- S\u0131k arad\u0131\u011F\u0131n\u0131z yerlere h\u0131zl\u0131 eri\u015Fim"
+   },
+   "gallery_weather_app_features_notifications": {
+      "description": "- Real time notifications on weather changes",
+      "message": "- Hava durumu de\u011Fi\u015Fiklikleri konusunda ger\u00E7ek zamanl\u0131 bildirimler "
+   },
+   "hours": {
+      "description": "hours",
+      "message": "saat"
+   },
+   "my_favorite_places": {
+      "description": "my favorite places",
+      "message": "s\u0131k arad\u0131\u011F\u0131m yerler"
+   },
+   "no_results_found": {
+      "description": "No results found",
+      "message": "Hi\u00E7 sonu\u00E7 bulunamad\u0131"
+   },
+   "notifications": {
+      "description": "notifications (desktop notifications, alerts)",
+      "message": "bildirimler"
+   },
+   "options": {
+      "description": "options",
+      "message": "se\u00E7enekler"
+   },
+   "remove_from_favorite_places": {
+      "description": "remove from my favorite places",
+      "message": "s\u0131k kulland\u0131\u011F\u0131m yerlerden kald\u0131r"
+   },
+   "runs_as_extension": {
+      "description": "(extension version).",
+      "message": "(uzant\u0131 s\u00FCr\u00FCm\u00FC)."
+   },
+   "search": {
+      "description": "search",
+      "message": "ara"
+   },
+   "search_city_input_placeholder": {
+      "description": "Enter a city or zip code (default text in the search box)",
+      "message": "Bir \u015Fehir veya zip kodu gir"
+   },
+   "temperature_unit": {
+      "description": "temperature unit (celcius, farenheit)",
+      "message": "s\u0131cakl\u0131k birimi"
+   },
+   "update": {
+      "description": "update (news update, weather update,...)",
+      "message": "g\u00FCncelleme"
+   },
+   "weather_app_description": {
+      "description": "This application geolocates you and displays in one click your favorite location weather forecasts.",
+      "message": "Bu uygulama, konumunuzu belirler ve tek bir t\u0131klama ile s\u0131k arad\u0131\u011F\u0131n\u0131z yerin hava tahminlerini g\u00F6sterir."
+   },
+   "weather_app_name": {
+      "description": "Weather",
+      "message": "Hava durumu"
+   },
+   "weather_extension_name": {
+      "description": "__MSG_weather_app_name__ (__MSG_extension__)",
+      "message": "Hava durumu (uzant\u0131)"
+   },
+   "weather_forecast_updated_label": {
+      "description": "Weather forecast has been updated !",
+      "message": "Hava tahmini g\u00FCncellendi!"
+   },
+   "weather_gallery_description": {
+      "description": "",
+      "message": "Weather extension, otomatik olarak co\u011Frafi konumunuzu belirleyerek en yak\u0131n \u015Fehrin hava durumu tahminlerini g\u00F6sterir. Taray\u0131c\u0131 simgesi, g\u00FCnl\u00FCk hava durumu tahminleri ile hava s\u0131cakl\u0131klar\u0131n\u0131 g\u00F6sterir."
+   },
+   "weather_notifications_forecast_label": {
+      "description": "display notification on weather forecast change (checkbox)",
+      "message": "hava tahmini de\u011Fi\u015Fikli\u011Fi ile ilgili bildirimi g\u00F6ster"
+   },
+   "weather_notifications_present_label": {
+      "description": "display notification on daily weather updates (checkbox)",
+      "message": "G\u00FCnl\u00FCk hava durumu g\u00FCncellemeleri ile ilgili bildirimi g\u00F6ster"
+   },
+   "weather_present_updated_label": {
+      "description": "Weather of the day has been updated !",
+      "message": "G\u00FCn\u00FCn hava durumu g\u00FCncellendi!"
+   },
+   "weather_update_label": {
+      "description": "weather update interval",
+      "message": "hava durumu g\u00FCncelleme aral\u0131\u011F\u0131"
+   }
+}

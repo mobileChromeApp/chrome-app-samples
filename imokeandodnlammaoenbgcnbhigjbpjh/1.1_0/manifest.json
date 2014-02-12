@@ -1,0 +1,19 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://ipiccy.com/"
+      },
+      "urls": [ "http://ipiccy.com/" ]
+   },
+   "description": "iPiccy makes your photo awesome with many easy to use photo tools. Edit pictures, apply beautiful photo effects, add text and paint!",
+   "icons": {
+      "128": "icon_128b.png",
+      "16": "icon_16.png",
+      "96": "icon_96.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCzPqysy028iYj2B4Q1Pp0yFJGkM4BPryHm4UwXWV7wWIhXLX3gfoPQlhgHco2gWBg7+228KzqHhTXWVFrbNFXQrPD/YsxiVYY3ekxyLRgE9Mbyj9seDSe9qETo8zJplnJs1jUaId9BFSuieMMUtcIzRhdOxOz8MzSx3I/k7lRLEwIDAQAB",
+   "name": "iPiccy Photo Editor",
+   "permissions": [ "unlimitedStorage", "notifications" ],
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "1.1"
+}

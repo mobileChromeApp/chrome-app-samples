@@ -1,0 +1,20 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://www.freefinegames.com/default-category/papas-cupcakeria"
+      },
+      "urls": [ "http://www.freefinegames.com/default-category/papas-cupcakeria" ]
+   },
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "icons": {
+      "128": "128.png",
+      "24": "24.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCwztIffzhrHBPkJf7s99lQ3pyIlF8jizAfKt9MKjjPe4lpann0HyypK8+9sRdd25Ll1lqPY9xAvjEA9MsQ4771VcCv3UN8OdNdeivTSG/GLU8fLP8pH4Sa6QDQ9yD0d7WNP1bIRnql/vae4xAgHCGarREhH3PFdzCKJFhkiO6kcwIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_appName__",
+   "permissions": [ "unlimitedStorage", "notifications" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.1"
+}

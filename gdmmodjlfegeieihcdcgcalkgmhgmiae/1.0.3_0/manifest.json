@@ -1,0 +1,22 @@
+{
+   "app": {
+      "background": {
+         "scripts": [ "background.js" ]
+      }
+   },
+   "icons": {
+      "128": "icon_128_rounded.png",
+      "16": "icon_16_rounded.png",
+      "48": "icon_48_rounded.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCrxKWVgqj7TOcO9hKq6hrf+aU/7MN3hgK9XhyADvmTjvis/+9Mtw8jPCyv2XEzPc3oEIkNxNqjfm+boHFFI7pl6o/fXM8/WuqowAZUo0Rr77H3NNkbu6tasFsUyqP/lj7KYl/6ZNdk/Qi1xjLrYoLLUxWyjKso9ZdbbWf0uew+rwIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "25",
+   "name": "Tank Riders",
+   "offline_enabled": true,
+   "permissions": [ "unlimitedStorage", {
+      "socket": [ "tcp-connect" ]
+   }, "fullscreen" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.3"
+}

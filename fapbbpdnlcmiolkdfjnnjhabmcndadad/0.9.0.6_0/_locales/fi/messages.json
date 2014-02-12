@@ -1,0 +1,138 @@
+{
+   "extension": {
+      "description": "extension (browser extension, add-on)",
+      "message": "laajennus"
+   },
+   "gallery_extensionfactory_promo": {
+      "description": "Check out our other great extensions and web apps at http://www.extensionfactory.com",
+      "message": "Tutustu muihin hienoihin laajennuksiimme ja nettisovelluksiimme osoitteessa http://www.extensionfactory.com"
+   },
+   "gallery_features": {
+      "description": "Features (ex: list of features)",
+      "message": "Ominaisuudet"
+   },
+   "gallery_features_preferences": {
+      "description": "- Notifications and options preferences",
+      "message": "- Ilmoituksien ja vaihtoehtojen asetukset"
+   },
+   "gallery_features_search_for_places": {
+      "description": "- Search by city or zip code",
+      "message": "- Etsi paikkakunnalla tai postinumerolla"
+   },
+   "gallery_help_us": {
+      "description": "Help us to make this application better!",
+      "message": "Auta meit\u00E4 parantamaan t\u00E4t\u00E4 sovellusta!"
+   },
+   "gallery_help_us_comments": {
+      "description": "- we're happy to read and reply to your comments as well.",
+      "message": "- Olemme iloisia voidessamme lukea kommenttejasi sek\u00E4 vastata niihin."
+   },
+   "gallery_help_us_stars": {
+      "description": "- if you like this product, please give it stars :)",
+      "message": "- Jos pid\u00E4t t\u00E4st\u00E4 tuotteesta, anna sille t\u00E4hti\u00E4 :)"
+   },
+   "gallery_privacy": {
+      "description": "Privacy matters!",
+      "message": "Yksityisyys on t\u00E4rke\u00E4\u00E4!"
+   },
+   "gallery_privacy_browsing_history": {
+      "description": "- we do NOT store your browsing history! Although access to the chrome.tabs API is required, the application will never look or save your history. Please read http://code.google.com/chrome/extensions/permission_warnings.html#warnings for more information.",
+      "message": "- EMME s\u00E4ilyt\u00E4 selaushistoriaasi! Vaikka vaaditaan p\u00E4\u00E4sy chrome.tabs API:iin, sovellus ei ikin\u00E4 tarkastele tai tallenna historiaasi. Lue http://code.google.com/chrome/extensions/permission_warnings.html#warnings saadaksesi lis\u00E4tietoja."
+   },
+   "gallery_privacy_personal_data": {
+      "description": "- we do NOT send any data to any third party servers.",
+      "message": "- EMME l\u00E4het\u00E4 dataa kolmannen osapuolen palvelimille."
+   },
+   "gallery_weather_app_features_geolocation": {
+      "description": "- Instant geolocation and localization: get forecasts in your language",
+      "message": "- V\u00E4lit\u00F6n paikannus ja lokalisaatio: saat ennusteet omalla kielell\u00E4si"
+   },
+   "gallery_weather_app_features_manage_favorites": {
+      "description": "- Quick access to your favorite places",
+      "message": "- Nopea p\u00E4\u00E4sy suosikkipaikkoihisi"
+   },
+   "gallery_weather_app_features_notifications": {
+      "description": "- Real time notifications on weather changes",
+      "message": "- Reaaliaikaiset ilmoitukset s\u00E4\u00E4n muutoksista"
+   },
+   "hours": {
+      "description": "hours",
+      "message": "tuntia"
+   },
+   "my_favorite_places": {
+      "description": "my favorite places",
+      "message": "suosikkipaikkani"
+   },
+   "no_results_found": {
+      "description": "No results found",
+      "message": "Tuloksia ei l\u00F6ydy "
+   },
+   "notifications": {
+      "description": "notifications (desktop notifications, alerts)",
+      "message": "ilmoitukset"
+   },
+   "options": {
+      "description": "options",
+      "message": "vaihtoehdot"
+   },
+   "remove_from_favorite_places": {
+      "description": "remove from my favorite places",
+      "message": "poista suosikkipaikoistani"
+   },
+   "runs_as_extension": {
+      "description": "(extension version).",
+      "message": "(lis\u00E4yksen versio)."
+   },
+   "search": {
+      "description": "search",
+      "message": "haku"
+   },
+   "search_city_input_placeholder": {
+      "description": "Enter a city or zip code (default text in the search box)",
+      "message": "sy\u00F6t\u00E4 paikkakunta tai postinumero"
+   },
+   "temperature_unit": {
+      "description": "temperature unit (celcius, farenheit)",
+      "message": "l\u00E4mp\u00F6tilayksikk\u00F6"
+   },
+   "update": {
+      "description": "update (news update, weather update,...)",
+      "message": "p\u00E4ivitys"
+   },
+   "weather_app_description": {
+      "description": "This application geolocates you and displays in one click your favorite location weather forecasts.",
+      "message": "T\u00E4m\u00E4 sovellus etsii sijaintisi ja n\u00E4ytt\u00E4\u00E4 yhdell\u00E4 n\u00E4ps\u00E4ytyksell\u00E4 suosikkipaikkasi s\u00E4\u00E4ennustukset."
+   },
+   "weather_app_name": {
+      "description": "Weather",
+      "message": "S\u00E4\u00E4"
+   },
+   "weather_extension_name": {
+      "description": "__MSG_weather_app_name__ (__MSG_extension__)",
+      "message": "S\u00E4\u00E4 (laajennus)"
+   },
+   "weather_forecast_updated_label": {
+      "description": "Weather forecast has been updated !",
+      "message": "S\u00E4\u00E4ennustus on p\u00E4ivitetty!"
+   },
+   "weather_gallery_description": {
+      "description": "",
+      "message": "S\u00E4\u00E4lis\u00E4osa tunnistaa sijaintisi automaattisesti ja n\u00E4ytt\u00E4\u00E4 l\u00E4himm\u00E4n kaupungin s\u00E4\u00E4ennusteen. Kuvake selaimessa n\u00E4ytt\u00E4\u00E4 p\u00E4ivitt\u00E4isen s\u00E4\u00E4ennusteen ja l\u00E4mp\u00F6tilan."
+   },
+   "weather_notifications_forecast_label": {
+      "description": "display notification on weather forecast change (checkbox)",
+      "message": "n\u00E4yt\u00E4 ilmoitus kun s\u00E4\u00E4ennustus muuttuu"
+   },
+   "weather_notifications_present_label": {
+      "description": "display notification on daily weather updates (checkbox)",
+      "message": "n\u00E4yt\u00E4 p\u00E4ivitt\u00E4isten s\u00E4\u00E4p\u00E4ivitysten ilmoitus"
+   },
+   "weather_present_updated_label": {
+      "description": "Weather of the day has been updated !",
+      "message": "P\u00E4iv\u00E4n s\u00E4\u00E4 on p\u00E4ivitetty!"
+   },
+   "weather_update_label": {
+      "description": "weather update interval",
+      "message": "S\u00E4\u00E4n p\u00E4ivityksen v\u00E4li"
+   }
+}

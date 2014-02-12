@@ -1,0 +1,138 @@
+{
+   "extension": {
+      "description": "extension (browser extension, add-on)",
+      "message": "Extensi\u00F3"
+   },
+   "gallery_extensionfactory_promo": {
+      "description": "Check out our other great extensions and web apps at http://www.extensionfactory.com",
+      "message": "Feu una ullada a altres magn\u00EDfiques extensions per al navegador i aplicacions web a http://www.extensionfactory.com"
+   },
+   "gallery_features": {
+      "description": "Features (ex: list of features)",
+      "message": "Funcions"
+   },
+   "gallery_features_preferences": {
+      "description": "- Notifications and options preferences",
+      "message": "- Notificacions i prefer\u00E8ncies de les opcions"
+   },
+   "gallery_features_search_for_places": {
+      "description": "- Search by city or zip code",
+      "message": "- Cerca per ciutat o codi postal"
+   },
+   "gallery_help_us": {
+      "description": "Help us to make this application better!",
+      "message": "Ajudeu-nos a millorar aquesta aplicaci\u00F3!"
+   },
+   "gallery_help_us_comments": {
+      "description": "- we're happy to read and reply to your comments as well.",
+      "message": "- Ens encantar\u00E0 llegir i respondre els vostres comentaris."
+   },
+   "gallery_help_us_stars": {
+      "description": "- if you like this product, please give it stars :)",
+      "message": "- Si us agrada aquest producte, doneu-li estrelles :)"
+   },
+   "gallery_privacy": {
+      "description": "Privacy matters!",
+      "message": "Q\u00FCesti\u00F3 de seguretat!"
+   },
+   "gallery_privacy_browsing_history": {
+      "description": "- we do NOT store your browsing history! Although access to the chrome.tabs API is required, the application will never look or save your history. Please read http://code.google.com/chrome/extensions/permission_warnings.html#warnings for more information.",
+      "message": "- NO es guardar\u00E0 l'historial de navegaci\u00F3! Encara que cal accedir a l'API chrome.tabs, l'aplicaci\u00F3 mai veur\u00E0 ni guardar\u00E0 l'historial. Per a m\u00E9s informaci\u00F3, visiteu http://code.google.com/chrome/extensions/permission_warnings.html#warnings."
+   },
+   "gallery_privacy_personal_data": {
+      "description": "- we do NOT send any data to any third party servers.",
+      "message": "- No s'enviar\u00E0 cap dada a servidors de tercers."
+   },
+   "gallery_weather_app_features_geolocation": {
+      "description": "- Instant geolocation and localization: get forecasts in your language",
+      "message": "- Geolocalitzaci\u00F3 instant\u00E0nia i localitzaci\u00F3: obteniu les previsions en el vostre idioma"
+   },
+   "gallery_weather_app_features_manage_favorites": {
+      "description": "- Quick access to your favorite places",
+      "message": "- Acc\u00E9s r\u00E0pid als llocs favorits"
+   },
+   "gallery_weather_app_features_notifications": {
+      "description": "- Real time notifications on weather changes",
+      "message": "- Notificacions en temps real sobre els canvis del temps"
+   },
+   "hours": {
+      "description": "hours",
+      "message": "hores"
+   },
+   "my_favorite_places": {
+      "description": "my favorite places",
+      "message": "Llocs favorits"
+   },
+   "no_results_found": {
+      "description": "No results found",
+      "message": "No s'han trobat resultats"
+   },
+   "notifications": {
+      "description": "notifications (desktop notifications, alerts)",
+      "message": "Notificacions"
+   },
+   "options": {
+      "description": "options",
+      "message": "Opcions"
+   },
+   "remove_from_favorite_places": {
+      "description": "remove from my favorite places",
+      "message": "Eliminar dels meus llocs preferits"
+   },
+   "runs_as_extension": {
+      "description": "(extension version).",
+      "message": "(versi\u00F3 de l'extensi\u00F3 per al navegador)."
+   },
+   "search": {
+      "description": "search",
+      "message": "Cerca"
+   },
+   "search_city_input_placeholder": {
+      "description": "Enter a city or zip code (default text in the search box)",
+      "message": "Escriviu una ciutat o un codi postal"
+   },
+   "temperature_unit": {
+      "description": "temperature unit (celcius, farenheit)",
+      "message": "Unitat de temperatura"
+   },
+   "update": {
+      "description": "update (news update, weather update,...)",
+      "message": "Actualitzar"
+   },
+   "weather_app_description": {
+      "description": "This application geolocates you and displays in one click your favorite location weather forecasts.",
+      "message": "Aquesta aplicaci\u00F3 us geolocalitza i mostra amb un clic els pron\u00F2stics del temps de la vostra ubicaci\u00F3 favorita."
+   },
+   "weather_app_name": {
+      "description": "Weather",
+      "message": "El temps"
+   },
+   "weather_extension_name": {
+      "description": "__MSG_weather_app_name__ (__MSG_extension__)",
+      "message": "El temps (Extensi\u00F3)"
+   },
+   "weather_forecast_updated_label": {
+      "description": "Weather forecast has been updated !",
+      "message": "El pron\u00F3stic del temps s'ha actualitzat!"
+   },
+   "weather_gallery_description": {
+      "description": "",
+      "message": "L'aplicaci\u00F3 El temps et geolocalitzar\u00E0 autom\u00E0ticament i et mostrar\u00E0 la previsi\u00F3 del temps de la ciutat m\u00E9s propera. Una icona al teu navegador t'indica la previsi\u00F3 i temperatura di\u00E0ries."
+   },
+   "weather_notifications_forecast_label": {
+      "description": "display notification on weather forecast change (checkbox)",
+      "message": "Mostrar una notificaci\u00F3 si canvia el pron\u00F2stic del temps"
+   },
+   "weather_notifications_present_label": {
+      "description": "display notification on daily weather updates (checkbox)",
+      "message": "Mostrar una notificaci\u00F3 en les actualitzacions di\u00E0ries del temps"
+   },
+   "weather_present_updated_label": {
+      "description": "Weather of the day has been updated !",
+      "message": "El temps del dia s'ha actualitzat!"
+   },
+   "weather_update_label": {
+      "description": "weather update interval",
+      "message": "Interval d'actualitzaci\u00F3 del temps"
+   }
+}

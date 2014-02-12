@@ -1,0 +1,14 @@
+{
+   "appDesc": {
+      "description": "Take pictures online using your webcam. Add amazing webcam effects.",
+      "message": "Take pictures online with webcam. Add amazing webcam effects and publish on your facebook or save on your computer."
+   },
+   "appName": {
+      "description": "Pixect",
+      "message": "Pixect"
+   },
+   "launch_url": {
+      "description": "http://www.pixect.com/",
+      "message": "http://www.pixect.com/"
+   }
+}

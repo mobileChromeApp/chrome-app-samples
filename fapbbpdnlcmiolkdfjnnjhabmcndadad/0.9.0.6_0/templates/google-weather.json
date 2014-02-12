@@ -1,0 +1,70 @@
+{
+	"_selector" : "weather",
+	"unitSystem" : {
+		"_selector" : "forecast_information>unit_system",
+		"_value" : "[data]"
+	},
+	"problemCause" : {
+		"_selector" : "problem_cause",
+		"_value" : "[data]"
+	},
+	"current" : {
+		"_selector" : "current_conditions",
+		"icon" : {
+			"_selector" : "icon",
+			"_value" : "[data]"
+		},
+		"conditions" : {
+			"_selector" : "condition",
+			"_value" : "[data]"
+		},
+		"temperature" : {
+			"_selector" : "temp_c",
+			"_value" : "[data]"
+		},
+		"temperatureC" : {
+			"_selector" : "temp_c",
+			"_value" : "[data]"
+		},
+		"temperatureF" : {
+			"_selector" : "temp_f",
+			"_value" : "[data]"
+		},
+		"humidity" : {
+			"_selector" : "humidity",
+			"_value" : "[data]"
+		},
+		"wind" : {
+			"_selector" : "wind_condition",
+			"_value" : "[data]"
+		},
+		"day" : {
+			"_selector" : "forecast_information>forecast_date",
+			"_absolute":true,
+			"_value" : "[data]"
+		}
+	},
+	"forecast" : [{
+				"_selector" : "forecast_conditions",
+				"dayOfWeek" : {
+					"_selector" : "day_of_week",
+					"_value" : "[data]"
+				},
+				"low" : {
+					"_selector" : "low",
+					"_value" : "[data]"
+				},
+				"high" : {
+					"_selector" : "high",
+					"_value" : "[data]"
+				},
+				"icon" : {
+					"_selector" : "icon",
+					"_value" : "[data]"
+				},
+				"conditions" : {
+					"_selector" : "condition",
+					"_value" : "[data]"
+				}
+			}]
+}

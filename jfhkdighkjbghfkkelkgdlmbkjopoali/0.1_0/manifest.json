@@ -1,0 +1,16 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://bestfreewebapps.com/craigslist/"
+      }
+   },
+   "description": "Local classifieds and forums - community moderated, and largely free.",
+   "icons": {
+      "128": "icon128x128.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDgx+XbmAeKao2Ho/SugQIErfJj+nvQN5m9inOUgPD7z+opTkhvRu1lI/D/pFbg2SvmjCyF37Az1V8y+mjfZgDvRrv7s5xxD4ElYVEKxQNWzrsX3gPrKC8iUdZ0fZzbNjyiE6JTcSwjfQXCpnoqJj3jic2pyHCveiVTuGARcW63NQIDAQAB",
+   "manifest_version": 2,
+   "name": "Craigslist",
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "0.1"
+}

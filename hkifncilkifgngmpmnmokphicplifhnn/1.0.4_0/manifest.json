@@ -1,0 +1,17 @@
+{
+   "app": {
+      "launch": {
+         "local_path": "index.html"
+      }
+   },
+   "description": "The Times of India, complete and up-to-date, optimized for Google Chrome.",
+   "icons": {
+      "128": "icon128.png",
+      "16": "icon16.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC55vMj/Sw+vJEJGh9IOqnSiJ8duX+AUOcWCm7/mJf/U69FUcTee+boLxf90UBUe9rjUxRXucaASGrD+5LG5U91+v7CeqAxg561RCda8ilk9L2DzhwCRmnMWJBa85SPFE+Bce2yD+2AW7tBBs/wxU4u6ZZmbmIWI1clZSFYyW2iXQIDAQAB",
+   "name": "The Times of India",
+   "permissions": [ "http://mfeeds.timesofindia.indiatimes.com/Feeds/", "http://mvideos.timesofindia.indiatimes.com/videos" ],
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "1.0.4"
+}

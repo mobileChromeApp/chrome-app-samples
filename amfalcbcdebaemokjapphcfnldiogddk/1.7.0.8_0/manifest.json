@@ -1,0 +1,25 @@
+{
+   "app": {
+      "launch": {
+         "local_path": "index.html"
+      }
+   },
+   "content_security_policy": "script-src 'self' 'unsafe-eval' https://www.google.com https://checkout.google.com https://running-fred-auth.appspot.com https://black-lord.appspot.com https://running-fred-nacl.appspot.com; object-src 'self'",
+   "description": "The best runner game of Chrome Web Store!",
+   "icons": {
+      "128": "icon128.png",
+      "16": "icon16.png",
+      "48": "icon48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDGcnKNqeymUauIknf1lUvYH9Hr7bRt0VNfjWHlAXHTiNHg6GuvyaHaMfi3Q/7dBIjaQWV0hXi9I6XDxPB0cH1PZ3GXOFlAtEWxlYDnzKKGdGSUPLDO7TlsApm07pf2eH20n7hQkawHYcT0Lc/00uFBJnME5/kVtCiloeDDBoJCBQIDAQAB",
+   "manifest_version": 2,
+   "name": "Running Fred",
+   "permissions": [ "unlimitedStorage" ],
+   "requirements": {
+      "3D": {
+         "features": [ "css3d", "webgl" ]
+      }
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.7.0.8"
+}

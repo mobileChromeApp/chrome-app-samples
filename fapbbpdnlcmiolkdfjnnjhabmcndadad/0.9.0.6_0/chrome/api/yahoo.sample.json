@@ -1,0 +1,65 @@
+{
+    "units" : {
+        "temperature" : "C",
+        "speed" : "km/h",
+        "distance" : "km",
+        "pressure" : "mb"
+    },
+    "location" : {
+        "location_id" : "FRXX1725",
+        "city" : "Chateauneuf-Grasse",
+        "state_abbreviation" : "PA",
+        "country_abbreviation" : "FR",
+        "elevation" : "846",
+        "latitude" : "43.67",
+        "longitude" : "6.98"
+    },
+    "wind" : {
+        "speed" : 3,
+        "direction" : "VAR"
+    },
+    "atmosphere" : {
+        "humidity" : "69",
+        "visibility" : 9.99,
+        "pressure" : 1016,
+        "rising" : "steady"
+    },
+    "url" : "http://weather.yahoo.com/forecast/FRXX1725.html",
+    "logo" : "http://l.yimg.com/a/i/us/nt/ma/ma_nws-we_1.gif",
+    "astronomy" : {
+        "sunrise" : "07:02",
+        "sunset" : "19:56"
+    },
+    "condition" : {
+        "text" : "Fair",
+        "code" : "33",
+        "image" : "http://l.yimg.com/a/i/us/we/52/33.gif",
+        "temperature" : 22
+    },
+    "forecast" : [{
+        "day" : "Today",
+        "condition" : "Clear",
+        "high_temperature" : 26,
+        "low_temperature" : 16
+    }, {
+        "day" : "Tomorrow",
+        "condition" : "Sunny",
+        "high_temperature" : 26,
+        "low_temperature" : 16
+    }, {
+        "day" : "Sunday",
+        "condition" : "Mostly Sunny",
+        "high_temperature" : 25,
+        "low_temperature" : 14
+    }, {
+        "day" : "Monday",
+        "condition" : "Mostly Sunny",
+        "high_temperature" : 24,
+        "low_temperature" : 14
+    }, {
+        "day" : "Tuesday",
+        "condition" : "Sunny",
+        "high_temperature" : 24,
+        "low_temperature" : 14
+    }]
+}

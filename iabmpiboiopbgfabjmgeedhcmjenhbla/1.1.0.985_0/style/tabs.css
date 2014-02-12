@@ -1,0 +1,33 @@
+html, body
+{
+  height: 100%;
+  width: 100%;
+  margin: 0;
+}
+
+iframe
+{
+  height: 100%;
+  width: 100%;
+  margin: 0 auto;
+}
+
+#page
+{
+  height: 100%;
+  width: 100%;
+}
+
+#content
+{
+  position: absolute;
+  top: 36px;
+  bottom: 0;
+  width: 100%;
+}
+
+#content.fullscreen
+{
+  top: 0;
+  height: 100%;
+}
