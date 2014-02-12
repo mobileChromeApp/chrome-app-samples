@@ -1,5 +1,8 @@
 # Chrome Apps samples
 
+Shell command calculate the number of file in folder: 
+ls -1 | grep -v '/$' | wc -l
+
 Official samples for Chrome Apps platform. If you want to learn about the platform, you can:
 
 1. look at the source code of the samples below. Most samples have a "Try it now" button that allows you to install and play with it.
